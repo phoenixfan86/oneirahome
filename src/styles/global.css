@@ -386,6 +386,16 @@ article h2 {
 	}
 }
 
+.f-nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	list-style: none;
+	& a {
+	}
+}
+
 .top-btn {
 	position: fixed;
 	bottom: 10px;
