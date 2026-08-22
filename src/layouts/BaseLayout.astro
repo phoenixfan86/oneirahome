@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro'
 import Sidebar from '../components/Sidebar.astro';
 import Tagbadge from '../components/TagBadge.astro';
 import '../styles/global.css';
@@ -42,6 +43,7 @@ const websiteSchema = {
     {schemaList.map((item) => (
       <script type="application/ld+json" set:html={JSON.stringify(item)} />
     ))}
+    <Analytics />
   </head>
   <>
     <header class="site-header">
