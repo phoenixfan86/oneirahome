@@ -1,0 +1,52 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  excludeSlug?: string;
+  count?: number;
+}
+const { excludeSlug, count = 3 } = Astro.props;
+
+const allDreams = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft
+);
+
+const pool = allDreams.map((entry: CollectionEntry<'dreams'>) => ({
+  slug: entry.slug,
+  title: entry.data.title,
+}));
+---
+<section class="sidebar-section" data-random-dreams data-exclude={excludeSlug ?? ''} data-count={count}>
+  <h2>Random Dreams</h2>
+  <ul class="sidebar-list random-dreams-list">
+    <li class="sidebar-note">Loading…</li>
+  </ul>
+</section>
+
+<script type="application/json" data-random-dreams-pool set:html={JSON.stringify(pool)} />
+
+<script>
+  import { pickRandom } from '../lib/pickRandom';
+
+  interface DreamStub {
+    slug: string;
+    title: string;
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-random-dreams]').forEach((section) => {
+    const poolScript = section.nextElementSibling as HTMLScriptElement | null;
+    const list = section.querySelector('.random-dreams-list');
+    if (!poolScript || !list) return;
+
+    const pool: DreamStub[] = JSON.parse(poolScript.textContent || '[]');
+    const excludeSlug = section.dataset.exclude || undefined;
+    const count = Number(section.dataset.count) || 3;
+
+    const picks = pickRandom(pool, count, excludeSlug);
+
+    list.innerHTML = picks
+      .map((dream) => `<li><a href="/dream/${dream.slug}/">${dream.title}</a></li>`)
+      .join('');
+  });
+</script>

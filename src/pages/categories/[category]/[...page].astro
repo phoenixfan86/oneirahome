@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allDreams = await getCollection(
+    'dreams',
+    ({ data }: CollectionEntry<'dreams'>) => !data.draft
+  );
+
+  const allCategories = [...new Set(allDreams.map((entry: CollectionEntry<'dreams'>) => entry.data.category))];
+
+  return allCategories.flatMap((category: string) => {
+    const filtered = allDreams
+      .filter((entry: CollectionEntry<'dreams'>) => entry.data.category === category)
+      .sort(
+        (a: CollectionEntry<'dreams'>, b: CollectionEntry<'dreams'>) =>
+          b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+      );
+
+    return paginate(filtered, {
+      params: { category },
+      pageSize: 20,
+    });
+  });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<CollectionEntry<'dreams'>>;
+}
+
+const { category } = Astro.params;
+const { page } = Astro.props;
+const pageTitle = page.currentPage === 1 ? `${category} Dreams` : `${category} Dreams — Page ${page.currentPage}`;
+---
+<BaseLayout title={pageTitle} description={`All dream meanings in the "${category}" category.`}>
+  <h1>Category: {category}</h1>
+
+  <ul class="dream-list">
+    {page.data.map((entry) => (
+      <li class="dream-item">
+        <a href={`/dream/${entry.slug}/`}><strong>{entry.data.title}</strong></a>
+        <p class="dream-excerpt">{entry.data.description}</p>
+      </li>
+    ))}
+  </ul>
+
+  <nav class="pagination">
+    {page.url.prev ? <a href={page.url.prev}>← Previous</a> : <span />}
+    <span>Page {page.currentPage} of {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>Next →</a> : <span />}
+  </nav>
+</BaseLayout>

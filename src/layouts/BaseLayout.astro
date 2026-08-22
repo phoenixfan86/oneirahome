@@ -1,0 +1,78 @@
+---
+import Sidebar from '../components/Sidebar.astro';
+import Tagbadge from '../components/TagBadge.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  currentSlug?: string;
+
+  schema?: Record<string, unknown> | Record<string, unknown>[];
+}
+const { title, description, currentSlug, schema } = Astro.props;
+
+const schemaList = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Dream Dictionary',
+  url: Astro.site?.href ?? Astro.url.origin,
+  description: 'A dictionary of dream meanings and interpretations.',
+};
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Dream Dictionary" />
+    <meta property="og:url" content={Astro.url} />
+
+    <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    {schemaList.map((item) => (
+      <script type="application/ld+json" set:html={JSON.stringify(item)} />
+    ))}
+  </head>
+  <>
+    <header class="site-header">
+      <div class="container">
+        <div class="">
+          <a href="/" class="site-title">🌙 Oneira Home</a>
+          <p class="site-tagline">Understand what your dreams are telling you</p>
+        </div>
+        <div class="search">
+          <span>Find your dream</span>
+          <div id="search"></div>
+        </div>
+      </div>
+       
+    </header>
+     <Tagbadge/>  
+      <main data-pagefind-body>
+        
+        <div class="container">
+          
+          <slot />
+        </div>
+      <Sidebar currentSlug={currentSlug}/>
+      <div class="top-btn">
+        <a href="#" aria-label="Back to top"></a>
+      </div>
+      </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© {new Date().getFullYear()} Oneira Home. Interpretations are for reflection, not medical or psychological advice.</p>
+      </div>
+    </footer>
+  </body>
+</html>

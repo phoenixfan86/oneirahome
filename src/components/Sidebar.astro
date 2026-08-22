@@ -1,0 +1,59 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import RandomDreams from './RandomDreams.astro';
+
+interface Props {
+  currentSlug?: string;
+}
+const { currentSlug } = Astro.props;
+
+const allDreams = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft
+);
+
+const categoryCounts = allDreams.reduce((acc: Record<string, number>, entry: CollectionEntry<'dreams'>) => {
+  acc[entry.data.category] = (acc[entry.data.category] || 0) + 1;
+  return acc;
+}, {} as Record<string, number>);
+
+const categories = Object.entries(categoryCounts).sort(
+  (a, b) => b[1] - a[1]
+) as [string, number][];
+---
+<aside class="sidebar" data-pagefind-ignore>
+  <div class="container">
+    <section class="sidebar-section">
+      <h2>Categories</h2>
+      <ul class="sidebar-list">
+        {categories.map(([category, count]) => (
+          <li>
+            <a href={`/categories/${category}/`}>
+              {category} <span class="count">{count}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+    <section>
+      <RandomDreams excludeSlug={currentSlug} />
+    </section>
+    <section class="sidebar-section">
+      <h2>Popular Tags</h2>
+      <p class="sidebar-note">
+        <a href="/tags/">Browse all tags →</a>
+      </p>
+    </section>
+    
+  </div>
+</aside>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (typeof PagefindUI !== 'undefined') {
+      new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+    }
+  });
+</script>

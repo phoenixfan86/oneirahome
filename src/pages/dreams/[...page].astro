@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allDreams = await getCollection(
+    'dreams',
+    ({ data }: CollectionEntry<'dreams'>) => !data.draft
+  );
+
+  const sorted = allDreams.sort(
+    (a: CollectionEntry<'dreams'>, b: CollectionEntry<'dreams'>) =>
+      b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+
+  return paginate(sorted, { pageSize: 7 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<CollectionEntry<'dreams'>>;
+}
+
+const { page } = Astro.props;
+const pageTitle = page.currentPage === 1 ? 'All Dream Meanings' : `All Dream Meanings — Page ${page.currentPage}`;
+---
+<BaseLayout title={pageTitle} description="Browse the full dictionary of dream meanings and interpretations.">
+  <h1>All Dream Meanings</h1>
+
+  <ul class="dream-list">
+    {page.data.map((entry) => (
+      <li class="dream-item">
+        <a href={`/dream/${entry.slug}/`}>
+        <h2 >{entry.data.title}</h2>
+        </a>
+        <p class="dream-excerpt">{entry.data.description}</p>
+      </li>
+    ))}
+  </ul>
+
+  <nav class="pagination">
+    {page.url.prev ? <a href={page.url.prev}>← Previous</a> : <span />}
+    <span>Page {page.currentPage} of {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>Next →</a> : <span />}
+  </nav>
+</BaseLayout>

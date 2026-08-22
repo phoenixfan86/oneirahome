@@ -1,0 +1,39 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+const allDreams = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft
+);
+
+const allTags = Array.from(
+  new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.tags))
+).sort((a: string, b: string) => a.localeCompare(b));
+
+const VISIBLE_COUNT = 12;
+
+const visibleTags = allTags.slice(0, VISIBLE_COUNT);
+const restTags = allTags.slice(VISIBLE_COUNT);
+---
+<div class="badge">
+  <span>Dream about:</span>
+  <ul class="tag-badge">
+    <li><a href="/">All</a></li>
+    {visibleTags.map((tag: string) => (
+      <li>
+        <a href={`/tags/${tag}/`}>{tag}</a>
+      </li>
+    ))}
+  </ul>
+  {restTags.length > 0 && (
+    <details class="tag-more">
+      <summary>+{restTags.length} more</summary>
+      <ul class="tag-badge">
+        {restTags.map((tag: string) => (
+          <li>
+            <a href={`/tags/${tag}/`}>{tag}</a>
+          </li>
+        ))}
+      </ul>
+    </details>
+  )}
+</div>
