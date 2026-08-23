@@ -73,6 +73,20 @@ li {
 	color: var(--color-accent);
 }
 
+strong {
+	color: var(--color-accent);
+}
+
+.dream-body {
+	position: relative;
+}
+
+.read-time {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
 .container {
 	max-width: 720px;
 	margin: 0 auto;

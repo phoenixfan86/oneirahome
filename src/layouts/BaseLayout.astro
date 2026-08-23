@@ -3,6 +3,7 @@ import Analytics from '@vercel/analytics/astro'
 import Sidebar from '../components/Sidebar.astro';
 import Tagbadge from '../components/TagBadge.astro';
 import '../styles/global.css';
+import { getDreamCount } from '../lib/dreamCount';
 
 interface Props {
   title: string;
@@ -22,6 +23,8 @@ const websiteSchema = {
   url: Astro.site?.href ?? Astro.url.origin,
   description: 'A dictionary of dream meanings and interpretations.',
 };
+
+const totalDreams = await getDreamCount();
 ---
 <!doctype html>
 <html lang="en">
@@ -81,7 +84,9 @@ const websiteSchema = {
       </ul>
       <div class="container">
         <p>© {new Date().getFullYear()} Oneira Home. Interpretations are for reflection, not medical or psychological advice.</p>
+        <span>{totalDreams} dream meanings and counting</span>
       </div>
+      
     </footer>
   </body>
 </html>
