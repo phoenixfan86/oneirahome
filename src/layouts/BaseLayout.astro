@@ -44,6 +44,7 @@ const totalDreams = await getDreamCount();
     <meta property="og:url" content={Astro.url} />
     <meta property="og:image" content={ogImageUrl}>
 
+    <script src="https://analytics.ahrefs.com/analytics.js" data-key="f7IrqYJ95PfVavfoyJRmsg" async></script>
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     {schemaList.map((item) => (
       <script type="application/ld+json" set:html={JSON.stringify(item)} />
