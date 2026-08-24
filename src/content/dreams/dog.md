@@ -2,6 +2,7 @@
 title: "Dream About Dog: Meaning & Interpretation"
 symbol: "dog"
 description: "What does it mean to dream about dog? Explore the common scenarios and psychological meaning behind this dream."
+img: "/img/dog.webp"
 category: "animals"
 tags: ["dog"]
 pubDate: 2026-08-23

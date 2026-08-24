@@ -9,6 +9,8 @@ const dreams = defineCollection({
     symbol: z.string(),
     // Short meta description for SEO (150-160 chars ideal)
     description: z.string(),
+    // Dreams image
+    img: z.string().optional(),
     // Broad grouping so you can build category pages later
     category: z.enum([
       'animals',

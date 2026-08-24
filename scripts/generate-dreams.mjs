@@ -141,6 +141,7 @@ function buildFrontmatter({ symbol, category, title, description }) {
 title: "${title.replace(/"/g, '\\"')}"
 symbol: "${symbol}"
 description: "${description.replace(/"/g, '\\"')}"
+img: "/img/"
 category: "${category}"
 tags: []
 pubDate: ${today}

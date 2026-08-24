@@ -2,6 +2,7 @@
 title: "Dream About Elevator: Meaning & Interpretation"
 symbol: "elevator"
 description: "Discover what an elevator in your subconscious signifies, from rapid career shifts to personal emotional transitions."
+img: "/img/elevator.webp"
 category: "objects"
 tags: ["transitions", "career", "personal growth", "status"]
 pubDate: 2026-08-23

@@ -2,6 +2,7 @@
 title: "Dream About Angel: Meaning & Interpretation"
 symbol: "angel"
 description: "Explore the symbolic interpretations of angel dreams, from messages of hope to inner moral guidance and spiritual reassurance."
+img: "/img/angel.webp"
 category: "people"
 tags: ["spirituality", "guidance", "protection", "intuition", "peace"]
 pubDate: 2026-08-20

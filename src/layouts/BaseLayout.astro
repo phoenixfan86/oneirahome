@@ -9,10 +9,11 @@ interface Props {
   title: string;
   description: string;
   currentSlug?: string;
-
+  image?: string;
   schema?: Record<string, unknown> | Record<string, unknown>[];
 }
-const { title, description, currentSlug, schema } = Astro.props;
+const { title, description, image, currentSlug, schema } = Astro.props;
+const ogImageUrl = new URL(image ?? '/img/moon.webp', Astro.site).href;
 
 const schemaList = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
 
@@ -41,6 +42,7 @@ const totalDreams = await getDreamCount();
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="Oneira Home" />
     <meta property="og:url" content={Astro.url} />
+    <meta property="og:image" content={ogImageUrl}>
 
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     {schemaList.map((item) => (
