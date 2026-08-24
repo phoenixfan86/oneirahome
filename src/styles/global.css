@@ -325,6 +325,24 @@ article h2 {
 	font-size: 0.9rem;
 }
 
+page-numbers {
+	display: flex;
+	gap: 0.4rem;
+}
+.page-numbers a {
+	padding: 0.3rem 0.6rem;
+	border-radius: var(--radius-sm);
+}
+.page-numbers a.current {
+	background: var(--color-accent);
+	color: var(--color-1);
+	pointer-events: none;
+}
+.page-numbers .ellipsis {
+	color: var(--color-text-muted);
+	padding: 0 0.2rem;
+}
+
 .tag-grid {
 	list-style: none;
 	padding: 0;

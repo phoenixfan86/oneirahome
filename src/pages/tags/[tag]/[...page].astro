@@ -33,6 +33,22 @@ interface Props {
 const { tag } = Astro.params;
 const { page } = Astro.props;
 const pageTitle = page.currentPage === 1 ? `Dreams About ${tag}` : `Dreams About ${tag} — Page ${page.currentPage}`;
+
+function getPageNumbers(current: number, last: number): (number | 'ellipsis')[] {
+  const range = new Set<number>([1, last, current, current - 1, current + 1]);
+  const sorted = [...range].filter((n) => n >= 1 && n <= last).sort((a, b) => a - b);
+
+  const result: (number | 'ellipsis')[] = [];
+  let prev = 0;
+  for (const n of sorted) {
+    if (n - prev > 1) result.push('ellipsis');
+    result.push(n);
+    prev = n;
+  }
+  return result;
+}
+
+const pageNumbers = getPageNumbers(page.currentPage, page.lastPage);
 ---
 <BaseLayout title={pageTitle} description={`All dream meanings tagged "${tag}".`}>
   <h1>Dreams tagged: {tag}</h1>
@@ -46,11 +62,27 @@ const pageTitle = page.currentPage === 1 ? `Dreams About ${tag}` : `Dreams About
     ))}
   </ul>
 
-  <nav class="pagination">
-    {page.url.prev ? <a href={page.url.prev}>← Previous</a> : <span />}
-    <span>Page {page.currentPage} of {page.lastPage}</span>
-    {page.url.next ? <a href={page.url.next}>Next →</a> : <span />}
-  </nav>
+  <nav class="pagination" aria-label="Pagination">
+  {page.url.prev ? <a href={page.url.prev} aria-label="Previous page">← Previous</a> : <span />}
+
+  <div class="page-numbers">
+    {pageNumbers.map((n) =>
+      n === 'ellipsis' ? (
+        <span class="ellipsis">…</span>
+      ) : (
+        
+          <a href={n === 1 ? '/tags/' : `/tags/${n}/`}
+          class={n === page.currentPage ? 'current' : ''}
+          aria-current={n === page.currentPage ? 'page' : undefined}
+        >
+          {n}
+        </a>
+      )
+    )}
+  </div>
+
+  {page.url.next ? <a href={page.url.next} aria-label="Next page">Next →</a> : <span />}
+</nav>
 
   <p><a href="/tags/">← All tags</a></p>
 </BaseLayout>
