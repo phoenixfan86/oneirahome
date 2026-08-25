@@ -1,0 +1,34 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { pickRandom } from '../lib/pickRandom';
+
+interface Props {
+  category: string;
+  excludeSlug: string;
+  count?: number;
+}
+const { category, excludeSlug, count = 3 } = Astro.props;
+
+const sameCategory = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft && data.category === category
+);
+
+const related = pickRandom(sameCategory, count, excludeSlug);
+---
+{related.length > 0 && (
+  <section class="related-dreams">
+    <div class="moon-divider">☾</div>
+    <h2>More {category} dreams</h2>
+    <ul class="dream-list">
+      {related.map((entry) => (
+        <li class="dream-item">
+          <a href={`/dream/${entry.slug}/`}>
+            <h3>{entry.data.title}</h3>
+          </a>
+          <p class="dream-excerpt">{entry.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
 import { getReadingTime } from '../../lib/readingTime';
+import RelatedDreams from '../../components/RelatedDreams.astro';
 
 export const getStaticPaths = (async () => {
   const dreams = await getCollection(
@@ -51,5 +52,6 @@ const readingTime = getReadingTime(entry.body);
       </div>
     )}
     <Content />
+    <RelatedDreams category={entry.data.category} excludeSlug={entry.slug} />
   </article>
 </BaseLayout>
