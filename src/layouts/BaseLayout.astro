@@ -37,12 +37,17 @@ const totalDreams = await getDreamCount();
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href={Astro.url} />
     <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="alternate" type="application/rss+xml" title="Oneirahome - Dreams Dictionary" href="/rss.xml" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="Oneira Home" />
     <meta property="og:url" content={Astro.url} />
     <meta property="og:image" content={ogImageUrl}>
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImageUrl} />
 
     <meta name="p:domain_verify" content="fd640d88647c4424e66c2394a4fce868"/>
 
