@@ -2,6 +2,7 @@
 title: "Dream About Bridge: Meaning & Interpretation"
 symbol: "bridge"
 description: "Uncover what it means when a bridge appears in your night visions, representing life transitions, connections, and choices."
+img: "/img/bridge.webp"
 category: "places"
 tags: ["transition", "change", "growth", "jungian", "uncertainty"]
 pubDate: 2026-08-20
