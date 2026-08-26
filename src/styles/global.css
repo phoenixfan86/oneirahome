@@ -419,6 +419,21 @@ page-numbers {
 	color: var(--color-accent);
 }
 
+.cat-grid {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	list-style: none;
+	padding: 0;
+	margin: 1.5rem 0;
+	gap: 0.6rem;
+}
+
+.category-items {
+	border: 2px solid var(--color-accent);
+	border-radius: var(--radius-sm);
+	padding: 0.5rem 0.7rem;
+}
+
 .site-footer {
 	box-shadow: 2px 0 7px var(--color-1);
 	padding: 0.5rem 0;
@@ -503,6 +518,9 @@ page-numbers {
 }
 
 @media (max-width: 425px) {
+	.cat-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
 	.site-header .container {
 		flex-direction: column;
 	}

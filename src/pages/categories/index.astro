@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+const allDreams = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft
+);
+
+const allCategories = Array.from(
+  new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.category))
+).sort((a: string, b: string) => a.localeCompare(b));
+---
+<BaseLayout title="All Dream Categories" description="Browse dream meanings by categories.">
+  <h1>All Categories</h1>
+  <p>Browse dream meanings grouped by Categories.</p>
+
+  <ul class="cat-grid">
+    {allCategories.map((category: string) => (
+      <li class="category-items">
+        <a href={`/categories/${category}/`}>{category}</a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
