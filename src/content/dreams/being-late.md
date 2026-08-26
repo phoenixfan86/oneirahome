@@ -2,6 +2,7 @@
 title: "Dream About Being Late: Meaning & Interpretation"
 symbol: "being late"
 description: "Uncover the psychological reasons and symbolic meanings behind experiencing lateness and missed deadlines in your sleep."
+img: "/img/being-late.webp"
 category: "events"
 tags: ["anxiety", "time management", "stress", "perfectionism"]
 pubDate: 2026-08-20
