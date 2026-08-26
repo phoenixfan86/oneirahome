@@ -2,10 +2,11 @@
 title: "Dream About King or Queen: Meaning & Interpretation"
 symbol: "king or queen"
 description: "Uncover what royal figures in dreams signify regarding personal authority, control, self-sovereignty, and leadership."
+img: "/img/king-or-queen.webp"
 category: "people"
 tags: []
-pubDate: 2026-08-20
-draft: true
+pubDate: 2026-08-26
+draft: false
 source: "gemini-3.6-flash"
 edited: false
 qcIssues: []
