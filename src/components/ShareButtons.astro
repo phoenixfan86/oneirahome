@@ -1,0 +1,65 @@
+---
+interface Props {
+  url: string;
+  title: string;
+}
+const { url, title } = Astro.props;
+
+const twitterShareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`;
+const facebookShareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+---
+<div class="share-buttons">
+  <span class="share-label">Share:</span>
+
+  <a href={twitterShareUrl} target="_blank" rel="noopener" class="share-btn">
+    X
+  </a>
+  <a href={facebookShareUrl} target="_blank" rel="noopener" class="share-btn">
+    Facebook
+  </a>
+  <button id="native-share-btn" type="button" class="share-btn" hidden>
+    Share…
+  </button>
+</div>
+
+<script>
+  const nativeBtn = document.getElementById('native-share-btn') as HTMLButtonElement | null;
+
+  if (nativeBtn && typeof navigator.share === 'function') {
+    nativeBtn.hidden = false;
+    nativeBtn.addEventListener('click', () => {
+      navigator.share({
+        title: document.title,
+        url: window.location.href,
+      }).catch(() => {
+        // User cancelled the share sheet — nothing to do.
+      });
+    });
+  }
+</script>
+
+<style>
+  .share-buttons {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 1.5rem 0;
+  }
+  .share-label {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+  .share-btn {
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-line);
+    color: var(--color-text);
+    font-size: 0.85rem;
+    cursor: pointer;
+  }
+  .share-btn:hover {
+    border-color: var(--color-accent);
+    text-decoration: none;
+  }
+</style>
