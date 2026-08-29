@@ -1,14 +1,4 @@
 ---
-// This file replaces the old static index.astro. Astro's paginate() is
-// only available inside getStaticPaths on a rest-param route - a plain
-// src/pages/index.astro can't call it. Naming this file `[...page].astro`
-// is the official Astro pattern for "paginate starting at the root URL":
-// page 1 builds at `/`, page 2 at `/2/`, page 3 at `/3/`, etc.
-//
-// This also replaces the old separate `/dreams/` full-list route - having
-// both `/` and `/dreams/` show the exact same sorted list would have been
-// duplicate content for Google. Now there's one canonical paginated list,
-// and it lives at the homepage.
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { GetStaticPaths, Page } from 'astro';

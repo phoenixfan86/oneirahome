@@ -34,8 +34,12 @@ const categories = Object.entries(categoryCounts).sort(
           </li>
         ))}
       </ul>
+      <p class="sidebar-note">
+      <a href="/categories/">Browse all categories →</a>
+    </p>
     </section>
-    <section>
+    <div class="moon-divider">☾</div>
+    <section class="sidebar-section">
       <RandomDreams excludeSlug={currentSlug} />
     </section>
     <section class="sidebar-section">
