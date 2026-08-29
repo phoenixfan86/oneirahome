@@ -28,9 +28,9 @@ The specific context and figures involved in your dream can offer clearer insigh
 
 ## The Psychological Perspective
 
-From a psychological standpoint, thinkers like Carl Jung viewed imagery of mortality as a natural manifestation of "ego death"—a critical process where an individual outgrows former psychological structures to achieve greater self-awareness and maturity. 
+From a psychological standpoint, thinkers like Carl Jung viewed imagery of mortality as a natural manifestation of "ego death"-a critical process where an individual outgrows former psychological structures to achieve greater self-awareness and maturity. 
 
-Modern therapeutic approaches view these scenarios as the brain's method of organizing complex emotions during times of stress, grief, or major life transitions. When you navigate significant milestones—such as changing careers, relocating, or ending a long-term partnership—your subconscious mind often utilizes dramatic symbolic imagery to match the emotional weight of those events. Rather than viewing these visions with worry, psychologists encourage looking at them as normal cognitive processing that helps you metabolize change and adapt to new realities.
+Modern therapeutic approaches view these scenarios as the brain's method of organizing complex emotions during times of stress, grief, or major life transitions. When you navigate significant milestones-such as changing careers, relocating, or ending a long-term partnership-your subconscious mind often utilizes dramatic symbolic imagery to match the emotional weight of those events. Rather than viewing these visions with worry, psychologists encourage looking at them as normal cognitive processing that helps you metabolize change and adapt to new realities.
 
 ## Questions for Personal Reflection
 

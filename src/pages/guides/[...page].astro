@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+import { buildListSchema } from '../../lib/schema';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allGuides = await getCollection(
+    'guides',
+    ({ data }: CollectionEntry<'guides'>) => !data.draft
+  );
+
+  const sorted = allGuides.sort(
+    (a: CollectionEntry<'guides'>, b: CollectionEntry<'guides'>) =>
+      b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+
+  return paginate(sorted, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<CollectionEntry<'guides'>>;
+}
+
+const { page } = Astro.props;
+const pageTitle = page.currentPage === 1 ? 'Sleep & Dream Guides' : `Sleep & Dream Guides - Page ${page.currentPage}`;
+const pageDescription = 'In-depth guides on lucid dreaming, sleep paralysis, recurring dreams, and the science of sleep - beyond individual dream symbols.';
+
+const listSchema = buildListSchema({
+  name: pageTitle,
+  description: pageDescription,
+  url: Astro.url.href,
+  site: Astro.site,
+  entries: page.data,
+  basePath: '/guides/',
+});
+---
+<BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
+  <h1>Sleep & Dream Guides</h1>
+  <p>Longer reads on lucid dreaming, sleep paralysis, and other sleep phenomena - for when a single symbol meaning isn't what you're after.</p>
+
+  <div class="moon-divider">☾</div>
+
+  <ul class="dream-list">
+    {page.data.map((entry) => (
+      <li class="dream-item">
+        <a href={`/guides/${entry.slug}/`}>
+          <h2>{entry.data.title}</h2>
+        </a>
+        <p class="dream-excerpt">{entry.data.description}</p>
+      </li>
+    ))}
+  </ul>
+
+  <nav class="pagination">
+    {page.url.prev ? <a href={page.url.prev}>← Previous</a> : <span />}
+    <span>Page {page.currentPage} of {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>Next →</a> : <span />}
+  </nav>
+</BaseLayout>

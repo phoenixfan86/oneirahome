@@ -13,7 +13,7 @@ qcIssues: []
 
 ## General Meaning
 
-A volcanic formation is a powerful symbol of contained energy beneath a calm exterior. In symbolic analysis, this image often represents intense, suppressed emotions—particularly anger, frustration, or unexpressed passion—that have been contained for a long period. Just as pressure builds beneath the Earth's crust before reaching a tipping point, internal feelings can accumulate until they demand a dramatic release.
+A volcanic formation is a powerful symbol of contained energy beneath a calm exterior. In symbolic analysis, this image often represents intense, suppressed emotions-particularly anger, frustration, or unexpressed passion-that have been contained for a long period. Just as pressure builds beneath the Earth's crust before reaching a tipping point, internal feelings can accumulate until they demand a dramatic release.
 
 This symbol can also reflect dynamic internal growth and creative energy. While an eruption can feel destructive, it ultimately restructures the landscape, creating fertile ground for future growth. Consequently, the presence of geothermal activity in sleep often points to a transitional phase where old habits, boundaries, or self-conceptions are breaking down to make room for fresh perspectives.
 
@@ -33,7 +33,7 @@ Traversing cooled ash or volcanic rock after an eruption symbolizes the aftermat
 
 ## Psychological Perspectives
 
-Psychologically, extreme subterranean activity aligns closely with the concept of the shadow—the hidden or unacknowledged parts of the human personality. When feelings like anger, deep passion, or creative ambition are deemed unacceptable by conscious standards, they are pushed into the subconscious. The symbol of a fiery mountain illustrates the tension between maintaining a composed external facade and honoring powerful internal drives.
+Psychologically, extreme subterranean activity aligns closely with the concept of the shadow-the hidden or unacknowledged parts of the human personality. When feelings like anger, deep passion, or creative ambition are deemed unacceptable by conscious standards, they are pushed into the subconscious. The symbol of a fiery mountain illustrates the tension between maintaining a composed external facade and honoring powerful internal drives.
 
 Modern cognitive views interpret these intense scenes as a natural mechanism for processing high-stress environments. When individuals suppress their emotional responses during waking hours to maintain professional or personal harmony, the brain uses vivid physical metaphors during sleep to safely release built-up psychological tension.
 

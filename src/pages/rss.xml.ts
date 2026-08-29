@@ -27,7 +27,7 @@ export async function GET(context: { site: URL }) {
         link: `/dream/${entry.slug}/`,
         // Pinterest's "bulk create Pins from RSS" feature reads this
         // <enclosure> tag to know which image to use for the auto-created
-        // Pin — it's the standard RSS 2.0 way to attach media to an item.
+        // Pin - it's the standard RSS 2.0 way to attach media to an item.
         customData: `<enclosure url="${imageUrl}" type="image/jpeg" length="0" />`,
       };
     }),

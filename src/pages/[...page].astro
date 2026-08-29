@@ -1,0 +1,125 @@
+---
+// This file replaces the old static index.astro. Astro's paginate() is
+// only available inside getStaticPaths on a rest-param route - a plain
+// src/pages/index.astro can't call it. Naming this file `[...page].astro`
+// is the official Astro pattern for "paginate starting at the root URL":
+// page 1 builds at `/`, page 2 at `/2/`, page 3 at `/3/`, etc.
+//
+// This also replaces the old separate `/dreams/` full-list route - having
+// both `/` and `/dreams/` show the exact same sorted list would have been
+// duplicate content for Google. Now there's one canonical paginated list,
+// and it lives at the homepage.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+import { buildListSchema } from '../lib/schema';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allDreams = await getCollection(
+    'dreams',
+    ({ data }: CollectionEntry<'dreams'>) => !data.draft
+  );
+
+  const sorted = allDreams.sort(
+    (a: CollectionEntry<'dreams'>, b: CollectionEntry<'dreams'>) =>
+      b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+
+  return paginate(sorted, { pageSize: 7 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<CollectionEntry<'dreams'>>;
+}
+
+const { page } = Astro.props;
+const isFirstPage = page.currentPage === 1;
+
+const pageTitle = isFirstPage
+  ? 'Dream Dictionary - What Do Your Dreams Mean?'
+  : `Dream Dictionary - Page ${page.currentPage}`;
+
+const pageDescription = 'A growing dictionary of dream meanings and interpretations - from common symbols like snakes and teeth to complex dream scenarios.';
+
+const listSchema = buildListSchema({
+  name: pageTitle,
+  description: pageDescription,
+  url: Astro.url.href,
+  site: Astro.site,
+  entries: page.data,
+});
+---
+<BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
+  {isFirstPage && (
+    <>
+      <h1>Dream Dictionary</h1>
+      <p>Look up what your dream might mean. Every entry below has been reviewed before publishing.</p>
+      <div class="moon-divider">☾</div>
+    </>
+  )}
+
+  {!isFirstPage && <h1>Dream Dictionary - Page {page.currentPage}</h1>}
+
+  <ul class="dream-list">
+    {page.data.map((entry) => (
+      <li class="dream-item">
+        <a href={`/dream/${entry.slug}/`}>
+        {entry.data.img && (
+          <div class="dream-img">
+            <img
+              src={entry.data.img}
+              alt={entry.data.title}
+              width="480"
+              height="255"
+              loading="lazy"
+            />
+          </div>
+        )}
+          <h2>{entry.data.title}</h2>
+        </a>
+        <p class="dream-excerpt">{entry.data.description}</p>
+        <p><span>Category: </span>{entry.data.category}</p>
+      </li>
+    ))}
+  </ul>
+
+  <nav class="pagination">
+    {page.url.prev ? <a href={page.url.prev}>← Previous</a> : <span />}
+    <span>Page {page.currentPage} of {page.lastPage}</span>
+    {page.url.next ? <a href={page.url.next}>Next →</a> : <span />}
+  </nav>
+
+  {isFirstPage && (
+    <>
+      <div class="moon-divider">☾</div>
+      <p>
+        <a href="/tags/">Browse by tag →</a><br />
+        <a href="/guides/">Sleep & Dream Guides →</a><br />
+        <a href="/journal/">Start your free Dream Journal →</a>
+      </p>
+
+      <section class="seo-intro">
+        <h2>Welcome to Oneira Home</h2>
+        <p>
+          Oneira Home is a free, growing dream dictionary built to help you understand
+          what your dreams might mean. The name comes from "oneira," the ancient Greek
+          word for dreams - and that's exactly what this site is about: clear,
+          thoughtful interpretations for the symbols, people, and scenarios that show
+          up in sleep.
+        </p>
+        <p>
+          Every entry looks at a dream symbol from a few angles - its general meaning,
+          the most common ways it tends to appear, a psychological perspective, and a
+          short prompt to help you reflect on what it might mean for your own life.
+          We don't treat dream interpretation as fixed fact; think of it as a starting
+          point for thinking through what your mind might be processing.
+        </p>
+        <p>
+          New meanings are added regularly. Explore the dictionary above, or browse by
+          <a href="/tags/">tag</a> to find dreams grouped by theme, from fear and
+          transformation to relationships and change.
+        </p>
+      </section>
+    </>
+  )}
+</BaseLayout>

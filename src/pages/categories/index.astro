@@ -10,8 +10,10 @@ const allDreams = await getCollection(
 const allCategories = Array.from(
   new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.category))
 ).sort((a: string, b: string) => a.localeCompare(b));
+const pageTitle = `${allCategories.length} Dream Categories | Dream Dictionary`;
+const pageDescription = `Every categories covered in the dictionary events, people's, body, objects, animals, nature, places and other - pick a theme to see related dream meanings.`;
 ---
-<BaseLayout title="All Dream Categories" description="Browse dream meanings by categories.">
+<BaseLayout title={pageTitle} description="Browse dream meanings by categories.">
   <h1>All Categories</h1>
   <p>Browse dream meanings grouped by Categories.</p>
 

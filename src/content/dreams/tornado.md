@@ -35,7 +35,7 @@ When several vortexes appear across the sky at once, it typically reflects a fee
 
 Psychologically, high-velocity wind imagery is intimately tied to suppressed emotions breaking free. When feelings like frustration, fear, or resentment are ignored over time, they build up internal velocity. Dreaming about a tornado can represent the explosive release of these repressed emotional states into conscious awareness.
 
-This atmospheric disturbance also symbolizes environmental stressors—such as a high-pressure job, family disputes, or abrupt life decisions—that threaten your sense of peace. The psychological task presented by the vortex is learning to find an internal center of calm even when the surrounding environment is in motion.
+This atmospheric disturbance also symbolizes environmental stressors-such as a high-pressure job, family disputes, or abrupt life decisions-that threaten your sense of peace. The psychological task presented by the vortex is learning to find an internal center of calm even when the surrounding environment is in motion.
 
 ## Reflection Prompt
 

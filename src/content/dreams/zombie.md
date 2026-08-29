@@ -15,7 +15,7 @@ qcIssues: []
 
 Encountering reanimated figures in night visions can leave a lingering sense of unease upon waking. In the realm of symbolic analysis, such imagery rarely predicts literal danger. Instead, the reanimated dead frequently represent emotional detachment, severe exhaustion, or unresolved issues that feel impossible to lay to rest. Because these figures lack conscious thought and operate entirely on instinct, they often reflect parts of waking life where an individual feels mechanical, drained, or disconnected from their true feelings.
 
-When a person experiences imagery of this nature, it may point toward external pressure that feels overwhelming. A relentless horde can symbolize a buildup of minor stressors—such as mounting debts, endless work obligations, or unaddressed interpersonal conflicts—that slowly chip away at one's energy. Alternatively, the symbol can highlight an internal state of apathy, suggesting that you may be moving through daily routines without active engagement or genuine passion.
+When a person experiences imagery of this nature, it may point toward external pressure that feels overwhelming. A relentless horde can symbolize a buildup of minor stressors-such as mounting debts, endless work obligations, or unaddressed interpersonal conflicts-that slowly chip away at one's energy. Alternatively, the symbol can highlight an internal state of apathy, suggesting that you may be moving through daily routines without active engagement or genuine passion.
 
 ## Common Scenarios and Variations
 

@@ -1,0 +1,233 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="My Dream Journal - Dream Dictionary"
+  description="A free, private dream journal. Log your dreams and revisit them anytime - everything stays in your own browser, nothing is sent anywhere."
+>
+  <h1>My Dream Journal</h1>
+  <p>
+    Log your dreams here to build the habit of dream recall - useful on its own,
+    and especially helpful if you're working on <a href="/guides/how-to-lucid-dream/">lucid dreaming</a>.
+    Entries are saved <strong>only in this browser</strong> - nothing is sent to
+    a server, no account needed. Clearing your browser data will erase them, so
+    export/copy anything you want to keep long-term.
+  </p>
+
+  <div class="moon-divider">☾</div>
+
+  <form id="journal-form" class="journal-form">
+    <label for="journal-text">What did you dream about?</label>
+    <textarea id="journal-text" rows="4" placeholder="Write down as much as you remember..." required></textarea>
+
+    <label for="journal-tags">Tags (optional, comma-separated)</label>
+    <input id="journal-tags" type="text" placeholder="e.g. flying, ocean, anxious" />
+
+    <button type="submit" class="journal-submit">Save entry</button>
+  </form>
+
+  <div class="moon-divider">☾</div>
+
+  <div id="journal-empty" class="sidebar-note" hidden>
+    No entries yet - your first dream log will show up here.
+  </div>
+  <ul id="journal-list" class="journal-list"></ul>
+</BaseLayout>
+
+<script>
+  interface JournalEntry {
+    id: string;
+    text: string;
+    tags: string[];
+    createdAt: string; // ISO date
+  }
+
+  const STORAGE_KEY = 'oneirahome-dream-journal';
+
+  function loadEntries(): JournalEntry[] {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function saveEntries(entries: JournalEntry[]) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
+  }
+
+  function formatDate(iso: string) {
+    return new Date(iso).toLocaleDateString(undefined, {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+    });
+  }
+
+  function render() {
+    const list = document.getElementById('journal-list');
+    const empty = document.getElementById('journal-empty');
+    if (!list || !empty) return;
+
+    const entries = loadEntries().sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+
+    empty.hidden = entries.length > 0;
+    list.innerHTML = entries
+      .map(
+        (entry) => `
+        <li class="journal-entry" data-id="${entry.id}">
+          <div class="journal-entry-header">
+            <span class="journal-date">${formatDate(entry.createdAt)}</span>
+            <button type="button" class="journal-delete" data-id="${entry.id}" aria-label="Delete entry">✕</button>
+          </div>
+          <p class="journal-entry-text">${escapeHtml(entry.text)}</p>
+          ${
+            entry.tags.length > 0
+              ? `<div class="journal-entry-tags">${entry.tags.map((t) => `<span>${escapeHtml(t)}</span>`).join('')}</div>`
+              : ''
+          }
+        </li>`
+      )
+      .join('');
+
+    list.querySelectorAll<HTMLButtonElement>('.journal-delete').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const id = btn.dataset.id;
+        const remaining = loadEntries().filter((e) => e.id !== id);
+        saveEntries(remaining);
+        render();
+      });
+    });
+  }
+
+  function escapeHtml(str: string) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  const form = document.getElementById('journal-form') as HTMLFormElement | null;
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+
+    const textEl = document.getElementById('journal-text') as HTMLTextAreaElement;
+    const tagsEl = document.getElementById('journal-tags') as HTMLInputElement;
+
+    const text = textEl.value.trim();
+    if (!text) return;
+
+    const tags = tagsEl.value
+      .split(',')
+      .map((t) => t.trim())
+      .filter(Boolean);
+
+    const entries = loadEntries();
+    entries.push({
+      id: crypto.randomUUID(),
+      text,
+      tags,
+      createdAt: new Date().toISOString(),
+    });
+    saveEntries(entries);
+
+    textEl.value = '';
+    tagsEl.value = '';
+    render();
+  });
+
+  render();
+</script>
+
+<style>
+  .journal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-width: 480px;
+  }
+  .journal-form label {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+  .journal-form textarea,
+  .journal-form input {
+    width: 100%;
+    padding: 0.6rem;
+    border-radius: 6px;
+    border: 1px solid var(--color-line);
+    background: var(--color-bg-alt);
+    color: var(--color-text);
+    font-family: inherit;
+    font-size: 0.95rem;
+    box-sizing: border-box;
+  }
+  .journal-submit {
+    align-self: flex-start;
+    padding: 0.5rem 1.2rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-accent);
+    background: transparent;
+    color: var(--color-accent);
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+    appearance: none;
+  }
+  .journal-submit:hover {
+    background: var(--color-accent);
+    color: var(--color-bg);
+  }
+
+  .journal-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .journal-entry {
+    padding: 1rem;
+    border: 1px solid var(--color-line);
+    border-radius: 8px;
+    background: var(--color-bg-alt);
+  }
+  .journal-entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  .journal-date {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+  .journal-delete {
+    background: none;
+    border: none;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .journal-delete:hover {
+    color: var(--color-accent);
+  }
+  .journal-entry-text {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .journal-entry-tags {
+    margin-top: 0.6rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .journal-entry-tags span {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    background: var(--color-bg);
+    color: var(--color-text-muted);
+  }
+</style>

@@ -1,0 +1,75 @@
+---
+// ListenButton.astro - reads the article aloud using the browser's
+// built-in speechSynthesis API. Completely free, no external service,
+// no API keys - but quality/voice availability depends on the visitor's
+// browser and OS (works well on Chrome/Edge desktop, decent on Safari,
+// varies more on some Android browsers).
+---
+<button id="listen-btn" class="listen-btn" type="button" aria-label="Listen to this article">
+  <span class="listen-icon">🔊</span>
+  <span class="listen-label">Listen to this article</span>
+</button>
+
+<script>
+  const btn = document.getElementById('listen-btn');
+  const article = document.querySelector('article');
+  const label = btn?.querySelector('.listen-label');
+  const icon = btn?.querySelector('.listen-icon');
+
+  let isPlaying = false;
+
+  function reset() {
+    isPlaying = false;
+    if (label) label.textContent = 'Listen to this article';
+    if (icon) icon.textContent = '🔊';
+  }
+
+  btn?.addEventListener('click', () => {
+    if (!article) return;
+
+    // Toggle off if already speaking
+    if (isPlaying) {
+      window.speechSynthesis.cancel();
+      reset();
+      return;
+    }
+
+    // Skip the "Listen" button's own text and pull only the article content
+    const text = article.textContent?.trim() || '';
+    if (!text) return;
+
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = 0.95; // slightly slower than default for clarity
+    utterance.onend = reset;
+    utterance.onerror = reset;
+
+    window.speechSynthesis.speak(utterance);
+    isPlaying = true;
+    if (label) label.textContent = 'Stop';
+    if (icon) icon.textContent = '⏸';
+  });
+
+  // Stop playback if the visitor navigates away mid-article
+  document.addEventListener('astro:before-swap', () => {
+    window.speechSynthesis.cancel();
+  });
+</script>
+
+<style>
+  .listen-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    color: var(--color-text);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: border-color 0.2s ease;
+  }
+  .listen-btn:hover {
+    border-color: var(--color-accent);
+  }
+</style>

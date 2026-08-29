@@ -5,7 +5,7 @@ const dreams = defineCollection({
   schema: z.object({
     // Human-readable title, e.g. "Dream About Snakes: Meaning & Interpretation"
     title: z.string(),
-    // The core symbol, e.g. "snake" — used for related-dreams linking
+    // The core symbol, e.g. "snake" - used for related-dreams linking
     symbol: z.string(),
     // Short meta description for SEO (150-160 chars ideal)
     description: z.string(),
@@ -41,4 +41,24 @@ const dreams = defineCollection({
   }),
 });
 
-export const collections = { dreams };
+// Longer-form evergreen guides - lucid dreaming, sleep paralysis,
+// recurring dreams, etc. Unlike `dreams`, these aren't tied to a single
+// symbol, so there's no `symbol` field, and no per-entry `category` enum
+// (the whole collection IS one topical cluster: sleep & the subconscious).
+const guides = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    tags: z.array(z.string()).default([]),
+    img: z.string().optional(),
+    pubDate: z.date(),
+    updatedDate: z.date().optional(),
+    draft: z.boolean().default(true),
+    source: z.string().default('gemini-3.6-flash'),
+    edited: z.boolean().default(false),
+    qcIssues: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { dreams, guides };

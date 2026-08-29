@@ -30,7 +30,7 @@ The specific details of your dream can offer clearer context regarding what your
 
 From a psychological standpoint, these themes are usually linked to stress, life transitions, and communication difficulties. Carl Jung suggested that losing teeth could symbolize a major transformation or the birth of something new, drawing a parallel to how shedding baby teeth in childhood marks a key transition toward maturity.
 
-Modern psychological research often connects this imagery to acute stress, feelings of helplessness, or periods of significant identity shifts—such as changing careers, ending a relationship, or relocating. Because teeth are integral to speaking clearly, these dreams often coincide with moments when a person feels unheard, censored, or hesitant to express their true feelings. 
+Modern psychological research often connects this imagery to acute stress, feelings of helplessness, or periods of significant identity shifts-such as changing careers, ending a relationship, or relocating. Because teeth are integral to speaking clearly, these dreams often coincide with moments when a person feels unheard, censored, or hesitant to express their true feelings. 
 
 Additionally, physiological factors play a significant role. Conditions like nocturnal teeth grinding (bruxism) can produce real sensory feedback during sleep, which your brain translates into dramatic imagery of dental decay or loss.
 

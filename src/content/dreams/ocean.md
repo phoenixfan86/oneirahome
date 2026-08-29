@@ -33,7 +33,7 @@ Standing on a beach and looking out toward the horizon represents the boundary b
 
 ## Psychological Perspectives
 
-In classical psychoanalysis, marine landscapes are among the most powerful representations of the collective unconscious—the deep layer of the human mind shared by all humanity, containing primordial instincts, archetypes, and memory patterns. Sigmund Freud viewed bodies of water as symbolic of maternal connections and the origin of life, while Carl Jung interpreted the open sea as the literal vastness of the unconscious mind itself.
+In classical psychoanalysis, marine landscapes are among the most powerful representations of the collective unconscious-the deep layer of the human mind shared by all humanity, containing primordial instincts, archetypes, and memory patterns. Sigmund Freud viewed bodies of water as symbolic of maternal connections and the origin of life, while Carl Jung interpreted the open sea as the literal vastness of the unconscious mind itself.
 
 Dreaming about oceans highlights your current capacity to process deep emotional experiences. When the sea appears in your sleep, depth psychology suggests that your psyche is asking you to expand your awareness beyond the rigid boundaries of daily logic. Navigating these vast waters signifies the ongoing process of integration, where you learn to balance conscious willpower with the deeper, intuitive currents of your underlying psychological drives.
 

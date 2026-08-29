@@ -35,7 +35,7 @@ Taking on the role of a correctional officer implies that you may be acting as y
 
 From a psychological standpoint, nocturnal images of captivity frequently align with the concept of internal conflict. Carl Jung suggested that structures of restraint reflect the tension between the conscious ego and the repressed shadow. The cell represents the dark, unintegrated aspects of the self that have been locked away due to societal conditioning or personal shame.
 
-Modern cognitive psychology interprets these themes as reflections of cognitive overload and learned helplessness. When individuals experience prolonged periods without agency—such as working under oppressive management or lingering in an unfulfilling arrangement—the mind translates this perceived lack of choice into spatial confinement. Dreaming about prison in this context highlights a need to identify areas where self-efficacy can be restored.
+Modern cognitive psychology interprets these themes as reflections of cognitive overload and learned helplessness. When individuals experience prolonged periods without agency-such as working under oppressive management or lingering in an unfulfilling arrangement-the mind translates this perceived lack of choice into spatial confinement. Dreaming about prison in this context highlights a need to identify areas where self-efficacy can be restored.
 
 ## Reflection and Integration
 

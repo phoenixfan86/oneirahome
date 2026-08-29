@@ -10,8 +10,10 @@ const allDreams = await getCollection(
 const allTags = Array.from(
   new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.tags))
 ).sort((a: string, b: string) => a.localeCompare(b));
+const pageTitle = `${allTags.length} Dream Themes & Symbols | Dream Dictionary`;
+const pageDescription = `Every theme covered in the dictionary so far, from fear and transformation to relationships and change - pick a theme to see related dream meanings.`;
 ---
-<BaseLayout title="All Dream Tags" description="Browse dream meanings by theme and symbol tag.">
+<BaseLayout title={pageTitle} description={pageDescription}>
   <h1>All Tags</h1>
   <p>Browse dream meanings grouped by theme.</p>
 

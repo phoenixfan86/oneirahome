@@ -583,6 +583,15 @@ declare module 'astro:content' {
   data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 };
+"guides": {
+"how-to-lucid-dream.md": {
+	id: "how-to-lucid-dream.md";
+  slug: "how-to-lucid-dream";
+  body: string;
+  collection: "guides";
+  data: InferEntrySchema<"guides">
+} & { render(): Render[".md"] };
+};
 
 	};
 

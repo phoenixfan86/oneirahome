@@ -35,7 +35,7 @@ When your upper body attempts to move forward while your lower body feels comple
 
 From a neurological standpoint, this imagery has a direct link to sleep physiology. During REM (Rapid Eye Movement) sleep, the brain enters a state called muscle atonia, which temporarily paralyzes voluntary muscles to prevent you from physically acting out your dreams. When you regain partial conscious awareness during this state, your brain attempts to send movement signals to your limbs. Finding no physical response, the dreaming mind translates this somatic reality into narrative scenes of heavy limbs or immobility.
 
-Psychologically, modern research aligns this phenomenon with locus of control—the degree to which people believe they have power over outcome events in their lives. Experiencing a lack of forward movement often coincides with moments when an individual feels an external locus of control, believing that outside forces dictate their trajectory despite their best efforts. It is also closely associated with imposter syndrome and high-stress transitions, where an individual feels inadequate despite putting forth maximum effort.
+Psychologically, modern research aligns this phenomenon with locus of control-the degree to which people believe they have power over outcome events in their lives. Experiencing a lack of forward movement often coincides with moments when an individual feels an external locus of control, believing that outside forces dictate their trajectory despite their best efforts. It is also closely associated with imposter syndrome and high-stress transitions, where an individual feels inadequate despite putting forth maximum effort.
 
 ## Reflection Prompts
 

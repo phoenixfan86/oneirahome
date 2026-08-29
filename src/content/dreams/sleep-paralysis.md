@@ -33,7 +33,7 @@ A scenario where the immobility slowly fades or ends with a sudden jerk or gasp 
 
 ## Psychological Perspectives
 
-Physiologically, sleep paralysis occurs during the REM stage when neurological muscle atonia—the body's natural safety mechanism to prevent acting out dreams—overlaps with brief moments of conscious awareness. When the brain attempts to interpret this state of physical immobility, it often generates threat-detection responses, resulting in frightening visual or auditory hallucinations.
+Physiologically, sleep paralysis occurs during the REM stage when neurological muscle atonia-the body's natural safety mechanism to prevent acting out dreams-overlaps with brief moments of conscious awareness. When the brain attempts to interpret this state of physical immobility, it often generates threat-detection responses, resulting in frightening visual or auditory hallucinations.
 
 From a psychological standpoint, experiencing this phenomenon within dream states frequently correlates with sleep deprivation, disrupted circadian rhythms, or elevated cortisol levels. Psychologists view these episodes as the mind's attempt to contextualize intense physical helplessness combined with heightened vigilance, translating physiological vulnerability into symbolic narratives of constraint and loss of autonomy.
 
