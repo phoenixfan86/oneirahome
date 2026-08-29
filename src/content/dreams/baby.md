@@ -2,6 +2,7 @@
 title: "Dream About Baby: Meaning & Interpretation"
 symbol: "baby"
 description: "What does it mean to dream about baby? Explore the common scenarios and psychological meaning behind this dream."
+img: "/img/baby.webp"
 category: "people"
 tags: ["vulnerability", "new beginnings", "potential", "nurturing", "creativity"]
 pubDate: 2026-08-19
