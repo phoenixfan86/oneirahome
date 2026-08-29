@@ -58,6 +58,15 @@ const breadcrumbSchema = {
   <article>
     <h1>{entry.data.title}</h1>
     <ShareButtons url={canonicalUrl} title={entry.data.title} />
+    {entry.data.img && (
+      <div class="dream-img">
+        <img
+        src={entry.data.img}
+        alt={entry.data.title}
+        width="640"
+        />
+      </div>
+    )}
     <ListenButton />
     <Content />
   </article>

@@ -76,6 +76,13 @@ const totalDreams = await getDreamCount();
           <a href="/" class="site-title">🌙 Oneira Home</a>
           <p class="site-tagline">Understand what your dreams are telling you</p>
         </div>
+<nav>
+  <ul class="main-nav">
+    <li><a href="/">Dreams</a></li>
+    <li><a href="/guides/">Guides</a></li>
+    <li><a href="/journal/">Dream Journal</a></li>
+  </ul>
+</nav>
         <div class="search">
           <span>Find your dream</span>
           <div id="search"></div>
@@ -97,15 +104,17 @@ const totalDreams = await getDreamCount();
       </main>
 
     <footer class="site-footer">
-      <ul class="f-nav">
-        <li><a href="/about/">About us</a></li>
-        <li><a href="/cookie-policy/">Cookie policy</a></li>
-        <li><a href="/terms/">Terms</a></li>
-        <li><a href="/privacy-policy/">Privacy policy</a></li>
-        <li><a href="https://www.trustpilot.com/review/oneirahome.com" target="_blank" rel="noopener">
-            Review us on Trustpilot
-          </a></li>
-      </ul>
+      <nav>
+        <ul class="f-nav">
+          <li><a href="/about/">About us</a></li>
+          <li><a href="/cookie-policy/">Cookie policy</a></li>
+          <li><a href="/terms/">Terms</a></li>
+          <li><a href="/privacy-policy/">Privacy policy</a></li>
+          <li><a href="https://www.trustpilot.com/review/oneirahome.com" target="_blank" rel="noopener">
+              Review us on Trustpilot
+            </a></li>
+        </ul>
+      </nav>
       <div class="container">
         <p>© {new Date().getFullYear()} Oneira Home. Interpretations are for reflection, not medical or psychological advice.</p>
         <span>{totalDreams} dream meanings and counting</span>

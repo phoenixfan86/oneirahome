@@ -5,6 +5,7 @@ import type { GetStaticPaths } from 'astro';
 import { getReadingTime } from '../../lib/readingTime';
 import RelatedDreams from '../../components/RelatedDreams.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
+import ListenButton from '../../components/ListenButton.astro';
 
 export const getStaticPaths = (async () => {
   const dreams = await getCollection(
@@ -68,6 +69,7 @@ schema={[articleSchema, breadcrumbSchema]}
     
     <h1 class="dream-title">{entry.data.title}</h1>
     <ShareButtons url={canonicalUrl} title={entry.data.title} />
+    
     <p class="dream-meta">
       Category: <a href={`/categories/${entry.data.category}`}>{entry.data.category}</a>
       {entry.data.tags.length > 0 && (
@@ -90,6 +92,7 @@ schema={[articleSchema, breadcrumbSchema]}
         />
       </div>
     )}
+    <ListenButton />
     <Content />
     <RelatedDreams category={entry.data.category} excludeSlug={entry.slug} />
   </article>

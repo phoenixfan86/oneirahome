@@ -7,20 +7,32 @@ const allDreams = await getCollection(
   ({ data }: CollectionEntry<'dreams'>) => !data.draft
 );
 
-const allCategories = Array.from(
-  new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.category))
-).sort((a: string, b: string) => a.localeCompare(b));
-const pageTitle = `${allCategories.length} Dream Categories | Dream Dictionary`;
-const pageDescription = `Every categories covered in the dictionary events, people's, body, objects, animals, nature, places and other - pick a theme to see related dream meanings.`;
+const categoryCounts = allDreams.reduce((acc: Record<string, number>, entry: CollectionEntry<'dreams'>) => {
+  acc[entry.data.category] = (acc[entry.data.category] || 0) + 1;
+  return acc;
+}, {} as Record<string, number>);
+
+const categories = Object.entries(categoryCounts).sort(
+  (a, b) => b[1] - a[1]
+) as [string, number][];
+
+// const allCategories = Array.from(
+//   new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.category))
+// ).sort((a: string, b: string) => a.localeCompare(b));
+
+const pageTitle = `${categories.length} Dream Categories | Dream Dictionary`;
+const pageDescription = `Browse dream meanings by category - animals, people, places, emotions, and more. ${categories.length} categories covered so far.`;
 ---
-<BaseLayout title={pageTitle} description="Browse dream meanings by categories.">
-  <h1>All Categories</h1>
-  <p>Browse dream meanings grouped by Categories.</p>
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <h1>Browse by Category</h1>
+  <p>{categories.length} categories covered so far — pick one to see dream meanings that fall under it.</p>
 
   <ul class="cat-grid">
-    {allCategories.map((category: string) => (
+    {categories.map(([category, count]) => (
       <li class="category-items">
-        <a href={`/categories/${category}/`}>{category}</a>
+        <a href={`/categories/${category}/`}>
+        {category}<span class="count">({count})</span>
+        </a>
       </li>
     ))}
   </ul>
