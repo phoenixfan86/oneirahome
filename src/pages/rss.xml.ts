@@ -29,7 +29,7 @@ export async function GET(context: { site: URL }) {
       media: 'http://search.yahoo.com/mrss/',
     },
     items: sorted.map((entry: CollectionEntry<'dreams'>) => {
-      const rawImg = entry.data.img ?? '/img/og-default.jpg';
+      const rawImg = entry.data.img ?? '/img/moon.webp';
       const imageUrl = new URL(rawImg, context.site).href;
       const mimeType = getMimeType(imageUrl);
 
