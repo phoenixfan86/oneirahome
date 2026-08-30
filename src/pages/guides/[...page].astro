@@ -45,6 +45,17 @@ const listSchema = buildListSchema({
     {page.data.map((entry) => (
       <li class="dream-item">
         <a href={`/guides/${entry.slug}/`}>
+        {entry.data.img && (
+          <div class="dream-img">
+            <img
+              src={entry.data.img}
+              alt={entry.data.title}
+              width="480"
+              height="255"
+              loading="lazy"
+            />
+          </div>
+        )}
           <h2>{entry.data.title}</h2>
         </a>
         <p class="dream-excerpt">{entry.data.description}</p>
