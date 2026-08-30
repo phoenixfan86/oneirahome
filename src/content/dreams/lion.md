@@ -4,7 +4,7 @@ symbol: "lion"
 description: "Learn what encountering a lion in your dream means regarding personal power, leadership, suppressed passions, and standing your ground."
 img: "/img/lion.webp"
 category: "animals"
-tags: []
+tags: ["personal power", "leadership", "courage", "passion"]
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

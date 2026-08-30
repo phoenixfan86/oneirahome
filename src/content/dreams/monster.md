@@ -4,7 +4,7 @@ symbol: "monster"
 description: "Explore the hidden psychological meaning behind encountering a monster in your nighttime subconscious and what it reveals about your waking life."
 img: "/img/monster.webp"
 category: "other"
-tags: []
+tags: ["fear", "subconscious", "anxiety", "shadow self"]
 pubDate: 2026-08-28
 draft: false
 source: "gemini-3.6-flash"

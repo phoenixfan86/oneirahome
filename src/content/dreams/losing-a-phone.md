@@ -4,7 +4,7 @@ symbol: "losing a phone"
 description: "Explore what misplacing or losing a phone reflects about your real-life connections, communication gaps, and digital overwhelm."
 img: "/img/losing-a-phone.webp"
 category: "objects"
-tags: []
+tags: ["communication", "relationships", "anxiety", "technology"]
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

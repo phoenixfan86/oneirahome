@@ -4,7 +4,7 @@ symbol: "mirror"
 description: "What does it mean to dream about mirror? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/mirror.webp"
 category: "objects"
-tags: []
+tags: ["self-reflection", "identity", "truth", "perception"]
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

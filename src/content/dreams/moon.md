@@ -4,7 +4,7 @@ symbol: "moon"
 description: "Discover what the moon symbolizes in dreams, including its links to intuition, the unconscious mind, and emotional cycles."
 img: "/img/half-moon.webp"
 category: "nature"
-tags: []
+tags: ["intuition", "emotions", "unconscious", "cycles"]
 pubDate: 2026-08-28
 draft: false
 source: "gemini-3.6-flash"

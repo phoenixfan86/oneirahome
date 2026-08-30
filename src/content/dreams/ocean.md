@@ -4,7 +4,7 @@ symbol: "ocean"
 description: "Uncover the meaning of ocean dreams, exploring themes of the deep subconscious, vast emotional states, and personal discovery."
 img: "/img/ocean.webp"
 category: "nature"
-tags: []
+tags: ["subconscious", "emotions", "discovery", "depth"]
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

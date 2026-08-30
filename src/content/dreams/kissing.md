@@ -4,7 +4,7 @@ symbol: "kissing"
 description: "Uncover the emotional and symbolic significance of kissing in dreams, from romantic desires to personal integration and self-acceptance."
 img: "/img/kissing.webp"
 category: "events"
-tags: []
+tags: ["romance", "desire", "self-acceptance", "integration"]
 pubDate: 2026-08-26
 draft: false
 source: "gemini-3.6-flash"

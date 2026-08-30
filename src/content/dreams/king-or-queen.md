@@ -4,7 +4,7 @@ symbol: "king or queen"
 description: "Uncover what royal figures in dreams signify regarding personal authority, control, self-sovereignty, and leadership."
 img: "/img/king-or-queen.webp"
 category: "people"
-tags: []
+tags: ["authority", "leadership", "control", "power"]
 pubDate: 2026-08-26
 draft: false
 source: "gemini-3.6-flash"

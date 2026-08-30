@@ -3,7 +3,7 @@ title: "Dream About Stranger: Meaning & Interpretation"
 symbol: "stranger"
 description: "Explore the psychological significance of unfamiliar figures in your dreams and what they reveal about your unseen potential."
 category: "people"
-tags: []
+tags: ["mystery", "self-discovery", "unseen potential", "shadow self"]
 pubDate: 2026-08-21
 draft: true
 source: "gemini-3.6-flash"

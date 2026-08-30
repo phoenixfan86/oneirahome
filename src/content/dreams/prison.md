@@ -4,7 +4,7 @@ symbol: "prison"
 description: "Discover the psychological meaning and hidden messages behind seeing or being trapped in a prison in your dreams."
 img: "/img/prison.webp"
 category: "places"
-tags: []
+tags: ["confinement", "restriction", "guilt", "trapped"]
 pubDate: 2026-08-30
 draft: false
 source: "gemini-3.6-flash"

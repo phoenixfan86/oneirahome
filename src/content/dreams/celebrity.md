@@ -4,7 +4,7 @@ symbol: "celebrity"
 description: "Discover what it means when a famous figure appears in your night visions, from personal aspirations to hidden psychological traits."
 img: "/img/celebrity.webp"
 category: "people"
-tags: []
+tags: ["ambition", "aspirations", "identity", "desire"]
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

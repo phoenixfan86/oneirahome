@@ -3,7 +3,7 @@ title: "Dream About Running But Not Moving: Meaning & Interpretation"
 symbol: "running but not moving"
 description: "Discover the psychological meaning and symbolism behind experiencing heavy legs or running in place in your sleep."
 category: "events"
-tags: []
+tags: ["helplessness", "frustration", "stuck", "anxiety"]
 pubDate: 2026-08-20
 draft: true
 source: "gemini-3.6-flash"

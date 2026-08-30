@@ -3,7 +3,7 @@ title: "Dream About Zombie: Meaning & Interpretation"
 symbol: "zombie"
 description: "Discover the hidden psychological meaning behind encountering zombies in your dreams and what your subconscious may be signaling."
 category: "people"
-tags: []
+tags: ["fear", "subconscious", "overwhelm", "detachment"]
 pubDate: 2026-08-20
 draft: true
 source: "gemini-3.6-flash"

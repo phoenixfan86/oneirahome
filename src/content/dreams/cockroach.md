@@ -4,7 +4,7 @@ symbol: "cockroach"
 description: "Discover what a cockroach in your dream signifies, from emotional resilience and tenacity to neglected issues that need your attention."
 img: "/img/cockroach.webp"
 category: "animals"
-tags: []
+tags: ["resilience", "tenacity", "neglect", "persistence"]
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

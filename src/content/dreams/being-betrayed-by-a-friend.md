@@ -4,7 +4,7 @@ symbol: "being betrayed by a friend"
 description: "Understand the emotional and psychological meaning of friend betrayal in dreams and what it reveals about trust and self-doubt."
 img: "/img/beingbetrayed.webp"
 category: "people"
-tags: []
+tags: ["trust", "betrayal", "relationships", "self-doubt"]
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

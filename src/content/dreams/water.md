@@ -3,7 +3,7 @@ title: "Dream About Water: Meaning & Interpretation"
 symbol: "water"
 description: "What does it mean to dream about water? Explore the common scenarios and psychological meaning behind this dream."
 category: "nature"
-tags: []
+tags: ["emotions", "subconscious", "psychology", "purification"]
 pubDate: 2026-08-18
 draft: true
 source: "gemini-3.6-flash"

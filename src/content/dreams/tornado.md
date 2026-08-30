@@ -3,7 +3,7 @@ title: "Dream About Tornado: Meaning & Interpretation"
 symbol: "tornado"
 description: "Learn the symbolic meaning of tornadoes in dreams, representing emotional turmoil, sudden chaos, and overwhelming life forces."
 category: "nature"
-tags: []
+tags: ["chaos", "emotional turmoil", "change", "overwhelmed"]
 pubDate: 2026-08-20
 draft: true
 source: "gemini-3.6-flash"

@@ -4,7 +4,7 @@ symbol: "losing a wallet"
 description: "Uncover the symbolic meaning of losing your wallet in sleep, exploring themes of identity, security, and personal values."
 img: "/img/losing-a-wallet.webp"
 category: "objects"
-tags: []
+tags: ["identity", "security", "finances", "loss"]
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

@@ -4,7 +4,7 @@ symbol: "mountain"
 description: "Uncover what mountains in dreams represent, from overcoming major obstacles to achieving long-held personal goals."
 img: "/img/mountain.webp"
 category: "nature"
-tags: []
+tags: ["obstacles", "goals", "achievement", "challenges"]
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

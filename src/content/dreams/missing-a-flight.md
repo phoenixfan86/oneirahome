@@ -4,7 +4,7 @@ symbol: "missing a flight"
 description: "Explore what it means to miss a flight in your sleep, from lost opportunities to fears of life transitions."
 img: "/img/missing-a-flight.webp"
 category: "events"
-tags: []
+tags: ["anxiety", "opportunities", "transitions", "stress"]
 pubDate: 2026-08-28
 draft: false
 source: "gemini-3.6-flash"

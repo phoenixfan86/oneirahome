@@ -4,7 +4,7 @@ symbol: "losing a job"
 description: "Discover the psychological meanings and symbolic interpretations behind experiencing job loss and professional uncertainty in sleep."
 img: "/img/losing-a-job.webp"
 category: "events"
-tags: []
+tags: ["career", "anxiety", "security", "identity"]
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

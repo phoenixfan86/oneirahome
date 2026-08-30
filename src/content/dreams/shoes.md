@@ -3,7 +3,7 @@ title: "Dream About Shoes: Meaning & Interpretation"
 symbol: "shoes"
 description: "What does it mean to dream about shoes? Explore the common scenarios and psychological meaning behind this dream."
 category: "objects"
-tags: []
+tags: ["life path", "direction", "identity", "grounding"]
 pubDate: 2026-08-19
 draft: true
 source: "gemini-3.6-flash"
