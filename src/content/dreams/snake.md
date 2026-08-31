@@ -2,10 +2,11 @@
 title: "Dream About Snakes: Meaning & Interpretation"
 symbol: "snake"
 description: "What does it mean to dream about a snake? Explore the psychological, cultural, and emotional meanings behind snake dreams."
+img: "/img/snake.webp"
 category: "animals"
 tags: ["snake", "fear", "transformation", "danger"]
-pubDate: 2026-08-17
-draft: true
+pubDate: 2026-08-31
+draft: false
 source: "gemini-3.6-flash"
 edited: true
 qcIssues: []
