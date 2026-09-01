@@ -4,7 +4,7 @@ symbol: "ex"
 description: "What does it mean to dream about ex? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/ex.webp"
 category: "people"
-tags: ["past", "relationships", "unresolved feelings", "nostalgia"]
+tags: ["past", "relationships", "unresolved-feelings", "nostalgia"]
 pubDate: 2026-08-24
 draft: false
 source: "gemini-3.6-flash"

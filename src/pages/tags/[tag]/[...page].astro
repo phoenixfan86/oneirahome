@@ -37,8 +37,8 @@ const totalCount = page.total;
 
 const pageTitle =
   page.currentPage === 1
-    ? `Dreams About ${capitalize(tag)} - Meanings & Interpretations | Oneira Home`
-    : `Dreams About ${capitalize(tag)} - Page ${page.currentPage} | Oneira Home`;
+    ? `Dreams About ${capitalize(tag)} - Meanings & Interpretations`
+    : `Dreams About ${capitalize(tag)} - Page ${page.currentPage}`;
 
 const pageDescription = `${totalCount} dream ${totalCount === 1 ? 'meaning' : 'meanings'} connected to ${tag} - browse interpretations that share this theme, from common symbols to specific scenarios.`;
 
@@ -54,7 +54,7 @@ const listSchema = buildListSchema({
   entries: page.data,
 });
 ---
-<BaseLayout title={pageTitle} description={`All dream meanings tagged "${tag}".`}>
+<BaseLayout title={pageTitle} description={pageDescription}>
   <h1>Dreams tagged: {tag}</h1>
 
   <ul class="dream-list">

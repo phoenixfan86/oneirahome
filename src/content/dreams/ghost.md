@@ -4,7 +4,7 @@ symbol: "ghost"
 description: "Discover the psychological and symbolic meanings behind encountering a ghost in your sleep, from unresolved past issues to hidden emotions."
 img: "/img/ghost.webp"
 category: "people"
-tags: ["past", "unresolved issues", "memory", "fear"]
+tags: ["past", "unresolved-issues", "memory", "fear"]
 pubDate: 2026-08-25
 draft: false
 source: "gemini-3.6-flash"
