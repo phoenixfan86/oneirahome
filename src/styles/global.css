@@ -42,7 +42,7 @@ body {
 main {
 	min-height: 100vh;
 	display: flex;
-	margin: 0.75rem;
+	margin: 0.75rem 0.5rem;
 }
 
 a {
@@ -101,7 +101,7 @@ strong {
 	align-items: center;
 	gap: 0.75rem;
 	margin: 3rem 0;
-	color: var(--color-text-muted);
+	color: var(--color-accent);
 }
 .moon-divider::before,
 .moon-divider::after {
@@ -114,7 +114,7 @@ strong {
 .site-header {
 	position: sticky;
 	top: 0;
-	padding: 0.5rem 1.5rem;
+	padding: 0.3rem 1.5rem;
 	box-shadow: 0 1px 5px var(--color-1);
 	background: var(--color-bg);
 	z-index: 1000;
@@ -125,8 +125,10 @@ strong {
 		justify-content: space-between;
 		box-shadow: none;
 		background: none;
+		padding: 0.3rem;
 	}
 }
+
 .main-nav {
 	display: flex;
 	align-items: center;
@@ -134,8 +136,9 @@ strong {
 	list-style: none;
 	font-size: 14px;
 	font-weight: 700;
-	letter-spacing: 1.5px;
+	letter-spacing: 1.1px;
 	text-transform: uppercase;
+	margin: 0 auto;
 	& a {
 		color: var(--color-text-muted);
 		transition: all 0.4s ease;
@@ -146,8 +149,31 @@ strong {
 	}
 }
 .site-title {
-	font-size: 1.4rem;
+	display: flex;
+	font-size: 1.8rem;
 	color: var(--color-text);
+}
+.moon {
+	transition: transform 0.6s ease;
+}
+.logo {
+	display: flex;
+	flex-direction: column;
+	line-height: 0.8;
+	transition: all 0.4s ease;
+}
+.text {
+	font-weight: 700;
+	text-shadow: 0 0 4px var(--color-accent);
+}
+.home {
+	transform: translateX(22px);
+	font-weight: 700;
+	color: var(--color-accent);
+	text-shadow: 0 0 4px var(--color-text);
+}
+.site-title:hover .moon {
+	transform: rotate(120deg) scale(2);
 }
 .site-tagline {
 	color: var(--color-text-muted);
@@ -595,6 +621,23 @@ article h2 {
 }
 
 @media (max-width: 425px) {
+	.site-title {
+		font-size: 1.2rem;
+		align-items: center;
+		justify-content: center;
+	}
+	.site-tagline {
+		font-size: 0.7rem;
+		margin: 5px 0;
+		text-align: center;
+	}
+	.logo {
+		flex-direction: row;
+		line-height: 1.6;
+	}
+	.home {
+		transform: translateX(5px);
+	}
 	.main-nav {
 		gap: 5px;
 		font-size: 12px;
@@ -612,6 +655,9 @@ article h2 {
 	}
 	.dream-img img {
 		width: 100%;
+	}
+	.f-nav {
+		flex-direction: column;
 	}
 }
 
