@@ -30,6 +30,18 @@ if (!API_KEY) {
   process.exit(1);
 }
 
+// Turns a tag like "Inner Shadow" or "inner  shadow" into "inner-shadow" —
+// URL-safe, matching how the site builds /tags/<tag>/ links and routes.
+// Without this, a multi-word tag from the AI response (e.g. "inner shadow")
+// would get saved with a literal space, producing a broken/unencoded URL.
+function slugifyTag(tag) {
+  return tag
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
+}
+
 function extractField(raw, key) {
   const m = raw.match(new RegExp(`^${key}:\\s*"?(.*?)"?$`, 'm'));
   return m ? m[1] : '';
@@ -121,7 +133,9 @@ async function main() {
           continue;
         }
 
-        const tags = match.tags.map((t) => String(t).toLowerCase());
+        // Slugify + dedupe (in case two suggested tags collapse to the
+        // same slug, e.g. "self doubt" and "self-doubt").
+        const tags = [...new Set(match.tags.map((t) => slugifyTag(String(t))).filter(Boolean))];
         const tagsYaml = `[${tags.map((t) => `"${t}"`).join(', ')}]`;
 
         const updatedRaw = item.raw.replace(/^tags:\s*\[.*\]\s*$/m, `tags: ${tagsYaml}`);

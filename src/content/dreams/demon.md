@@ -4,7 +4,7 @@ symbol: "demon"
 description: "Discover the deeper spiritual and psychological symbolism of encountering a demon in sleep and how to process the emotions behind it."
 img: "/img/demon.webp"
 category: "other"
-tags: ["fear", "inner shadow", "spirituality", "struggle"]
+tags: ["fear", "inner-shadow", "spirituality", "struggle"]
 pubDate: 2026-08-20
 draft: false
 source: "gemini-3.6-flash"

@@ -3,7 +3,7 @@ title: "Dream About Death: Meaning & Interpretation"
 symbol: "death"
 description: "What does it mean to dream about death? Explore the common scenarios and psychological meaning behind this dream."
 category: "events"
-tags: ["transformation", "endings", "new beginnings", "change"]
+tags: ["transformation", "endings", "new-beginnings", "change"]
 pubDate: 2026-08-19
 draft: false
 source: "gemini-3.6-flash"

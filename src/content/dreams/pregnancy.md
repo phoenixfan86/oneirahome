@@ -4,7 +4,7 @@ symbol: "pregnancy"
 description: "What does it mean to dream about pregnancy? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/pregnancy.webp"
 category: "body"
-tags: ["new beginnings", "creation", "growth", "potential"]
+tags: ["new-beginnings", "creation", "growth", "potential"]
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

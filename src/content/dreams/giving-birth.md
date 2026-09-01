@@ -4,7 +4,7 @@ symbol: "giving birth"
 description: "Discover the psychological and symbolic meaning behind labor and childbirth in your dreams, from new beginnings to hidden potential."
 img: "/img/giving-birth.webp"
 category: "body"
-tags: ["new beginnings", "transformation", "potential", "creation"]
+tags: ["new-beginnings", "transformation", "potential", "creation"]
 pubDate: 2026-08-25
 draft: false
 source: "gemini-3.6-flash"
