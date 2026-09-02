@@ -2,6 +2,7 @@
 title: "Dream About Blood: Meaning & Interpretation"
 symbol: "blood"
 description: "What does it mean to dream about blood? Explore the common scenarios and psychological meaning behind this dream."
+img: "/img/blood.webp"
 category: "body"
 tags: ["vitality", "emotion", "healing", "guilt", "boundaries"]
 pubDate: 2026-08-19
