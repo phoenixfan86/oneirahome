@@ -323,6 +323,12 @@ article h2 {
 	font-size: 0.9rem;
 	margin: 0;
 }
+.random-item {
+	font-size: 14px;
+}
+.sidebar-list:has(.dream-img) img {
+	width: 100px;
+}
 
 .dream-list {
 	list-style: none;

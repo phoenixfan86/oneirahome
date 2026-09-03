@@ -55,7 +55,7 @@ const listSchema = buildListSchema({
 });
 ---
 <BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
-  <h1>Dreams tagged: {tag}</h1>
+  <h1>Dreams about {tag}</h1>
 
   <ul class="dream-list">
     {page.data.map((entry) => (
