@@ -771,7 +771,54 @@ declare module 'astro:content' {
 	};
 
 	type DataEntryMap = {
-		
+		"roundups": {
+"animals-top-1": {
+	id: "animals-top-1";
+  collection: "roundups";
+  data: any
+};
+"body-top-1": {
+	id: "body-top-1";
+  collection: "roundups";
+  data: any
+};
+"events-top-1": {
+	id: "events-top-1";
+  collection: "roundups";
+  data: any
+};
+"events-top-2": {
+	id: "events-top-2";
+  collection: "roundups";
+  data: any
+};
+"nature-top-1": {
+	id: "nature-top-1";
+  collection: "roundups";
+  data: any
+};
+"objects-top-1": {
+	id: "objects-top-1";
+  collection: "roundups";
+  data: any
+};
+"people-top-1": {
+	id: "people-top-1";
+  collection: "roundups";
+  data: any
+};
+"people-top-2": {
+	id: "people-top-2";
+  collection: "roundups";
+  data: any
+};
+"places-top-1": {
+	id: "places-top-1";
+  collection: "roundups";
+  data: any
+};
+};
+
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;

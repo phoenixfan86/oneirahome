@@ -547,6 +547,28 @@ article h2 {
 	padding: 0.5rem 0.7rem;
 }
 
+.roundup-list {
+	counter-reset: roundup;
+}
+.roundup-list .dream-item {
+	position: relative;
+	padding-left: 2.5rem;
+}
+.roundup-list .dream-item::before {
+	counter-increment: roundup;
+	content: counter(roundup);
+	position: absolute;
+	left: 10px;
+	top: 0;
+	width: 30px;
+	height: 30px;
+	font-size: 1.3rem;
+	color: var(--color-accent);
+}
+.read-more {
+	font-size: 0.85rem;
+}
+
 .site-footer {
 	box-shadow: 2px 0 7px var(--color-1);
 	padding: 0.5rem 0;
@@ -564,8 +586,6 @@ article h2 {
 	justify-content: center;
 	gap: 10px;
 	list-style: none;
-	& a {
-	}
 }
 
 .top-btn {

@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { buildListSchema } from '../../lib/schema';
+
+const roundups = await getCollection('roundups');
+const sorted = roundups.sort(
+  (a: CollectionEntry<'roundups'>, b: CollectionEntry<'roundups'>) =>
+    b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const pageTitle = 'Top 5 Dream Meaning Roundups | Oneira Home';
+const pageDescription = 'Curated Top 5 dream meaning roundups by category, updated as new articles are added to the dictionary.';
+
+const listSchema = buildListSchema({
+  name: pageTitle,
+  description: pageDescription,
+  url: Astro.url.href,
+  site: Astro.site,
+  entries: sorted.map((entry) => ({ slug: entry.id, data: entry.data })),
+  basePath: '/articles/',
+});
+---
+<BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
+  <h1>Top 5 Roundups</h1>
+  <p>Curated picks from the dictionary, grouped by category - a quick way to browse without scrolling the full list.</p>
+
+  <div class="moon-divider">☾</div>
+
+  <ul class="dream-list">
+    {sorted.map((entry) => (
+      <li class="dream-item">
+        <a href={`/articles/${entry.id}/`}>
+          <h2>{entry.data.title}</h2>
+        </a>
+        <p class="dream-excerpt">{entry.data.description}</p>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

@@ -60,5 +60,16 @@ const guides = defineCollection({
     qcIssues: z.array(z.string()).default([]),
   }),
 });
+const roundups = defineCollection({
+  type: 'data',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    category: z.string(),
+    period: z.string(), // напр. "September 2026" — для показу людині
+    dreamSlugs: z.array(z.string()), // 5 slug-ів статей, що входять у добірку
+    pubDate: z.coerce.date(),
+  }),
+});
 
-export const collections = { dreams, guides };
+export const collections = { dreams, guides, roundups };
