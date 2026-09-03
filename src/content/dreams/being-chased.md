@@ -2,6 +2,7 @@
 title: "Dream About Being Chased: Meaning & Interpretation"
 symbol: "being chased"
 description: "What does it mean to dream about being chased? Explore the common scenarios and psychological meaning behind this dream."
+img: "/img/being-chased.webp"
 category: "events"
 tags: ["fear", "avoidance", "stress", "subconscious", "nightmare"]
 pubDate: 2026-08-18
