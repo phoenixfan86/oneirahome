@@ -34,6 +34,8 @@ const articleSchema = {
   '@type': 'Article',
   headline: entry.data.title,
   description: entry.data.description,
+  image: entry.data.img,
+  url: canonicalUrl,
   datePublished: publishedDate,
   dateModified: modifiedDate,
   author: { '@type': 'Organization', name: 'Dream Dictionary' },
