@@ -5,6 +5,13 @@ description: "Understand the emotional and psychological meaning of friend betra
 img: "/img/beingbetrayed.webp"
 category: "people"
 tags: ["trust", "betrayal", "relationships", "self-doubt"]
+faq:
+  - question: "What does it mean to dream about a friend betraying you?"
+    answer: "Dreams about a friend betraying you rarely mean the friend is actually untrustworthy. Instead, they usually symbolize your own internal conflicts, personal insecurities, or anxieties about trust and vulnerability."
+  - question: "What does it mean if a friend tells my secret in a dream?"
+    answer: "A dream where a friend spills your secret typically indicates exposure anxiety or a fear of judgment. It reflects worries that your personal flaws, mistakes, or true feelings will be exposed to your social circle or workplace."
+  - question: "Why do I dream that a friend is stealing from me?"
+    answer: "Dreaming that a friend steals from you often points to feeling emotionally or physically drained by obligations. It can also stem from feeling competitive or fearing that someone close is subtly undermining your confidence and success."
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

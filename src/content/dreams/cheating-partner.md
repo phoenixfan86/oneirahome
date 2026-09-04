@@ -5,6 +5,13 @@ description: "Explore the deeper emotional meanings of a cheating partner in a d
 img: "/img/cheating-partner.webp"
 category: "people"
 tags: ["insecurity", "trust", "relationships", "betrayal"]
+faq:
+  - question: "What does it mean to dream about a cheating partner?"
+    answer: "Dreams about a cheating partner are rarely about actual infidelity and typically symbolize internal vulnerabilities, communication gaps, or feelings of inadequacy."
+  - question: "What does it mean if my partner cheats with a friend in a dream?"
+    answer: "This variation points to complex feelings about trust and social dynamics, or worries that you lack certain qualities your partner values in that friend."
+  - question: "Why did I feel indifferent to my partner cheating in a dream?"
+    answer: "Feeling indifferent to betrayal indicates emotional burnout or growing detachment, suggesting you may already be emotionally distancing yourself from a relationship or commitment."
 pubDate: 2026-08-20
 draft: false
 source: "gemini-3.6-flash"

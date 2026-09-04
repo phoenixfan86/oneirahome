@@ -5,6 +5,13 @@ description: "Uncover what mountains in dreams represent, from overcoming major 
 img: "/img/mountain.webp"
 category: "nature"
 tags: ["obstacles", "goals", "achievement", "challenges"]
+faq:
+  - question: "What does it mean to dream about climbing a steep mountain?"
+    answer: "Climbing a mountain represents effort and forward progress toward major goals or personal growth in your waking life. A steady path indicates confidence, while a treacherous or slippery trail suggests you are facing rough patches that require patience."
+  - question: "What does standing on a mountain peak mean in a dream?"
+    answer: "Standing on the summit signifies accomplishment, new perspective, and successfully overcoming a major hurdle. It suggests you are in a position to see the bigger picture of where you have been and what you have learned."
+  - question: "What does an impassable cliff or mountain symbolize in dreams?"
+    answer: "Confronting an impassable rock wall means you feel stuck by a problem that feels beyond your current skills or resources. It acts as a prompt to step back, reassess the challenge, and seek a different route forward."
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "Discover what a cockroach in your dream signifies, from emotional 
 img: "/img/cockroach.webp"
 category: "animals"
 tags: ["resilience", "tenacity", "neglect", "persistence"]
+faq:
+  - question: "What does it mean to dream about cockroaches?"
+    answer: "Cockroaches in dreams symbolize themes of resilience and endurance, but can also point to unaddressed anxieties, guilt, or emotional clutter you have been avoiding."
+  - question: "What does dreaming about a cockroach infestation mean?"
+    answer: "An infestation represents feeling overwhelmed by accumulated small stresses, minor annoyances, and nagging worries that multiply when ignored."
+  - question: "What does it mean to kill a cockroach in a dream?"
+    answer: "Killing a cockroach reflects a conscious desire to regain control by actively eliminating negative habits, toxic dynamics, or harmful thought patterns."
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "What does it mean to dream about ex? Explore the common scenarios 
 img: "/img/ex.webp"
 category: "people"
 tags: ["past", "relationships", "unresolved-feelings", "nostalgia"]
+faq:
+  - question: "Does dreaming about getting back with an ex mean I still love them?"
+    answer: "No, dreaming about reconciling with an ex rarely means you want to be with them in real life. Instead, it usually indicates that you crave a specific feeling from that era—like passion or ease—or that you are applying lessons from that past relationship to your current life."
+  - question: "What does it mean when your ex ignores you in a dream?"
+    answer: "When an ex ignores or shows disinterest toward you in a dream, it is typically a sign that you are making peace with the past. It suggests that your subconscious is letting go of the old attachment and giving you permission to move on."
+  - question: "Why do I dream about my first love?"
+    answer: "Dreaming about your first love often happens during major life transitions or when your current life feels stale. It indicates that you miss the wide-eyed excitement, vulnerability, and thrill of that period, prompting you to seek that spark in the present."
 pubDate: 2026-08-24
 draft: false
 source: "gemini-3.6-flash"

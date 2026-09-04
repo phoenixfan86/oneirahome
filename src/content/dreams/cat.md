@@ -5,6 +5,13 @@ description: "What does it mean to dream about cat? Explore the common scenarios
 img: "/img/cat.webp"
 category: "animals"
 tags: ["intuition", "independence", "boundaries", "anima", "mystery"]
+faq:
+  - question: "What does it mean to dream about a cat?"
+    answer: "Cats in dreams generally symbolize intuition, independence, and the deeper layers of your psyche. Seeing a cat is often a subconscious nudge to trust your gut instincts, honor your need for autonomy, or pay attention to personal boundaries."
+  - question: "What does a dream about an aggressive or scratching cat mean?"
+    answer: "An aggressive or scratching cat symbolizes vulnerability, internal conflict, or tension around your personal boundaries. It can also indicate that you feel threatened by something unpredictable in your daily life."
+  - question: "What is the meaning of a black cat in a dream?"
+    answer: "In modern dreamwork, a black cat symbolizes mystery and the unknown rather than bad luck. It invites you to confront unexamined emotions and trust your inner wisdom even when the path ahead feels unclear."
 pubDate: 2026-08-19
 draft: false
 source: "gemini-3.6-flash"

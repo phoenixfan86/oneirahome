@@ -5,6 +5,13 @@ description: "What does it mean to dream about dog? Explore the common scenarios
 img: "/img/dog.webp"
 category: "animals"
 tags: ["dog"]
+faq:
+  - question: "What does it mean to dream about a friendly dog?"
+    answer: "Encountering a friendly or playful dog typically signals strong, supportive relationships, genuine affection, or an upcoming period of contentment. It suggests you feel secure in your social circle and comfortable trusting others."
+  - question: "What does an aggressive or barking dog in a dream mean?"
+    answer: "An aggressive dog usually points to underlying conflict, anxiety, or feelings of betrayal by someone acting untrustworthy. It can also represent internal tension, such as suppressed anger or self-criticism."
+  - question: "What does it mean to dream about a sick or injured dog?"
+    answer: "Seeing a dog in distress reflects vulnerability, neglected emotional needs, or a strained relationship. It may indicate you feel you have let a friend down or are failing to care for an essential part of your emotional well-being."
 pubDate: 2026-08-23
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "What does it mean to dream about death? Explore the common scenari
 img: "/img/death.webp"
 category: "events"
 tags: ["transformation", "endings", "new-beginnings", "change"]
+faq:
+  - question: "What does it mean to dream about death?"
+    answer: "Dreams about death rarely portend physical harm and instead serve as metaphors for major life transitions, personal transformation, and letting go of outdated habits."
+  - question: "What does it mean if you dream about your own death?"
+    answer: "Dreaming of your own passing suggests a profound internal shift where a past version of yourself or a long-standing behavior pattern gives way to personal growth."
+  - question: "Why did I dream about a loved one dying?"
+    answer: "The demise of a loved one in a dream usually reflects evolving dynamics in your relationship, a subtle fear of losing connection, or changes in qualities you associate with that person."
 pubDate: 2026-08-19
 draft: false
 source: "gemini-3.6-flash"

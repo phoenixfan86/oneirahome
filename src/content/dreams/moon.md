@@ -5,6 +5,13 @@ description: "Discover what the moon symbolizes in dreams, including its links t
 img: "/img/half-moon.webp"
 category: "nature"
 tags: ["intuition", "emotions", "unconscious", "cycles"]
+faq:
+  - question: "What does dreaming about a full moon mean?"
+    answer: "A bright full moon in a dream symbolizes completion, emotional clarity, and fullness. It often indicates that a project is wrapping up, a relationship is reaching a milestone, or a confusing situation has suddenly become clear."
+  - question: "What does a red or blood moon signify in a dream?"
+    answer: "A reddish or blood-colored moon points to emotional intensity, significant life transitions, or underlying fears of change. It serves as a signal from your subconscious that deep feelings need to be recognized and addressed."
+  - question: "What does it mean to see multiple moons in a dream?"
+    answer: "Dreaming of multiple moons reflects conflicting gut feelings, inner confusion, or divided loyalties. It mirrors a situation where you feel torn between different choices, people, or paths in life."
 pubDate: 2026-08-28
 draft: false
 source: "gemini-3.6-flash"

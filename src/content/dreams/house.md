@@ -5,6 +5,13 @@ description: "What does it mean to dream about house? Explore the common scenari
 img: "/img/house.webp"
 category: "places"
 tags: ["self", "mind", "security", "identity"]
+faq:
+  - question: "What does a house symbolize in a dream?"
+    answer: "A house represents your mind, emotions, and overall sense of self. The condition of the building in your dream reflects your current internal state and emotional balance."
+  - question: "What does it mean to discover hidden rooms in a dream house?"
+    answer: "Finding unexplored rooms or secret hallways in a dream points to personal growth and untapped potential. It suggests you are discovering new passions, buried desires, or unexamined parts of yourself."
+  - question: "What does the basement of a house mean in a dream?"
+    answer: "According to Carl Jung, the basement represents your subconscious mind. It is the place where unexamined fears, primal instincts, and buried memories reside."
 pubDate: 2026-08-26
 draft: false
 source: "gemini-3.6-flash"

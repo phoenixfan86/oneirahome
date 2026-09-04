@@ -5,6 +5,13 @@ description: "What does it mean to dream about flood? Explore the common scenari
 img: "/img/flood.webp"
 category: "nature"
 tags: ["overwhelmed", "emotions", "cleansing", "change"]
+faq:
+  - question: "What does a flood symbolize in a dream?"
+    answer: "Floods in dreams represent feeling overwhelmed by intense emotional energy, stress, or suppressed feelings in your waking life. They serve as an internal signal that your emotional boundaries are overflowing your capacity to handle them."
+  - question: "What does it mean if water is flooding your house in a dream?"
+    answer: "Since a house symbolizes your inner world and personal life, indoor flooding indicates that personal or family tensions are invading your safe space. It serves as a nudge to resolve emotional matters at home before feeling consumed by them."
+  - question: "Why do chronic stress and repressed emotions cause flood dreams?"
+    answer: "According to psychologists, flood dreams occur when suppressed feelings break through your ego defenses or chronic stress hits a tipping point. The rising water acts as a metaphor for cognitive overload, signaling that your nervous system needs emotional release."
 pubDate: 2026-08-24
 draft: false
 source: "gemini-3.6-flash"

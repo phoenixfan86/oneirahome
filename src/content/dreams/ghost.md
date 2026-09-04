@@ -5,6 +5,13 @@ description: "Discover the psychological and symbolic meanings behind encounteri
 img: "/img/ghost.webp"
 category: "people"
 tags: ["past", "unresolved-issues", "memory", "fear"]
+faq:
+  - question: "What does it mean when you dream about a ghost?"
+    answer: "Ghosts in dreams are emotional metaphors representing unresolved feelings, grief, or memories from your past. They indicate that an unaddressed issue or past event still holds power over your waking life."
+  - question: "What does it mean to be chased by a ghost in a dream?"
+    answer: "Running from a ghost usually means you are dodging a hard truth, an uncomfortable conversation, or a bad habit in your waking life. It serves as a warning from your subconscious that you cannot avoid the issue forever."
+  - question: "What does it mean if I dream that I am a ghost?"
+    answer: "Dreaming that you are a ghost signifies feelings of deep disconnection, such as feeling unappreciated, invisible, or detached from your own needs. It is your mind's way of pointing out that you may not feel fully present in your own life."
 pubDate: 2026-08-25
 draft: false
 source: "gemini-3.6-flash"

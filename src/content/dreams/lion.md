@@ -5,6 +5,13 @@ description: "Learn what encountering a lion in your dream means regarding perso
 img: "/img/lion.webp"
 category: "animals"
 tags: ["personal power", "leadership", "courage", "passion"]
+faq:
+  - question: "What does a lion symbolize in a dream?"
+    answer: "A lion in a dream reflects how you handle power, control, and your wilder instincts. Depending on how it appears, it can represent inner confidence and strength or an overwhelming threat in your waking life."
+  - question: "What does it mean to be chased by a lion in a dream?"
+    answer: "Being chased or attacked by a lion means you are running from an overwhelming situation or emotion in waking life, such as conflict with an authority figure or a heavy responsibility. The lion represents an issue that feels too large for you to face."
+  - question: "What does hearing a lion roar in a dream mean?"
+    answer: "A lion's roar acts as a call to action from your subconscious, urging you to speak your truth and stand your ground. It indicates that you need to make your presence known in a situation where you have been remaining quiet."
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

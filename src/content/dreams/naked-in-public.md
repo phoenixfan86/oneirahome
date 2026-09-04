@@ -5,6 +5,13 @@ description: "What does it mean to dream about naked in public? Explore the comm
 img: "/img/naked-in-public.webp"
 category: "events"
 tags: ["vulnerability", "exposure", "anxiety", "shame"]
+faq:
+  - question: "What does it mean to dream about being naked in public?"
+    answer: "Dreaming about being naked in public typically symbolizes feelings of vulnerability, emotional exposure, and a fear of being judged by others. It often indicates that you feel unprepared or exposed in some area of your waking life."
+  - question: "Why do I dream about being naked at work or school?"
+    answer: "Dreaming about being bare in a professional or academic setting points to imposter syndrome and the anxiety of feeling like a fraud. It reflects a fear that your insecurities or lack of readiness are about to be exposed to others."
+  - question: "What does it mean if nobody notices I am naked in a dream?"
+    answer: "If people in your dream ignore your nakedness, it suggests that your fear of being judged is mostly in your own head. It shows that people around you are far less critical of you than you assume."
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "Uncover the emotional and symbolic significance of kissing in drea
 img: "/img/kissing.webp"
 category: "events"
 tags: ["romance", "desire", "self-acceptance", "integration"]
+faq:
+  - question: "What does it mean to dream about kissing someone?"
+    answer: "Kissing in a dream is primarily a symbol of connection, emotional harmony, and integrating different parts of yourself. It is generally less about romantic feelings for the person and more about how you relate to yourself and the world."
+  - question: "What does dreaming about kissing a stranger mean?"
+    answer: "Kissing a stranger represents an unexplored aspect of yourself, such as hidden passions or untapped personality traits. It is your subconscious encouraging you toward self-discovery and novelty."
+  - question: "Why did I dream about kissing my ex?"
+    answer: "Dreaming of kissing an ex usually points to nostalgia, unresolved emotional themes, or past lessons rather than a desire to get back together. It often occurs when a current situation triggers emotional echoes from that past chapter of your life."
 pubDate: 2026-08-26
 draft: false
 source: "gemini-3.6-flash"

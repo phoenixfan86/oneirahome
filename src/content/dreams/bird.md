@@ -5,6 +5,13 @@ description: "Explore the symbolic meaning of birds in dreams, representing free
 img: "/img/bird.webp"
 category: "animals"
 tags: ["freedom", "spirituality", "transformation", "perspective"]
+faq:
+  - question: "What does it mean to dream about a bird?"
+    answer: "Dreaming about a bird generally symbolizes freedom, creativity, and a desire to see the bigger picture in your life. Birds can also act as messengers, signaling an awakening intuition or a need to express your inner truth."
+  - question: "What does a caged bird mean in a dream?"
+    answer: "A caged or trapped bird usually points to feelings of restriction and suppressed potential. It often indicates that you feel boxed in by societal expectations, a suffocating job, or a restrictive relationship."
+  - question: "What does it mean if a bird lands on you in a dream?"
+    answer: "When a bird perches calmly on your hand or shoulder, it signals peace, trust, and unexpected good luck. It can also represent harmony in your relationships or a growing sense of self-acceptance."
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

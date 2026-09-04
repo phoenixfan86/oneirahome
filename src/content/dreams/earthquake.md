@@ -5,6 +5,13 @@ description: "Discover what an earthquake in your dreams signifies regarding lif
 img: "/img/earthqake.webp"
 category: "nature"
 tags: ["instability", "transformation", "life-changes", "chaos"]
+faq:
+  - question: "What does it mean to dream about an earthquake?"
+    answer: "Dreaming about an earthquake usually reflects a profound disruption or sudden shift in your waking life that threatens your sense of security and stability. Rather than predicting a literal natural disaster, it symbolizes the dismantling of rigid frameworks in your career, relationships, or beliefs."
+  - question: "What does surviving an earthquake in a dream mean?"
+    answer: "Surviving a major tremor in a dream is a message of personal resilience. It highlights that despite chaotic or unstable external circumstances, you possess the internal strength to adapt and navigate difficult transitions."
+  - question: "Why do I dream about being trapped in earthquake rubble?"
+    answer: "Feeling trapped beneath rubble after an earthquake represents feelings of helplessness in your waking hours. It suggests that sudden changes have left you feeling overwhelmed, restricted, or overburdened by heavy obligations."
 pubDate: 2026-08-23
 draft: false
 source: "gemini-3.6-flash"

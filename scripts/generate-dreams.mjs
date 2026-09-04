@@ -92,10 +92,12 @@ ${list}
 
 For EACH article:
 - Use Markdown with "##" subheadings (no H1 — the site adds the title separately).
+- Each "##" subheading must open with a direct 1-2 sentence answer to what that section covers, before adding detail — this is important for how the content gets used, not just for readers.
 - Cover: general meaning, 3-5 common scenarios/variations, a psychological perspective, and a short closing reflection prompt.
-- Calm, informative tone — not clickbait. Use phrasing like "may suggest" or "is often associated with" rather than absolute claims.
+- Calm, informative tone — not clickbait. Use phrasing like "may suggest" rather than absolute claims.
 - Do not repeat the phrase "dreaming about <symbol>" more than twice.
 - Each article must be fully independent — do not mention, compare, or reference the other symbols in this list.
+- Also write 3 short FAQ question-and-answer pairs for each article (e.g. "What does it mean to dream about a snake?"), with direct 1-2 sentence answers — these appear as a separate FAQ block, so don't just repeat the article's opening sentence verbatim.
 
 Respond with ONLY a JSON array, no markdown code fences, no commentary, in exactly this shape:
 [
@@ -103,7 +105,10 @@ Respond with ONLY a JSON array, no markdown code fences, no commentary, in exact
     "symbol": "<the symbol exactly as given above>",
     "title": "Dream About <Symbol, capitalized>: Meaning & Interpretation",
     "description": "<one-sentence meta description, under 160 characters>",
-    "body": "<the full markdown article for this symbol>"
+    "body": "<the full markdown article for this symbol>",
+    "faq": [
+      { "question": "<question>", "answer": "<1-2 sentence answer>" }
+    ]
   }
 ]`;
 }
@@ -135,14 +140,19 @@ async function callGeminiJson(prompt) {
   return JSON.parse(text);
 }
 
-function buildFrontmatter({ symbol, category, title, description }) {
+function buildFrontmatter({ symbol, category, title, description, faq }) {
   const today = new Date().toISOString().slice(0, 10);
+  const faqYaml = faq && faq.length
+    ? `\n${faq.map((f) => `  - question: "${f.question.replace(/"/g, '\\"')}"\n    answer: "${f.answer.replace(/"/g, '\\"')}"`).join('\n')}`
+    : ' []';
+
   return `---
 title: "${title.replace(/"/g, '\\"')}"
 symbol: "${symbol}"
 description: "${description.replace(/"/g, '\\"')}"
 category: "${category}"
 tags: []
+faq:${faqYaml}
 pubDate: ${today}
 draft: true
 source: "${MODEL}"
@@ -193,6 +203,7 @@ async function main() {
           category: topic.category,
           title: match.title || `Dream About ${capitalize(topic.symbol)}: Meaning & Interpretation`,
           description: match.description || `What does it mean to dream about ${topic.symbol}?`,
+          faq: match.faq || [],
         });
 
         await writeFile(filePath, frontmatter + '\n' + match.body.trim() + '\n', 'utf-8');

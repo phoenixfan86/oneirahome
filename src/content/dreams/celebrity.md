@@ -5,6 +5,13 @@ description: "Discover what it means when a famous figure appears in your night 
 img: "/img/celebrity.webp"
 category: "people"
 tags: ["ambition", "aspirations", "identity", "desire"]
+faq:
+  - question: "What does it mean when you dream about a celebrity?"
+    answer: "Dreaming about a celebrity is rarely about the person themselves; instead, they represent specific traits, aspirations, or values you associate with them, such as success or charisma. These dreams often crop up when you are seeking validation, recognition, or personal fulfillment in your waking life."
+  - question: "What does it mean to dream about hanging out with a famous person?"
+    answer: "Casually interacting with a celebrity in a dream suggests you are beginning to internalize the admired qualities they represent. If the interaction feels comfortable, it points to growing self-confidence and a sense that your goals are within reach."
+  - question: "What does it mean to dream about being romantic with a celebrity?"
+    answer: "Romantic encounters with famous figures symbolize a desire to merge with the specific traits that person represents, such as confidence, creativity, or success. It reflects your subconscious mind's craving to claim those characteristics for yourself."
 pubDate: 2026-08-21
 draft: false
 source: "gemini-3.6-flash"

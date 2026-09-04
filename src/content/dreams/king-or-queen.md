@@ -5,6 +5,13 @@ description: "Uncover what royal figures in dreams signify regarding personal au
 img: "/img/king-or-queen.webp"
 category: "people"
 tags: ["authority", "leadership", "control", "power"]
+faq:
+  - question: "What does it mean to dream about a king or queen?"
+    answer: "The provided article does not contain any information or details regarding dreams about a king or queen."
+  - question: "Why might a king or queen appear in a dream?"
+    answer: "The article text for this symbol is empty, so no explanations or interpretations are provided."
+  - question: "What is the psychological meaning of dreaming about royalty?"
+    answer: "The article does not offer any psychological analysis or facts about royalty in dreams."
 pubDate: 2026-08-26
 draft: false
 source: "gemini-3.6-flash"

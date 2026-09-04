@@ -5,6 +5,13 @@ description: "Uncover the psychological reasons and symbolic meanings behind exp
 img: "/img/being-late.webp"
 category: "events"
 tags: ["anxiety", "time-management", "stress", "perfectionism"]
+faq:
+  - question: "What does it mean if you dream about being late?"
+    answer: "Dreams about being late usually mean you feel overwhelmed and unable to keep up with the fast pace of your life. They often reflect a fear of letting people down, managing heavy expectations, or juggling too many commitments."
+  - question: "Why do I dream about being late for work or an exam?"
+    answer: "Dreaming of being late for work or an exam typically points to a fear of judgment and feelings of inadequacy. It reflects worries about being evaluated or failing to measure up."
+  - question: "Why do I keep having dreams where I am delayed by obstacles?"
+    answer: "Dreams where obstacles continuously block you indicate frustration and overcommitment in your waking life. They reflect situations where other people's needs and demands are constantly hijacking your time and priorities."
 pubDate: 2026-08-20
 draft: false  
 source: "gemini-3.6-flash"

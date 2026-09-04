@@ -5,6 +5,13 @@ description: "What does it mean to dream about pregnancy? Explore the common sce
 img: "/img/pregnancy.webp"
 category: "body"
 tags: ["new-beginnings", "creation", "growth", "potential"]
+faq:
+  - question: "What does it mean to dream about being pregnant?"
+    answer: "Pregnancy dreams are rarely literal and usually serve as a metaphor for an idea, project, or personal transformation growing inside you. They signal that a new aspect of your life or personality is incubating and needs time to develop."
+  - question: "What does it mean to dream about someone else being pregnant?"
+    answer: "Dreaming that someone else is pregnant often means you are trying to develop traits in yourself that the person represents, like creativity or confidence. It can also symbolize a joint project or your awareness of their personal growth."
+  - question: "What does dreaming about pregnancy complications mean?"
+    answer: "Experiencing complications in a pregnancy dream reflects insecurities and anxiety surrounding a real-life project or goal. It highlights worries that you might fail to finish what you started or that your hard work will not pan out."
 pubDate: 2026-08-29
 draft: false
 source: "gemini-3.6-flash"

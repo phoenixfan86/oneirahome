@@ -5,6 +5,13 @@ description: "Discover the deeper spiritual and psychological symbolism of encou
 img: "/img/demon.webp"
 category: "other"
 tags: ["fear", "inner-shadow", "spirituality", "struggle"]
+faq:
+  - question: "What does it mean to dream about a demon or dark figure?"
+    answer: "Dreaming about a dark figure or demon usually represents severe guilt, self-destructive habits, or intense internal conflict rather than literal evil. It serves as a subconscious warning about deep emotional pain, shame, or persistent negative thoughts tormenting you in waking life."
+  - question: "What does it mean to dream about being possessed by a demon?"
+    answer: "Dreaming of possession suggests a loss of personal agency in your waking life. It often indicates that you feel overwhelmed by an addiction, an unhealthy relationship, or compulsive behaviors that go against your core values."
+  - question: "Why did I dream about a dark figure standing over my bed?"
+    answer: "A dark figure lurking by your bed is frequently linked to sleep paralysis. Symbolically, it points to acute vulnerability, helplessness, or intense anxiety about your personal boundaries being violated."
 pubDate: 2026-08-20
 draft: false
 source: "gemini-3.6-flash"

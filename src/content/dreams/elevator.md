@@ -5,6 +5,13 @@ description: "Discover what an elevator in your subconscious signifies, from rap
 img: "/img/elevator.webp"
 category: "objects"
 tags: ["transitions", "career", "personal growth", "status"]
+faq:
+  - question: "What does a dream about a falling elevator mean?"
+    answer: "A rapidly plunging elevator reflects a fear of losing control, a blow to self-esteem, or a waking situation that feels like it is unraveling too quickly. It often highlights internalized anxieties about financial instability, personal failure, or unexpected disruptions to your routine."
+  - question: "What does it mean to be stuck in an elevator in a dream?"
+    answer: "Being stuck between floors in an elevator symbolizes feeling trapped, blocked, or in a state of limbo in your waking life. It indicates that your personal or professional development has hit an uncomfortable plateau or that you are struggling with a difficult decision."
+  - question: "What does descending in an elevator signify psychologically?"
+    answer: "Psychologically, descending in an elevator represents an exploration of the personal unconscious mind. It signifies a journey into buried emotions, forgotten memories, and suppressed aspects of yourself."
 pubDate: 2026-08-23
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "What does it mean to dream about mirror? Explore the common scenar
 img: "/img/mirror.webp"
 category: "objects"
 tags: ["self-reflection", "identity", "truth", "perception"]
+faq:
+  - question: "What does it mean to dream about a distorted reflection in a mirror?"
+    answer: "A distorted reflection in a dream mirror often points to an identity crisis during a major life transition, such as a breakup or new job. It indicates that your self-concept hasn't caught up with who you are becoming."
+  - question: "What does a broken mirror signify in a dream?"
+    answer: "In dream analysis, a broken mirror means your self-perception or self-esteem has taken a hit. It can also mark the painful process of breaking away from an old self-image to rebuild."
+  - question: "Why do I keep dreaming about mirrors according to psychology?"
+    answer: "Psychologically, mirror dreams can represent encounters with your subconscious shadow or repressed traits. They are also linked to self-monitoring and anxiety over how others view you."
 pubDate: 2026-08-27
 draft: false
 source: "gemini-3.6-flash"

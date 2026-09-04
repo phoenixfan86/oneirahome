@@ -1,14 +1,15 @@
 {
   "name": "Oneirahome",
   "type": "module",
-  "version": "0.3.2",
+  "version": "0.3.8",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "generate": "node --env-file=.env scripts/generate-dreams.mjs",
     "edit": "node --env-file=.env scripts/edit-dreams.mjs",
-    "fill-tags": "node --env-file=.env scripts/fill-tags.mjs"
+    "fill-tags": "node --env-file=.env scripts/fill-tags.mjs",
+    "fill-faq": "node --env-file=.env scripts/fill-faq.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.6.0",

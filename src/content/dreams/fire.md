@@ -5,6 +5,13 @@ description: "What does it mean to dream about fire? Explore the common scenario
 img: "/img/fire.webp"
 category: "nature"
 tags: ["passion", "destruction", "transformation", "anger"]
+faq:
+  - question: "What does it mean to dream about a burning house?"
+    answer: "A house represents your inner self and security, so a burning house indicates that something important in your life feels out of control or is falling apart. It can also signify personal transformation, clearing out the old self for a new version to emerge."
+  - question: "What does escaping a fire in a dream signify?"
+    answer: "Running away from a blaze in a dream points to avoidance in your waking life, such as ignoring conflicts or pushing down work stress. It is your mind's way of signaling that these buried emotions have become too intense to ignore."
+  - question: "How did Carl Jung explain fire in dreams?"
+    answer: "Carl Jung viewed fire as an archetype of raw psychic energy and transformation. He believed dream fire burns away the ego's superficialities, forcing you into a more honest alignment with who you truly are."
 pubDate: 2026-08-24
 draft: false
 source: "gemini-3.6-flash"

@@ -5,6 +5,13 @@ description: "Explore the hidden psychological meaning behind encountering a mon
 img: "/img/monster.webp"
 category: "other"
 tags: ["fear", "subconscious", "anxiety", "shadow self"]
+faq:
+  - question: "What does it mean to dream about being chased by a monster?"
+    answer: "Being chased by a creature usually means you are running away from a real-life issue, such as an avoided conversation, a delayed decision, or suppressed emotions. The closer the creature gets, the more urgent the situation is becoming."
+  - question: "What does it mean if you are the monster in a dream?"
+    answer: "Dreaming that you are the monster reflects fears about your own behavior, such as feeling guilty about snapping at someone or worrying you are losing control. It indicates a fear of becoming cold, harsh, or unapproachable rather than actually being a bad person."
+  - question: "What is Carl Jung's psychological interpretation of monsters in dreams?"
+    answer: "Carl Jung viewed dream monsters as the Shadow, representing the rejected or hidden parts of yourself disowned due to shame, guilt, or social pressure. Rather than being an enemy, the monster symbolizes disowned aspects of your psyche that need to be acknowledged."
 pubDate: 2026-08-28
 draft: false
 source: "gemini-3.6-flash"

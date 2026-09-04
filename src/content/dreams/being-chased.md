@@ -5,6 +5,13 @@ description: "What does it mean to dream about being chased? Explore the common 
 img: "/img/being-chased.webp"
 category: "events"
 tags: ["fear", "avoidance", "stress", "subconscious", "nightmare"]
+faq:
+  - question: "What does it mean when you dream about being chased?"
+    answer: "Dreaming about being chased usually signifies that you are avoiding something stressful or uncomfortable in your waking life. It translates daily anxiety, looming deadlines, or emotional chaos into a physical reaction."
+  - question: "Why am I being chased by an unknown figure in my dream?"
+    answer: "Being pursued by a shadowy or unknown figure typically represents vague, floating anxiety about the future, financial troubles, or major life changes. Because the real-world threat is unclear, your brain represents it as an ambiguous pursuer."
+  - question: "What is the psychological explanation for chase dreams?"
+    answer: "Psychologically, chase dreams may represent Carl Jung's concept of the 'Shadow'—hidden or uncomfortable aspects of yourself that you need to face. Alternatively, Threat Simulation Theory suggests your brain uses these dreams to practice emotional regulation and handling pressure."
 pubDate: 2026-08-18
 draft: false
 source: "gemini-3.6-flash"

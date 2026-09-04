@@ -568,7 +568,20 @@ article h2 {
 .read-more {
 	font-size: 0.85rem;
 }
-
+.faq-item {
+	margin-bottom: 0.75rem;
+	padding: 0.75rem 1rem;
+	border: 1px solid var(--color-line);
+	border-radius: 8px;
+}
+.faq-item summary {
+	cursor: pointer;
+	font-weight: 600;
+}
+.faq-item p {
+	margin: 0.5rem 0 0;
+	color: var(--color-text-muted);
+}
 .site-footer {
 	box-shadow: 2px 0 7px var(--color-1);
 	padding: 0.5rem 0;
@@ -670,7 +683,7 @@ article h2 {
 	}
 	.main-nav {
 		gap: 5px;
-		font-size: 12px;
+		font-size: 10px;
 	}
 	.cat-grid {
 		grid-template-columns: repeat(2, 1fr);
