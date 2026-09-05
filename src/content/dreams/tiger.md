@@ -5,6 +5,13 @@ description: "Discover the psychological and symbolic meanings behind tiger drea
 img: "/img/tiger.webp"
 category: "animals"
 tags: ["personal-power", "raw-emotion", "boundaries", "strength"]
+faq:
+  - question: "What does it mean to dream about being chased by a tiger?"
+    answer: "Being chased by a tiger in a dream symbolizes avoidance in your waking life. It suggests you are running away from a tough conversation, a buried emotion like anger, or a heavy responsibility."
+  - question: "What does a caged tiger represent in a dream?"
+    answer: "A caged tiger represents suppressed power, creativity, or emotion that wants to be released. It indicates that you may feel silenced or trapped by a job, relationship, or external expectations."
+  - question: "What is the psychological meaning of a tiger in a dream?"
+    answer: "Carl Jung viewed tigers and wild animals as symbols of the Shadow, representing repressed instincts, power, and desire. The dream encourages you to find a healthy balance between expressing and controlling your personal strength."
 pubDate: 2026-09-02
 draft: false
 source: "gemini-3.6-flash"

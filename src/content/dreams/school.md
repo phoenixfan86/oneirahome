@@ -5,6 +5,13 @@ description: "What does it mean to dream about school? Explore the common scenar
 img: "/img/school.webp"
 category: "places"
 tags: ["learning", "anxiety", "past", "evaluation"]
+faq:
+  - question: "Why do I keep having dreams about being back in school as an adult?"
+    answer: "Dreams about school are rarely about school itself, but rather represent feeling tested, evaluated, or pushed out of your comfort zone in your waking life. Returning as an adult often indicates that a current situation is pulling old triggers from your younger years."
+  - question: "What does it mean to dream about taking a test I didn't study for?"
+    answer: "Dreaming that you are taking an exam you did not study for points to feelings of inadequacy or imposter syndrome. It frequently occurs when you are about to be evaluated in real life, such as during a work presentation or job review."
+  - question: "What does dreaming about being lost in school hallways mean?"
+    answer: "Wandering lost through school hallways or forgetting a locker combination indicates disorientation. It means you are feeling out of your element in a new job, social circle, or life stage."
 pubDate: 2026-08-30
 draft: false
 source: "gemini-3.6-flash"

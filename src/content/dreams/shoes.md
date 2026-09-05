@@ -5,6 +5,13 @@ description: "What does it mean to dream about shoes? Explore the common scenari
 img: "/img/shoes.webp"
 category: "objects"
 tags: ["life path", "direction", "identity", "grounding"]
+faq:
+  - question: "What does it mean to dream about shoes?"
+    answer: "Dreaming about shoes generally represents your direction in life, sense of grounding, and how prepared you feel for the road ahead. It reflects whether you feel secure on your current path or are forcing yourself into a situation that doesn't fit."
+  - question: "What does dreaming of wearing tight or uncomfortable shoes mean?"
+    answer: "Wearing tight or painful shoes indicates that you are forcing yourself into a role, relationship, or career that does not fit you. It serves as a subconscious sign to stop pretending and trying to fit into something unnatural."
+  - question: "What does walking barefoot or having broken shoes in a dream signify?"
+    answer: "Walking barefoot or wearing shoes that fall apart points to feeling vulnerable, exposed, or unprepared in your waking life. Worn-through soles suggest that old habits, outdated beliefs, or people you once relied on are no longer supporting you."
 pubDate: 2026-08-31
 draft: false
 source: "gemini-3.6-flash"

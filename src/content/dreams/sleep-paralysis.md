@@ -5,6 +5,13 @@ description: "Explore the symbolic and psychological meanings of feeling immobil
 img: "/img/sleep-paralysis.webp"
 category: "body"
 tags: ["helplessness", "fear", "anxiety", "subconscious"]
+faq:
+  - question: "What causes sleep paralysis and why does it happen?"
+    answer: "Sleep paralysis happens when your brain wakes up during REM sleep while your body remains temporarily locked in muscle atonia. It is physically triggered by disrupted REM sleep, lack of sleep, or stress rather than anything supernatural."
+  - question: "Why do people sense a threatening presence during sleep paralysis?"
+    answer: "Sensing a scary presence or weight on your chest is your brain's attempt to make sense of being awake but physically immobile. This projection is often shaped by waking-life stress, anxiety, or unaddressed fears."
+  - question: "How can I prevent or snap out of sleep paralysis?"
+    answer: "You can break an episode faster by reminding yourself it is temporary and focusing on small movements like wiggling your toes or fingers. Long-term prevention involves maintaining a consistent sleep schedule, managing stress, and avoiding sleeping on your back."
 pubDate: 2026-08-31
 draft: false
 source: "gemini-3.6-flash"

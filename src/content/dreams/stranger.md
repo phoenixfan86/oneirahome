@@ -5,6 +5,13 @@ description: "Explore the psychological significance of unfamiliar figures in yo
 img: "/img/stranger.webp"
 category: "people"
 tags: ["mystery", "self-discovery", "unseen-potential", "shadow-self"]
+faq:
+  - question: "What does it mean to dream about a stranger?"
+    answer: "A stranger in a dream usually represents an unacknowledged part of yourself, such as hidden talents, buried fears, or unspoken desires. Your subconscious uses unknown figures as placeholders for aspects of your personality you haven't fully met yet."
+  - question: "What does a stranger breaking into your house in a dream mean?"
+    answer: "Because your home represents your sense of self and safe space, an intruding stranger signifies that external pressures, unexpected emotions, or challenging new ideas are invading your boundaries."
+  - question: "What does falling in love with a stranger in a dream mean?"
+    answer: "Falling in love with a dream stranger symbolizes self-acceptance and emotional growth. It suggests you are ready to embrace and integrate new qualities within yourself."
 pubDate: 2026-09-01
 draft: false
 source: "gemini-3.6-flash"

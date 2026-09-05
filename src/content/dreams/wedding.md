@@ -5,6 +5,13 @@ description: "What does it mean to dream about wedding? Explore the common scena
 img: "/img/wedding.webp"
 category: "events"
 tags: ["commitment", "relationships", "union", "transitions"]
+faq:
+  - question: "What does it mean when you dream about getting married?"
+    answer: "Dreams about weddings are rarely about real-life marriage and instead symbolize union, commitment, and major personal transitions. They represent saying yes to a new direction or integrating different aspects of yourself."
+  - question: "What does dreaming about marrying a stranger mean?"
+    answer: "Marrying an unfamiliar person represents acknowledging and integrating a new or hidden side of yourself, such as an unexplored talent or suppressed emotion. It signifies that this hidden part of your personality is ready to be embraced."
+  - question: "What does a ruined or ruined wedding ceremony mean in a dream?"
+    answer: "A chaotic or ruined wedding ceremony reflects anxiety, self-doubt, or stress about an upcoming commitment or major life transition. It shows that you may be feeling overwhelmed by societal expectations or second-guessing a major choice."
 pubDate: 2026-09-04
 draft: false
 source: "gemini-3.6-flash"

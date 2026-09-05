@@ -5,6 +5,13 @@ description: "What does it mean to dream about spider? Explore the common scenar
 img: "/img/spider.webp"
 category: "animals"
 tags: ["fear", "creativity", "control", "trapped"]
+faq:
+  - question: "What does it mean to dream about a spider weaving a web?"
+    answer: "Watching a spider spin a web often symbolizes patience, creativity, and building long-term goals or projects. However, it can also indicate that you feel trapped in emotional manipulation, lies, or complex situations."
+  - question: "What does killing a spider in a dream mean?"
+    answer: "Killing a spider usually signifies that you are taking control of a tricky situation, confronting a fear, or breaking a bad habit. If you feel guilty afterward, it may mean you are repressing your creativity or a part of yourself."
+  - question: "Why am I being chased by a spider in my dream?"
+    answer: "Being chased by a spider typically represents avoidance in your waking life. It suggests you are running away from a problem or conflict that is starting to catch up with you."
 pubDate: 2026-08-31
 draft: false
 source: "gemini-3.6-flash"

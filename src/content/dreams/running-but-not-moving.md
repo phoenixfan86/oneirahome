@@ -5,6 +5,13 @@ description: "Discover the psychological meaning and symbolism behind experienci
 img: "/img/running-but-not-moving.webp"
 category: "events"
 tags: ["helplessness", "frustration", "stuck", "anxiety"]
+faq:
+  - question: "Why can't I run or move fast in my dreams?"
+    answer: "Physically, this can happen due to muscle atonia during REM sleep, where your brain paralyzes your muscles so you do not physically act out your dreams. Psychologically, it reflects feelings of putting in intense effort in waking life without seeing any payoff or progress."
+  - question: "What does it mean to dream about escaping a pursuer while frozen?"
+    answer: "Dreaming that you are trying to escape someone while frozen usually points to avoidance in your waking life. It suggests you are trying to run away from a difficult conversation, financial obligation, or uncomfortable truth."
+  - question: "What does dreaming about running through mud signify?"
+    answer: "Running through thick sludge, mud, or water signifies emotional weight or external burdens dragging you down. It often shows up when burnout is setting in or daily life has become a slog of small stressors."
 pubDate: 2026-08-30
 draft: false
 source: "gemini-3.6-flash"
