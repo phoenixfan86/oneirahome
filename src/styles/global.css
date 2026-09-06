@@ -418,6 +418,19 @@ article h2 {
 	margin: 0.25rem 0 0;
 }
 
+.read-more {
+	display: flex;
+	align-items: center;
+	justify-content: end;
+	margin-top: 0.4rem;
+	margin-right: 25px;
+	color: var(--color-accent);
+	transition: all 0.4s ease;
+}
+.read-more:hover {
+	text-shadow: 0 0 6px var(--color-text-muted);
+}
+
 .pagination {
 	display: flex;
 	align-items: center;

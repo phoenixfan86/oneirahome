@@ -85,6 +85,11 @@ const listSchema = buildListSchema({
         </a>
         <p class="dream-excerpt">{entry.data.description}</p>
         <p><span>Category: </span>{entry.data.category}</p>
+        <div class="read-more">
+          <a href={`/dream/${entry.slug}/`} class="read-more-link">
+          Read more about {entry.data.symbol} →
+                </a>
+        </div>
       </li>
     ))}
   </ul>
