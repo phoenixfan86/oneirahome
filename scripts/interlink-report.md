@@ -358,7 +358,7 @@ Generated: 2026-09-06T16:40:03.989Z
 
 ---
 
-## rain  (`rain.md`)
+## rain  (`rain.md`) ==================== Доробити ===================
 
 - Line 16: link **"house"** -> `/dream/house/`
   > This one's weird and unsettling. If it's raining inside your house or bedroom, it usually means your personal boundaries are getting crossed. Feelings or problems that should stay outside your safe space are leaking in - maybe work stress is creeping into your home life, or a personal conflict is messing with your peace of mind. It's your subconscious telling you to protect your space before things get waterlogged.
