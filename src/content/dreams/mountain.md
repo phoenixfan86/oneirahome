@@ -33,7 +33,7 @@ Mountains don't just appear for no reason. They're all about the long haul - the
 
 - **Confronting an impassable cliff:** Straight up rock wall. No way around it. This one usually means you feel stuck in your waking life - like you've hit a problem that's beyond your current skills or resources. It's frustrating, but it's also a nudge to step back, reassess, and look for a different route. Sometimes the way forward isn't straight up - it's sideways or back a few steps first.
 
-- **Going down the mountain:** Descending can go two ways. A controlled, steady descent usually means you're bringing new insights back into your everyday life after a big achievement. But if you're sliding or falling, that points to a loss of momentum - or a fear of slipping after you've worked so hard to get somewhere high.
+- **Going down the mountain:** Descending can go two ways. A controlled, steady descent usually means you're bringing new insights back into your everyday life after a big achievement. But if you're sliding or [falling](/dream/falling/), that points to a loss of momentum - or a fear of slipping after you've worked so hard to get somewhere high.
 
 ## What Psychologists Say About the Peak
 

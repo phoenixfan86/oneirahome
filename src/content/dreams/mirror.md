@@ -29,7 +29,7 @@ Mirror dreams are almost never about predicting anything. Instead, they're about
 
 - **Seeing your own clear reflection:** This is the dream equivalent of a green light. A sharp, accurate image of yourself usually means you're in a place of emotional clarity and self-acceptance. Your inner world and outer life are aligned, and you're feeling confident and balanced. Good for you.
 
-- **Seeing a distorted or unrecognizable reflection:** This one's a lot heavier. If your face looks warped, older, or like a complete stranger, it's often a sign of an identity crisis. You might be going through a major life change - a breakup, a new job, a shift in who you thought you were - and your self-concept hasn't caught up yet. It's that unsettling feeling of looking in the mirror and not quite recognizing the person staring back.
+- **Seeing a distorted or unrecognizable reflection:** This one's a lot heavier. If your face looks warped, older, or like a complete [stranger](/dream/stranger/), it's often a sign of an identity crisis. You might be going through a major life change - a breakup, a new job, a shift in who you thought you were - and your self-concept hasn't caught up yet. It's that unsettling feeling of looking in the mirror and not quite recognizing the person staring back.
 
 - **A cracked or broken mirror:** Forget the superstition about bad luck. In dream terms, a shattered mirror usually means your self-perception is fractured. Maybe your self-esteem has taken a hit, or you're breaking away from an old, limiting image of yourself that no longer fits. It can be painful, but it's also the beginning of rebuilding.
 

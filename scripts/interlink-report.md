@@ -284,7 +284,7 @@ Generated: 2026-09-06T16:40:03.989Z
 
 ---
 
-## losing a wallet  (`losing-a-wallet.md`) ================ Доробити =============
+## losing a wallet  (`losing-a-wallet.md`)
 
 - Line 10: link **"house"** -> `/dream/house/`
   > - **Searching frantically for a misplaced wallet:** Rummaging through every bag, patting down every pocket, turning the house upside down - this kind of dream panic reflects real-life anxiety about your role or standing. You might be in the middle of a major transition - a career change, a breakup, a move - and you're desperately trying to hold onto who you *used* to be, even as that version of you slips away.

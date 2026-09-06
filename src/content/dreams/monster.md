@@ -27,7 +27,7 @@ Here's the thing: that monster isn't lurking outside your window. It's living in
 
 ## Different Encounters, Different Messages
 
-- **Being chased by a creature:** This is the classic nightmare setup, and it usually means you're running from something in real life. Maybe it's a conversation you're avoiding, a decision you keep putting off, or emotions like grief or anger that you're shoving down. The closer the creature gets, the more urgent the issue is becoming - your subconscious is basically saying, *"You can't outrun this forever."*
+- **[Being chased](/dream/being-chased/) by a creature:** This is the classic nightmare setup, and it usually means you're running from something in real life. Maybe it's a conversation you're avoiding, a decision you keep putting off, or emotions like grief or anger that you're shoving down. The closer the creature gets, the more urgent the issue is becoming - your subconscious is basically saying, *"You can't outrun this forever."*
 
 - **Becoming the creature yourself:** Waking up from a dream where *you* were the monster is unsettling in a whole different way. But this usually points to fears about your own behavior - maybe you feel guilty about snapping at someone, or you're worried you're losing control, or you're afraid others see you as cold, harsh, or unapproachable. It's not that you *are* a monster - it's that you're scared you might become one.
 

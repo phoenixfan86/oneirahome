@@ -37,9 +37,9 @@ But here's the thing: missing a flight in a dream is almost never about actual t
 
 ## What Psychologists Say About It
 
-Missing a flight is what psychologists call an anxiety-reduction dream. When life demands high performance and tight deadlines, your brain processes that tension while you sleep by staging extreme scenarios where you lose control. It's like a fire drill for your emotions - you get to confront the fear of failure in a safe, simulated environment.
+Missing a flight is what psychologists call an anxiety-reduction dream. When life demands high performance and tight deadlines, your brain processes that tension while you sleep by staging extreme scenarios where you lose control. It's like a [fire](/dream/fire/) drill for your emotions - you get to confront the fear of failure in a safe, simulated environment.
 
-From a depth psychology angle, airplanes represent collective movement and social pacing. Society has this unspoken timeline for major achievements - graduate, build a career, buy a house, start a family. When you feel like you're falling behind those cultural benchmarks, your mind translates that social pressure into the stressful experience of missing a scheduled departure. It's not just about the flight - it's about the conflict between your own pace and the speed the world expects of you.
+From a depth psychology angle, airplanes represent collective movement and social pacing. Society has this unspoken timeline for major achievements - graduate, build a career, buy a [house](/dream/house/), start a family. When you feel like you're [falling](/dream/falling/) behind those cultural benchmarks, your mind translates that social pressure into the stressful experience of missing a scheduled departure. It's not just about the flight - it's about the conflict between your own pace and the speed the world expects of you.
 
 ## Questions to Ask Yourself After You Wake Up
 

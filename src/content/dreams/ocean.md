@@ -27,7 +27,7 @@ Water in dreams is practically the universal symbol for emotions and the unconsc
 
 ## Different Ocean Scenarios, Different Meanings
 
-- **Floating on calm waters:** This one's a good sign. If you're swimming or floating on smooth, clear water, you're probably in a decent emotional place - balanced, peaceful, trusting that life is flowing the way it should. It means you're aligned with your feelings and handling things with a sense of ease.
+- **Floating on calm waters:** This one's a good sign. If you're swimming or floating on smooth, clear [water](/dream/water/), you're probably in a decent emotional place - balanced, peaceful, trusting that life is flowing the way it should. It means you're aligned with your feelings and handling things with a sense of ease.
 
 - **Struggling against massive waves:** Turbulent water, towering waves, and you're just trying to keep your head above it all. This one usually means you're feeling swamped - overwhelmed by intense emotions, life changes, or responsibilities that are piling up faster than you can handle. It's a sign you might need to find solid ground or reach out for support.
 

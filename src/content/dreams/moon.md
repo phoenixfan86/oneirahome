@@ -31,7 +31,7 @@ Unlike the sun, which is all about action, ambition, and how you present yoursel
 
 - **A thin crescent moon:** Just a sliver of light in a dark sky. This one's about fresh starts - quiet ones, not dramatic ones. Maybe it's the first spark of a new idea, a relationship that's just beginning to bud, or a side of yourself you're only now starting to explore. The crescent moon is a reminder that growth doesn't happen overnight - it takes patience and a little nurturing.
 
-- **A red or blood-colored moon:** This one carries some weight. A reddish moon in a dream usually points to intensity - emotional tension, big life changes, or a fear of transition that's been simmering under the surface. It's your brain waving a flag and saying, *"Something's off, and you can't ignore it forever."* Deep feelings are asking to be acknowledged, whether you're ready or not.
+- **A red or [blood](/dream/blood/)-colored moon:** This one carries some weight. A reddish moon in a dream usually points to intensity - emotional tension, big life changes, or a fear of transition that's been simmering under the surface. It's your brain waving a flag and saying, *"Something's off, and you can't ignore it forever."* Deep feelings are asking to be acknowledged, whether you're ready or not.
 
 - **Multiple moons in the sky:** Two or more moons at once? That's confusing - and that's exactly the point. It usually reflects conflicting gut feelings or divided loyalties. Maybe you're torn between two choices, two people, or two different paths for your life. The dream is just mirroring that inner tug-of-war, nudging you to figure out which pull you actually trust.
 

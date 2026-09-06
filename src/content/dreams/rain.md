@@ -33,7 +33,7 @@ When the rain is pouring hard - I mean really coming down - it usually means you
 
 ## Rain Falling Indoors: Your Boundaries Are Leaking
 
-This one's weird and unsettling. If it's raining inside your house or bedroom, it usually means your personal boundaries are getting crossed. Feelings or problems that should stay outside your safe space are leaking in - maybe work stress is creeping into your home life, or a personal conflict is messing with your peace of mind. It's your subconscious telling you to protect your space before things get waterlogged.
+This one's weird and unsettling. If it's raining inside your [house](/dream/house/) or bedroom, it usually means your personal boundaries are getting crossed. Feelings or problems that should stay outside your safe space are leaking in - maybe work stress is creeping into your home life, or a personal conflict is messing with your peace of mind. It's your subconscious telling you to protect your space before things get waterlogged.
 
 ## Standing in the Rain Without Shelter: You're Okay with Feeling It All
 
@@ -41,7 +41,7 @@ If you're out in the rain and you don't even try to get out of it - you just sta
 
 ## What Psychologists Say About Rain Dreams
 
-Jung saw rain as emotional or spiritual energy falling from the unconscious into your conscious mind. It's like your deeper self sending you a message: "Pay attention to what you've been holding back." Rain wakes you up to feelings you might have been ignoring.
+Jung saw rain as emotional or spiritual energy [falling](/dream/falling/) from the unconscious into your conscious mind. It's like your deeper self sending you a message: "Pay attention to what you've been holding back." Rain wakes you up to feelings you might have been ignoring.
 
 Modern psychologists take a more down-to-earth view. Tears and rain are connected in our minds - when you can't cry or process loss during the day, your brain might use rain in your dreams to give you that release. It's like a pressure valve. The rain lets you grieve, let go, and reset without having to do it all consciously. Your mind is basically taking care of you while you sleep.
 
