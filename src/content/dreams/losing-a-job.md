@@ -27,7 +27,7 @@ Your job represents a lot more than just a paycheck. It's structure, identity, r
 
 ## Different Ways It Plays Out
 
-- **Being fired unexpectedly:** Out of nowhere, no warning, just *gone*. This one usually points to a fear of being blindsided in some area of life - not necessarily work. Maybe you're worried about a relationship taking a sudden turn, or a project you've poured yourself into falling apart without notice. It's about feeling like things could crumble at any moment, and you wouldn't see it coming.
+- **Being fired unexpectedly:** Out of nowhere, no warning, just *gone*. This one usually points to a fear of being blindsided in some area of life - not necessarily work. Maybe you're worried about a relationship taking a sudden turn, or a project you've poured yourself into [falling](/dream/falling/) apart without notice. It's about feeling like things could crumble at any moment, and you wouldn't see it coming.
 
 - **Mass layoffs or company downsizing:** This is a different flavor of anxiety. It's less about *you* personally and more about feeling swept up in forces way bigger than you. You might be dealing with a situation where your effort feels irrelevant - like no matter how hard you work, systemic changes could make you expendable. It's that helpless, "just a number" feeling.
 

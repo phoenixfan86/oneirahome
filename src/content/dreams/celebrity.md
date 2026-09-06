@@ -27,7 +27,7 @@ These dreams often crop up when you're seeking **validation** or **acknowledgmen
 
 ## Common Scenarios and What They Might Mean
 
-- **Chatting or hanging out with a celebrity**: If you're casually interacting with a famous person, it usually means you're starting to **internalize the qualities you admire** in them. If it feels natural and comfortable, that's a great sign - it points to growing self-confidence and a sense that your goals are actually within reach. It's like a bridge between where you are and who you want to become.
+- **Chatting or hanging out with a celebrity**: If you're casually interacting with a famous person, it usually means you're starting to **internalize the qualities you admire** in them. If it feels natural and comfortable, that's a great sign - it points to growing self-confidence and a sense that your goals are actually within reach. It's like a [bridge](/dream/bridge/) between where you are and who you want to become.
 
 - **Becoming famous yourself**: Dreaming about suddenly being in the spotlight? That often points to a deep desire for your efforts to be **noticed** and appreciated. It might pop up when you're feeling underappreciated at work or in your personal life. But if the fame feels overwhelming or uncomfortable, it could signal anxiety about **elevated expectations**, public scrutiny, or losing your privacy.
 

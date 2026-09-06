@@ -35,13 +35,13 @@ The *context* of your lateness changes the meaning entirely. Here are four class
 
 - **Clocks moving at unnatural speeds**: You glance at the clock and the hands are spinning wildly or jumping ahead. Creepy, right? This one often hits when you're burned out or under intense lifestyle stress. It reflects that sinking feeling that life is rushing past you way too fast to enjoy or even process.
 
-- **Late for a major personal event**: Missing a wedding, a graduation, a family gathering - these dreams hit right in the heart. They usually point to **fear of emotional distance** or neglecting the people who matter most. It's your brain asking if you're showing up for your loved ones the way you should.
+- **Late for a major personal event**: Missing a [wedding](/dream/wedding/), a graduation, a family gathering - these dreams hit right in the heart. They usually point to **fear of emotional distance** or neglecting the people who matter most. It's your brain asking if you're showing up for your loved ones the way you should.
 
 ## The Psychology Behind It
 
 Psychologically, lateness dreams are tightly linked to **chronic stress** and the mental exhaustion of constant decision-making. People who struggle with time management, perfectionism, or decision fatigue are especially prone to these nightmares. Perfectionists, in particular, often tie their whole self-worth to meeting every deadline - so missing one feels like a complete personal failure.
 
-Cognitive research also suggests these dreams act like a psychological **pressure valve**. When your waking hours are spent constantly monitoring schedules, juggling responsibilities, and managing external demands, your brain keeps processing all that hyper-vigilance while you sleep. The panic you feel when you're falling behind in the dream? That's your nervous system waving a red flag, telling you that your current pace might be unsustainable.
+Cognitive research also suggests these dreams act like a psychological **pressure valve**. When your waking hours are spent constantly monitoring schedules, juggling responsibilities, and managing external demands, your brain keeps processing all that hyper-vigilance while you sleep. The panic you feel when you're [falling](/dream/falling/) behind in the dream? That's your nervous system waving a red flag, telling you that your current pace might be unsustainable.
 
 ## Questions to Chew On
 

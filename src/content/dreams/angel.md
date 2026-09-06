@@ -31,7 +31,7 @@ But here's the thing: it's not necessarily about religion in a literal sense. Mo
 
 - **You feel protected or comforted**: Standing under huge wings or feeling this soothing warmth wrap around you? That's your psyche asking for **emotional safety**. It often happens when you're grieving, feeling vulnerable, or under crazy stress. But here's the good news: it's also a sign that your inner resilience is growing. You've got more strength to handle things than you think.
 
-- **You're flying alongside them**: Moving through the air with a spiritual guide by your side? That's about **liberation** and seeing the bigger picture. It means you're rising above your immediate problems and getting a more balanced view of your life. Expect a boost in creativity and emotional freedom too.
+- **You're [flying](/dream/flying/) alongside them**: Moving through the air with a spiritual guide by your side? That's about **liberation** and seeing the bigger picture. It means you're rising above your immediate problems and getting a more balanced view of your life. Expect a boost in creativity and emotional freedom too.
 
 - **You see a fallen or distressed angel**: If the figure looks injured, darkened, or drained of light, that's a heavier one. It usually reflects an internal struggle - maybe a crisis of confidence, a guilt trip, or that gnawing feeling that you've compromised something important to you.
 

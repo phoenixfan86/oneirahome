@@ -27,9 +27,9 @@ At its heart, a dream kiss is about bringing things together. It can point to a 
 
 ## Common Scenarios and What They're Actually Saying
 
-- **Kissing a stranger:** This one's not about a random crush. A stranger in a dream usually represents a part of *you* that you haven't met yet - untapped qualities, hidden passions, or aspects of your personality you've never explored. It's your subconscious nudging you toward novelty, mystery, or self-discovery.
+- **Kissing a stranger:** This one's not about a random crush. A [stranger](/dream/stranger/) in a dream usually represents a part of *you* that you haven't met yet - untapped qualities, hidden passions, or aspects of your personality you've never explored. It's your subconscious nudging you toward novelty, mystery, or self-discovery.
 
-- **Kissing an ex:** This doesn't mean you secretly want them back (thank goodness). Usually, it's about nostalgia, unresolved emotional themes, or lessons you're still unpacking from that chapter of your life. It can also pop up when your current situation triggers feelings that remind you of that past relationship - not because of the person, but because of the emotional echoes they left behind.
+- **Kissing an [ex](/dream/ex/):** This doesn't mean you secretly want them back (thank goodness). Usually, it's about nostalgia, unresolved emotional themes, or lessons you're still unpacking from that chapter of your life. It can also pop up when your current situation triggers feelings that remind you of that past relationship - not because of the person, but because of the emotional echoes they left behind.
 
 - **Kissing a close friend:** Sharing a kiss with a platonic friend in a dream is rarely about romance - it's about deep respect, trust, or a craving for closer emotional intimacy. It can also signal that you admire something in that friend - their confidence, warmth, or creativity - and want to cultivate that same quality in yourself.
 

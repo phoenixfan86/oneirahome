@@ -21,7 +21,7 @@ qcIssues: []
 
 ## Dreaming About Giving Birth? Here's What Your Brain Is Actually Cooking Up
 
-There's something undeniably intense about dreaming you're giving birth. You wake up feeling a little dazed, maybe a little sweaty, and definitely wondering what the hell that was about. But before you start Googling pregnancy symptoms or wondering if your biological clock is screaming at you, take a breath.
+There's something undeniably intense about dreaming you're giving birth. You wake up feeling a little dazed, maybe a little sweaty, and definitely wondering what the hell that was about. But before you start Googling [pregnancy](/dream/pregnancy/) symptoms or wondering if your biological clock is screaming at you, take a breath.
 
 Here's the deal: childbirth in dreams is almost never about actual babies or a literal desire to get pregnant. What it *is* about is creation, transformation, and something new trying to break through in your life. Your brain is using one of the most visceral metaphors it has to talk about bringing something *you've* been nurturing into the real world - a creative project, a major life change, a side hustle, or even a new version of yourself.
 
@@ -33,7 +33,7 @@ Not every birth dream plays out the same way. How it unfolds - and how you feel 
 
 - **Painful, difficult labor:** This one's more common and definitely more stressful. A long, painful delivery usually mirrors what's happening outside the dream - friction, self-doubt, or anxiety about a new responsibility. You're in the thick of something hard, and your brain is basically saying, *"Yeah, this is tough, but you're still pushing through."* It's a reminder that worthwhile things rarely come easy.
 
-- **Giving birth to something weird:** Sometimes it's not a baby at all - it's a cat, a weird object, or something completely abstract. This one usually reflects uncertainty about what you're actually creating. Maybe you started a project with one idea in mind, and it's turning into something totally different. Or maybe you're not sure if what you're nurturing is even going to look like you expected.
+- **Giving birth to something weird:** Sometimes it's not a [baby](/dream/baby/) at all - it's a [cat](/dream/cat/), a weird object, or something completely abstract. This one usually reflects uncertainty about what you're actually creating. Maybe you started a project with one idea in mind, and it's turning into something totally different. Or maybe you're not sure if what you're nurturing is even going to look like you expected.
 
 - **Helping someone else give birth:** If you're playing the role of coach or support system, this one's about your role in *other* people's growth. You might be mentoring a colleague, guiding a friend through a tough transition, or just being a solid presence for someone who's in the middle of their own messy evolution.
 

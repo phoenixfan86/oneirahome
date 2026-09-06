@@ -29,7 +29,7 @@ When rain falls soft and quiet in your dream, it's a good sign. It means you're 
 
 ## A Heavy Downpour or Storm: You're Feeling Overwhelmed
 
-When the rain is pouring hard - I mean really coming down - it usually means you're dealing with intense emotions. Stress, anger, grief, or pressure that's been building up for a while is finally breaking loose. The good news? Even a violent storm does something useful: it clears the air. That downpour might feel like too much, but it's actually your brain releasing tension that's been stuck way too long.
+When the rain is pouring hard - I mean really coming down - it usually means you're dealing with intense emotions. Stress, anger, grief, or pressure that's been building up for a while is finally breaking loose. The good news? Even a violent [storm](/dream/storm/) does something useful: it clears the air. That downpour might feel like too much, but it's actually your brain releasing tension that's been stuck way too long.
 
 ## Rain Falling Indoors: Your Boundaries Are Leaking
 

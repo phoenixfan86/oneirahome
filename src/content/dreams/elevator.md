@@ -27,7 +27,7 @@ When an elevator shows up in your dream, it's usually inviting you to ask: *Do I
 
 ## Common Scenarios and What They Might Mean
 
-- **An elevator falling or plunging rapidly**: This is one of the most common - and terrifying - variations. A sudden freefall often reflects **fear of losing control**, a blow to self-esteem, or a situation in waking life that feels like it's unraveling too quickly. It might point to dread about financial instability, personal failure, or an unexpected disruption to a comfortable routine.
+- **An elevator [falling](/dream/falling/) or plunging rapidly**: This is one of the most common - and terrifying - variations. A sudden freefall often reflects **fear of losing control**, a blow to self-esteem, or a situation in waking life that feels like it's unraveling too quickly. It might point to dread about financial instability, personal failure, or an unexpected disruption to a comfortable routine.
 
 - **Being stuck between floors**: A stalled lift frequently symbolizes feeling **trapped**, **blocked**, or in a state of **limbo**. Maybe you're facing a decision where neither option feels right, or you feel like your professional or personal development has hit an uncomfortable plateau. This scenario nudges you to identify where in your waking life you feel unable to move forward - or step back.
 

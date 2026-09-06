@@ -37,7 +37,7 @@ The meaning shifts completely depending on *how* the blood appears and *how it m
 
 ## The Psychology Behind It
 
-Psychologically, blood dreams act like a bridge between your conscious mind and deeper emotional currents. Depth psychology - think Jungian theory - views blood as a symbol of raw psychic energy and instinctual life. When it shows up in your sleep, it usually means strong, repressed feelings - buried anger, intense grief, or unexpressed passion - are trying to bubble up so you can finally acknowledge and work through them.
+Psychologically, blood dreams act like a [bridge](/dream/bridge/) between your conscious mind and deeper emotional currents. Depth psychology - think Jungian theory - views blood as a symbol of raw psychic energy and instinctual life. When it shows up in your sleep, it usually means strong, repressed feelings - buried anger, intense grief, or unexpressed passion - are trying to bubble up so you can finally acknowledge and work through them.
 
 Somatic psychology adds another layer: sometimes these intense images are triggered by physical sensations during sleep. Minor circulatory changes, muscle tension, or hormonal shifts can prompt your brain to cook up dramatic bodily metaphors, translating physical signals into vivid visual stories without actually waking you up.
 

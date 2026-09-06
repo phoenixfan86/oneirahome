@@ -35,7 +35,7 @@ The details of the dream matter way more than the person themselves. Here are a 
 
 - **Your ex ignoring you or showing disinterest:** Ouch, right? But weirdly enough, this one is usually a good sign. It often means you're quietly making peace with the past and letting go of that old attachment. It might sting in the moment, but your subconscious is basically giving you permission to move on - even if your conscious mind isn't quite there yet.
 
-- **Dreaming of your first love:** This tends to pop up during big life changes - starting a new job, moving, or when your current relationship feels a little stale. It's not that you want to go back to high school; it's that you miss the wide-eyed excitement, the vulnerability, the thrill of feeling *alive*. Your brain is sending up a signal: *"Hey, where did that spark go?"*
+- **Dreaming of your first love:** This tends to pop up during big life changes - starting a new job, moving, or when your current relationship feels a little stale. It's not that you want to go back to high [school](/dream/school/); it's that you miss the wide-eyed excitement, the vulnerability, the thrill of feeling *alive*. Your brain is sending up a signal: *"Hey, where did that spark go?"*
 
 ## The Deeper Psychology Behind It
 

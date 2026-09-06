@@ -31,13 +31,13 @@ When you find yourself running in your sleep, your brain is basically translatin
 
 The specifics of your chase scene can tell you a lot about what's actually bugging you during the day.
 
-- **An Unknown or Shadowy Figure** - If you're being hunted by some faceless blob or a dark silhouette, that usually points to vague, floating anxiety. Like worry about the future, money problems, or a big life change you can't quite wrap your head around. Since the threat isn't clear in real life, your brain makes it a mysterious, shapeless pursuer.
+- **An Unknown or Shadowy Figure** - If you're being hunted by some faceless blob or a dark silhouette, that usually points to vague, floating anxiety. Like worry about the future, [money](/dream/money/) problems, or a big life change you can't quite wrap your head around. Since the threat isn't clear in real life, your brain makes it a mysterious, shapeless pursuer.
 
 - **A Familiar Person** - If you actually recognize who's behind you, it often means there's unfinished business with that person. Or - and this is common - that person might represent a part of *you* that you're trying to bury: your inner critic, your temper, your vulnerability. Something you don't want to own up to.
 
 - **Moving in Slow Motion or Feeling Paralyzed** - You know that awful feeling when your legs turn to lead, and you're trying to run but going nowhere? That usually screams "I feel stuck" in real life. Like you've got a problem, but no clue how to handle it, and it's draining you.
 
-- **An Animal Attacker** - Getting chased by a wild beast - wolf, bear, snake, whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
+- **An Animal Attacker** - Getting chased by a wild beast - [wolf](/dream/wolf/), bear, [snake](/dream/snake/), whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
 
 ---
 
@@ -45,7 +45,7 @@ The specifics of your chase scene can tell you a lot about what's actually buggi
 
 Psychologists have some pretty solid takes on why we have these dreams. From Carl Jung's angle, that thing chasing you is your **"Shadow"** - the messy, uncomfortable parts of your personality, memories, or cravings that your conscious self finds too embarrassing or scary to admit. Jung believed the pursuer will keep coming back until you turn around and face it. It's like an invitation to stop running and start owning your whole self.
 
-Modern cognitive psych leans toward **"Threat Simulation Theory."** Basically, your brain uses sleep as a rehearsal room for stressful situations. It throws you into a chase scene so you can practice emotional regulation, quick thinking, and staying calm under pressure - like a fire drill for your psyche.
+Modern cognitive psych leans toward **"Threat Simulation Theory."** Basically, your brain uses sleep as a rehearsal room for stressful situations. It throws you into a chase scene so you can practice emotional regulation, quick thinking, and staying calm under pressure - like a [fire](/dream/fire/) drill for your psyche.
 
 Also, research keeps showing that recurring chase dreams are tightly linked to chronic stress. If you're on edge all day - jumping at notifications, overthinking every conversation, worrying about stuff you can't control - that hyper-alert state follows you into bed and turns into a dramatic midnight escape sequence.
 

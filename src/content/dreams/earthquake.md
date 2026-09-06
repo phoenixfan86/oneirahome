@@ -29,7 +29,7 @@ These dreams tend to surface during times of transition or stress, signaling tha
 
 - **Surviving a major tremor**: If you find yourself safely riding out the shaking and coming out unharmed, this is actually a **message of resilience**. It suggests that while external conditions feel chaotic or unstable, you've got the internal strength to navigate difficult transitions. The dream is highlighting your capacity to withstand pressure and adapt.
 
-- **Watching buildings collapse**: Witnessing structures crumble around you often relates to specific institutions or long-held expectations falling apart. Houses often represent the self or home life, while commercial buildings might symbolize professional standing. Seeing them fall indicates that established systems in your life may be reaching their expiration date - prompting a need to rebuild from the ground up.
+- **Watching buildings collapse**: Witnessing structures crumble around you often relates to specific institutions or long-held expectations [falling](/dream/falling/) apart. Houses often represent the self or home life, while commercial buildings might symbolize professional standing. Seeing them fall indicates that established systems in your life may be reaching their expiration date - prompting a need to rebuild from the ground up.
 
 - **Being trapped beneath rubble**: Feeling pinned down or unable to move after the ground stops shaking? That's a heavy one. This scenario often reflects **feelings of helplessness** in your waking hours. It might point to a situation where sudden changes have left you overwhelmed or restricted. Consider whether you need to reach out for support or systematically shed some heavy obligations.
 

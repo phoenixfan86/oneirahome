@@ -41,7 +41,7 @@ The *how* matters just as much as the *who*. Here's what different betrayal scen
 
 Psychologically, these dramatic betrayal scenes often come down to **projection**. That friend who turns on you? They're actually a stand-in for a part of *yourself* that you feel is failing or betraying you. Like, if you've been breaking promises to yourself - skipping workouts, procrastinating on something important - your subconscious might dramatize that self-betrayal as a friend going rogue.
 
-On top of that, these dreams are your brain's safe way of stress-testing your boundaries. They let you simulate vulnerable situations - like relationship shifts, intimacy issues, or dependency fears - without any real-world consequences. It's like a fire drill for your emotions.
+On top of that, these dreams are your brain's safe way of stress-testing your boundaries. They let you simulate vulnerable situations - like relationship shifts, intimacy issues, or dependency fears - without any real-world consequences. It's like a [fire](/dream/fire/) drill for your emotions.
 
 ## Reflection and Integration
 

@@ -31,7 +31,7 @@ But there's a darker side too. Because cockroaches thrive in dark, forgotten cor
 
 ## Common Scenarios and What They Might Mean
 
-- **Seeing an infestation**: Walking into a room swarming with roaches often represents feeling **overwhelmed by accumulated small stresses**. It's not one big crisis - it's death by a thousand paper cuts. Endless responsibilities, minor annoyances, or nagging worries that seem to multiply the longer you ignore them.
+- **Seeing an infestation**: Walking into a room swarming with roaches often represents feeling **overwhelmed by accumulated small stresses**. It's not one big crisis - it's [death](/dream/death/) by a thousand paper cuts. Endless responsibilities, minor annoyances, or nagging worries that seem to multiply the longer you ignore them.
 
 - **Killing or exterminating one**: Taking active steps to eliminate a cockroach usually reflects a conscious desire to **regain control**. You're actively working to ditch negative habits, toxic dynamics, or harmful thought patterns. Successfully squashing it often points to a resolution coming soon for a long-standing nuisance.
 

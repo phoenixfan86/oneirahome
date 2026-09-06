@@ -31,7 +31,7 @@ A dark entity in your dream is often tied to the heavier stuff - shame, addictio
 
 - **Experiencing possession**: Feeling controlled or invaded by a malevolent spirit suggests a **loss of personal agency** in your waking life. This often crops up when you're overwhelmed by an addiction, an unhealthy relationship, or compulsive behaviors that go against your core values. It's that nagging fear that your actions are no longer entirely your own.
 
-- **A figure standing over the bed**: Waking up (or thinking you're awake) to see a dark, shadowy shape looming near you is often tied to **sleep paralysis**. Symbolically, though, this presence usually points to **acute vulnerability**, helplessness, or intense anxiety about your personal boundaries being violated in waking life.
+- **A figure standing over the bed**: Waking up (or thinking you're awake) to see a dark, shadowy shape looming near you is often tied to **[sleep paralysis](/dream/sleep-paralysis/)**. Symbolically, though, this presence usually points to **acute vulnerability**, helplessness, or intense anxiety about your personal boundaries being violated in waking life.
 
 - **Banishing or fighting the entity**: Engaging in combat against a dark force reflects an **active struggle** against negative influences. Whether you're resisting a toxic habit, standing up to emotional abuse, or battling chronic self-doubt, this dynamic shows you're consciously trying to reclaim control over your mental and emotional well-being.
 

@@ -29,7 +29,7 @@ When your dream phone goes missing, your subconscious is usually flagging a brea
 
 - **Needing to make an urgent call but the phone's gone:** This one's a gut-punch. You need to reach someone *right now* - and you can't. It usually points to communication barriers in real life. Maybe there's something you're desperate to say but can't find the words, or maybe you're reaching out for help and feeling like no one's really listening.
 
-- **Dropping your phone into water or off a ledge:** Watching your device slip into a lake or tumble over a cliff is rough. It often signals a sudden rupture - something unexpected that's damaged your ability to connect. It could be a falling-out, a relationship that's hit a rough patch, or a fear that something important has been permanently broken.
+- **Dropping your phone into [water](/dream/water/) or off a ledge:** Watching your device slip into a lake or tumble over a cliff is rough. It often signals a sudden rupture - something unexpected that's damaged your ability to connect. It could be a [falling](/dream/falling/) out, a relationship that's hit a rough patch, or a fear that something important has been permanently broken.
 
 - **Finding the phone broken or unresponsive:** The phone is right there in your hand, but the screen is shattered or it's frozen. This scenario says: *the channel exists, but it's not working.* You might be having conversations that go nowhere, constant misunderstandings, or surface-level exchanges that leave you feeling emptier than before.
 
@@ -37,7 +37,7 @@ When your dream phone goes missing, your subconscious is usually flagging a brea
 
 ## What Psychologists Say About It
 
-From a psychological angle, your phone is a symbol of your bridge to the outside world - a modern-day lifeline to your social network, your memories, your sense of security. Losing it in a dream reflects anxiety about social displacement, or the fear that your connections are more fragile than you thought.
+From a psychological angle, your phone is a symbol of your [bridge](/dream/bridge/) to the outside world - a modern-day lifeline to your social network, your memories, your sense of security. Losing it in a dream reflects anxiety about social displacement, or the fear that your connections are more fragile than you thought.
 
 But there's another layer too. Psychologists point out that we live in an age of cognitive overload - constant pings, notifications, demands on our attention. Losing your phone in a dream might actually be your mind's way of forcing a break. It's like your psyche is saying, *"Enough. Step back. Breathe."* It's not just about panic - it's about the tension between your hyper-connected outer life and your private need for some damn stillness.
 

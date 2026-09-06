@@ -23,7 +23,7 @@ qcIssues: []
 
 Hair is personal - like, *really* personal. It's tied to how we show up in the world, how we feel about ourselves, and how we think other people see us. So when you dream about it falling out - in clumps, in the shower, in front of a crowd - it's rarely about your actual hairline. What it *is* about is that nagging feeling that something in your life is slipping, that you're losing your edge, or that you're more exposed than you'd like to be.
 
-These dreams don't just come out of nowhere. They usually hit during the messy parts of life - big changes, constant pressure, or moments when you feel like you're barely keeping your head above water. They're not curses or bad omens. Think of them more like a mirror held up to your anxieties, showing you the stuff you've been trying not to look at during the day.
+These dreams don't just come out of nowhere. They usually hit during the messy parts of life - big changes, constant pressure, or moments when you feel like you're barely keeping your head above [water](/dream/water/). They're not curses or bad omens. Think of them more like a [mirror](/dream/mirror/) held up to your anxieties, showing you the stuff you've been trying not to look at during the day.
 
 ## Different Ways It Goes Down - and What They Point To
 
@@ -35,7 +35,7 @@ The details change the meaning. Here's how a few common scenarios usually shake 
 
 - **Watching someone else lose their hair:** If you're dreaming about a friend or colleague shedding theirs, you might be worried about *them*. But it could also be projection - that person might be standing in for a part of *you* that feels shaky, vulnerable, or running low on steam.
 
-- **Losing hair in front of other people:** Crowds, coworkers, strangers - if your hair is falling out while people are watching, it's social anxiety all the way. It's that deep fear that people can see your flaws, your doubts, and your cracks - and that they're judging you for them.
+- **Losing hair in front of other people:** Crowds, coworkers, strangers - if your hair is [falling](/dream/falling/) out while people are watching, it's social anxiety all the way. It's that deep fear that people can see your flaws, your doubts, and your cracks - and that they're judging you for them.
 
 ## The Psychology Behind the Shedding
 

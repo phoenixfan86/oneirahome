@@ -39,7 +39,7 @@ The little details matter here. They give you clues about how this airplane symb
 
 ## The Psychology Behind It
 
-From a headier angle, flying dreams tap into our deep want to rise above everyday chaos and get some clarity. Carl Jung and other psych thinkers saw flying as a way to get above mundane stress and see the bigger picture - though they also warned it could mean you're getting too detached or head-in-the-clouds.
+From a headier angle, [flying](/dream/flying/) dreams tap into our deep want to rise above everyday chaos and get some clarity. Carl Jung and other psych thinkers saw flying as a way to get above mundane stress and see the bigger picture - though they also warned it could mean you're getting too detached or head-in-the-clouds.
 
 Modern brain science looks at these dreams as your mind's way of rehearsing how you handle **control, risk, and ambition**. Flying, by nature, means handing over some control to forces outside you - like weather, mechanics, or air traffic - unless you're the one flying. So it's no surprise that airplane dreams often hit during big transitions: switching jobs, moving cities, or launching something new. It's your brain's dress rehearsal for navigating uncertainty while reaching for the stars.
 

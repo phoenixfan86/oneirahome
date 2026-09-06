@@ -21,7 +21,7 @@ qcIssues: []
 
 ## What That House in Your Dream Is Really Saying About You
 
-When a house shows up in your dreams, it's almost never about bricks and mortar. Think of it as a stand-in for *you* - your mind, your emotions, your sense of self. The way the building looks, how it feels to move through it, and what happens inside all act like a mirror reflecting what's going on beneath the surface.
+When a house shows up in your dreams, it's almost never about bricks and mortar. Think of it as a stand-in for *you* - your mind, your emotions, your sense of self. The way the building looks, how it feels to move through it, and what happens inside all act like a [mirror](/dream/mirror/) reflecting what's going on beneath the surface.
 
 A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
 
@@ -31,7 +31,7 @@ Because houses are packed with meaning, the details matter a lot. Here's how som
 
 - **Discovering unexplored rooms:** Finding a hidden hallway, a secret door, or an entire wing you never knew existed is actually a great sign. It usually points to personal growth, untapped potential, or parts of yourself you haven't fully met yet. Maybe you're waking up to a new passion, a buried desire, or a creative side you've been ignoring. Your subconscious is saying, *"Hey, there's more to you than you think."*
 
-- **A damaged or decaying house:** Broken windows, crumbling walls, or water stains creeping across the ceiling? This one's a red flag. It usually signals emotional vulnerability or neglect - maybe you've been letting your boundaries slip, ignoring your mental health, or running on empty for too long. It's your mind's way of saying, *"Check in on this before it gets worse."*
+- **A damaged or decaying house:** Broken windows, crumbling walls, or [water](/dream/water/) stains creeping across the ceiling? This one's a red flag. It usually signals emotional vulnerability or neglect - maybe you've been letting your boundaries slip, ignoring your mental health, or running on empty for too long. It's your mind's way of saying, *"Check in on this before it gets worse."*
 
 - **Cleaning or renovating:** Tidying up, painting walls, or fixing things around the house reflects a conscious effort toward personal growth. This often pops up when you're actively shedding old habits, working through emotional baggage, or reorganizing your life to better match who you're becoming. It's the dream equivalent of spring cleaning - but for your psyche.
 

@@ -32,7 +32,7 @@ Light-colored horses traditionally carry associations with mental clarity, spiri
 Dark horses often embody mystery, the subconscious, or unknown aspects of your personality. This scenario might point to unacknowledged talents, repressed feelings, or uncertainty surrounding a decision you are currently facing.
 
 ### An Injured or Tethered Horse
-Seeing a wounded or tied horse can mirror feelings of restricted freedom, low physical energy, or burnout. It serves as a gentle indicator that your internal drive needs rest, care, or liberation from restrictive obligations.
+Seeing a wounded or tied horse can [mirror](/dream/mirror/) feelings of restricted freedom, low physical energy, or burnout. It serves as a gentle indicator that your internal drive needs rest, care, or liberation from restrictive obligations.
 
 ## Psychological Perspectives
 

@@ -21,7 +21,7 @@ qcIssues: []
 
 ## Dreamt About Drowning? Here's What Your Subconscious Is Trying to Tell You
 
-Water in dreams is *huge* - it almost always represents **emotions**, the **subconscious mind**, and your deepest feelings. So when you dream about drowning or being overwhelmed by water, it's usually a sign that you're feeling **emotionally swamped** in your waking life. When the water rises to the point of suffocating, it often reflects real-life situations where emotional burdens, stress, or daily responsibilities feel way too heavy to carry.
+Water in dreams is *huge* - it almost always represents **emotions**, the **subconscious mind**, and your deepest feelings. So when you dream about drowning or being overwhelmed by water, it's usually a sign that you're feeling **emotionally swamped** in your waking life. When the [water](/dream/water/) rises to the point of suffocating, it often reflects real-life situations where emotional burdens, stress, or daily responsibilities feel way too heavy to carry.
 
 Here's the thing: this is almost never a literal premonition. Instead, it's more like a **psychological pressure valve**. Your subconscious is waving a red flag, suggesting you're suppressing intense emotions - grief, anxiety, anger - that are now demanding your attention. That panicked feeling of losing control while being engulfed? It mirrors the struggle to keep it together amidst demanding circumstances, whether at work, in relationships, or during major life changes.
 
@@ -33,11 +33,11 @@ Here's the thing: this is almost never a literal premonition. Instead, it's more
 
 - **Saving someone else**: Trying to rescue another person from the depths? That often mirrors a tendency to **take on other people's problems**. It might suggest you're overextending yourself to support someone close to you - potentially at the expense of your own well-being.
 
-- **Drowning in the ocean**: Ocean settings represent vast, unpredictable forces. Submerging beneath sea waves often points to **broader life transitions**, existential worries, or feelings of powerlessness against large-scale circumstances beyond your control.
+- **Drowning in the [ocean](/dream/ocean/)**: Ocean settings represent vast, unpredictable forces. Submerging beneath sea waves often points to **broader life transitions**, existential worries, or feelings of powerlessness against large-scale circumstances beyond your control.
 
 ## The Psychology Behind It
 
-Psychologically, drowning dreams are closely linked to **emotional burnout**. In Jungian psychology, deep bodies of water represent the unconscious mind. Becoming engulfed by water can symbolize a fear that repressed impulses or unexpressed feelings are threatening to flood your conscious awareness.
+Psychologically, drowning dreams are closely linked to **emotional burnout**. In Jungian psychology, deep bodies of water represent the unconscious mind. Becoming engulfed by water can symbolize a fear that repressed impulses or unexpressed feelings are threatening to [flood](/dream/flood/) your conscious awareness.
 
 Modern sleep research adds another layer: mild respiratory restriction during sleep - like sleep apnea, snoring, or sleeping in an awkward position - can sometimes trigger water-based suffocating imagery. But more commonly, high daytime stress levels elevate cortisol, causing your brain to translate feelings of panic or helplessness into vivid, water-bound distress scenarios during REM sleep.
 

@@ -33,7 +33,7 @@ These dreams tend to pop up during big shifts - switching careers, hitting perso
 
 - **Standing in the middle, hesitating**: Pausing halfway across? Classic limbo. You probably feel caught between the past and the future - not quite ready to commit to a new path, but unable to go back to the old one. This hesitation highlights an internal tug-of-war, where fear of the unknown temporarily freezes you in place.
 
-- **Looking down into the water below**: Stopping to gaze at the water beneath the bridge often means you're engaging with your **underlying emotions**. The state of the water reflects the emotional atmosphere around your transition. Clear, calm water? That's clarity and peace. Murky or churning currents? That suggests anxiety or unaddressed grief about what you're leaving behind.
+- **Looking down into the [water](/dream/water/) below**: Stopping to gaze at the water beneath the bridge often means you're engaging with your **underlying emotions**. The state of the water reflects the emotional atmosphere around your transition. Clear, calm water? That's clarity and peace. Murky or churning currents? That suggests anxiety or unaddressed grief about what you're leaving behind.
 
 ## The Psychology Behind It
 

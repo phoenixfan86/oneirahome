@@ -29,7 +29,7 @@ At its heart, a cheating partner in a dream often symbolizes feelings of **inade
 
 - **Partner cheating with a close friend**: Oof, this one stings. This variation often points to complex feelings about **trust and social dynamics**. You might be feeling subtly inadequate compared to that friend, or worried that your partner values certain qualities in them that you feel you lack.
 
-- **Partner cheating with a complete stranger**: When the third party is unknown, the focus shifts to **general insecurity** or **fear of the unknown**. This often reflects anxiety about unpredictable future events, career shifts, or an intangible emotional distance growing between you and your partner.
+- **Partner cheating with a complete [stranger](/dream/stranger/)**: When the third party is unknown, the focus shifts to **general insecurity** or **fear of the unknown**. This often reflects anxiety about unpredictable future events, career shifts, or an intangible emotional distance growing between you and your partner.
 
 - **Catching the infidelity in progress**: Confronting or catching your partner in the act highlights a deep desire for **honesty and transparency**. This scenario often pops up when there are unexpressed doubts, unaddressed tension, or hidden resentment in your waking life that need to be cleared through open conversation.
 
@@ -37,7 +37,7 @@ At its heart, a cheating partner in a dream often symbolizes feelings of **inade
 
 ## The Psychology Behind It
 
-Psychologically, infidelity dreams often act as a mirror for **self-worth** and **trust structures**. Attachment theory suggests that people with anxious or avoidant attachment styles may experience themes of rejection more frequently during sleep. Your mind is basically rehearsing potential emotional threats, trying to protect you from unexpected pain in waking life.
+Psychologically, infidelity dreams often act as a [mirror](/dream/mirror/) for **self-worth** and **trust structures**. Attachment theory suggests that people with anxious or avoidant attachment styles may experience themes of rejection more frequently during sleep. Your mind is basically rehearsing potential emotional threats, trying to protect you from unexpected pain in waking life.
 
 There's also a projective angle: characters in your dreams often represent parts of your own personality. A cheating partner might symbolize a division between your conscious desires and your subconscious actions - like feeling disconnected from your creativity, ambition, or personal integrity.
 

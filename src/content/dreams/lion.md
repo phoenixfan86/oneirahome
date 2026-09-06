@@ -29,7 +29,7 @@ But here's the catch: whether that lion feels like an ally or a threat depends e
 
 - **A calm, peaceful lion watching you:** This is a good one. If the lion is composed and just observing you from a distance, it usually means you've got a healthy relationship with your own power. You're confident without being aggressive, strong without being overbearing. You know you've got teeth, but you don't need to use them.
 
-- **Being chased or attacked by a lion:** This one hits different - and it usually means you're running from something in your waking life. Maybe it's a conflict with an authority figure, a responsibility that feels too heavy, or some anger you're not ready to face. The lion isn't the problem - it's what the lion represents: a situation or emotion that feels too big to take on.
+- **[Being chased](/dream/being-chased/) or attacked by a lion:** This one hits different - and it usually means you're running from something in your waking life. Maybe it's a conflict with an authority figure, a responsibility that feels too heavy, or some anger you're not ready to face. The lion isn't the problem - it's what the lion represents: a situation or emotion that feels too big to take on.
 
 - **Taming or petting a lion:** Petting a wild lion? That takes guts - and in a dream, it's a sign of personal mastery. It means you're learning to channel your raw instincts into something constructive. You're making peace with your own intensity, or maybe even turning a rival into an ally. Either way, you're in control.
 

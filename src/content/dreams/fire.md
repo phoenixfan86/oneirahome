@@ -23,13 +23,13 @@ qcIssues: []
 
 Fire is one of those symbols that can mean a hundred different things, depending on how it shows up and how it makes you feel. In dreams, it's rarely just a random image - it's your mind's way of flagging intense emotional energy that's burning somewhere beneath the surface. 
 
-The tricky part is that fire cuts both ways. It can level a forest to ash, but it can also keep you warm on a cold night, light your way through the dark, or spark something new. So when it appears in your sleep, the key question isn't *"What does fire mean?"* - it's *"What kind of fire am I dealing with?"*
+The tricky part is that fire cuts both ways. It can level a [forest](/dream/forest/) to ash, but it can also keep you warm on a cold night, light your way through the dark, or spark something new. So when it appears in your sleep, the key question isn't *"What does fire mean?"* - it's *"What kind of fire am I dealing with?"*
 
 ## Different Blazes, Different Meanings
 
 The context of the fire matters more than the fire itself. Here's how some common scenarios usually break down:
 
-- **A burning house or building:** A house in a dream often stands for *you* - your psyche, your sense of security, your inner world. Watching it go up in flames usually means you feel like something important in your life is falling apart or slipping out of your control. But it can also be a sign of transformation - sometimes the old you has to burn down before the new version can emerge.
+- **A burning house or building:** A [house](/dream/house/) in a dream often stands for *you* - your psyche, your sense of security, your inner world. Watching it go up in flames usually means you feel like something important in your life is [falling](/dream/falling/) apart or slipping out of your control. But it can also be a sign of transformation - sometimes the old you has to burn down before the new version can emerge.
 
 - **Tending a gentle flame:** If you're cozied up by a fireplace, lighting a candle, or feeding a small campfire, that's a good sign. This usually points to emotional warmth, contentment, creative energy, or a sense of inner peace. It suggests your passions are in balance and actually working *for* you instead of against you.
 
@@ -52,4 +52,4 @@ Instead of brushing it off, take a beat and ask yourself a few honest questions:
 - Is there a situation in your life right now where you feel consumed by stress, or conversely, fired up with excitement?
 - What old habits, beliefs, or circumstances might need to be cleared away to make room for something fresh?
 
-Fire dreams can feel alarming, but they're often just your mind holding up a mirror to where your emotional temperature is running hottest. The real question isn't *"What does this mean?"* - it's *"What in my life is demanding this much heat?"* Answer that, and you'll start turning the fire from a warning sign into a spark for real change.
+Fire dreams can feel alarming, but they're often just your mind holding up a [mirror](/dream/mirror/) to where your emotional temperature is running hottest. The real question isn't *"What does this mean?"* - it's *"What in my life is demanding this much heat?"* Answer that, and you'll start turning the fire from a warning sign into a spark for real change.

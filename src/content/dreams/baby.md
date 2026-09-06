@@ -36,13 +36,13 @@ The details matter a ton here. What you're *doing* with the baby in the dream ch
 
 - **Forgetting or misplacing the baby**: This one's a gut punch. Losing track of a newborn in a dream usually points to **fear of dropping the ball** on something that matters. Maybe you're so overwhelmed with daily chaos that you're sidelining a passion project, your self-care, or a goal you used to care about. Your brain is waving a red flag.
 
-- **Giving birth or suddenly finding a baby**: Out of nowhere, there's a new life in your hands? This often signals **unexpected personal growth** or a sudden shift in identity. Maybe you're stepping into a new phase of life that you didn't see coming, and honestly, you might not feel fully ready for it yet.
+- **[Giving birth](/dream/giving-birth/) or suddenly finding a baby**: Out of nowhere, there's a new life in your hands? This often signals **unexpected personal growth** or a sudden shift in identity. Maybe you're stepping into a new phase of life that you didn't see coming, and honestly, you might not feel fully ready for it yet.
 
 ## The Psychology Behind It
 
-From a psychological angle, this imagery is pure gold for understanding what's simmering beneath the surface. Carl Jung called the child archetype the "Divine Child" - it's all about **renewal**, **pure potential**, and the bridge between who you've been and who you're becoming. When a baby shows up in your dreams, Jung would say your psyche is pushing you toward growth and integrating new parts of yourself.
+From a psychological angle, this imagery is pure gold for understanding what's simmering beneath the surface. Carl Jung called the child archetype the "Divine Child" - it's all about **renewal**, **pure potential**, and the [bridge](/dream/bridge/) between who you've been and who you're becoming. When a baby shows up in your dreams, Jung would say your psyche is pushing you toward growth and integrating new parts of yourself.
 
-Modern psychologists also tie this to your relationship with your own **inner child** - that playful, innocent, emotionally honest part of you that still exists. Or it could be about the weight of new responsibilities. How capable do you feel? Overwhelmed? In control? The dream holds up a mirror to exactly that.
+Modern psychologists also tie this to your relationship with your own **inner child** - that playful, innocent, emotionally honest part of you that still exists. Or it could be about the weight of new responsibilities. How capable do you feel? Overwhelmed? In control? The dream holds up a [mirror](/dream/mirror/) to exactly that.
 
 ## Questions to Sit With
 

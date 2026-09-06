@@ -39,7 +39,7 @@ The way you fly - and how it feels - matters a whole lot. Here's how different f
 
 ## What Psychologists Say About Taking Flight
 
-Carl Jung had a lot to say about flying dreams. He saw them as a way for the psyche to rise above a problem and get a bird's-eye view - literally. In his view, these dreams often act as a balancing mechanism, nudging you to transcend ego limitations and see your emotional struggles with more clarity and detachment.
+Carl Jung had a lot to say about flying dreams. He saw them as a way for the psyche to rise above a problem and get a [bird's](/dream/bird/) eye view - literally. In his view, these dreams often act as a balancing mechanism, nudging you to transcend ego limitations and see your emotional struggles with more clarity and detachment.
 
 Other psychological takes focus on autonomy and self-belief. When you feel empowered or accomplished in waking life, your brain translates that into physical lightness and boundless movement. Alfred Adler, another big name in psychology, linked flying dreams to a subconscious drive to overcome feelings of inferiority - it's the human urge to rise above obstacles and assert control over your own path.
 

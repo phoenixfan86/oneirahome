@@ -35,7 +35,7 @@ Not all falling dreams are created equal. The *how* and *where* of the fall can 
 
 - **Waking up right before impact vs. landing safely:** If you snap awake at the last second, it's often adrenaline doing its job - your brain is literally shocking you out of the stress. But if you hit the ground and walk away without a scratch, take it as a good sign. Your subconscious is reminding you that you're resilient - even when things feel shaky, you have the inner resources to bounce back.
 
-- **Watching someone else fall:** If you're dreaming about a friend, family member, or even a stranger taking a nosedive, it's usually about *your* concern for them. Maybe you're worried they're struggling, or you're afraid that someone you lean on is starting to crumble. It can also reflect a fear that your trust in someone is about to get shaken.
+- **Watching someone else fall:** If you're dreaming about a friend, family member, or even a [stranger](/dream/stranger/) taking a nosedive, it's usually about *your* concern for them. Maybe you're worried they're struggling, or you're afraid that someone you lean on is starting to crumble. It can also reflect a fear that your trust in someone is about to get shaken.
 
 ## What Psychologists Say About the Drop
 

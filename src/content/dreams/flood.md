@@ -29,7 +29,7 @@ The thing is, flood dreams aren't about predicting actual disasters. They're int
 
 The details of the flood - and how you react to it - can tell you a lot about what your subconscious is chewing on:
 
-- **Flooding inside your home:** A house in a dream usually stands for *you* - your inner world, your private life, your sense of safety. If water is rising through your living room or creeping up the stairs, it often means family tensions or personal issues are bleeding into your safe space. It's a nudge to deal with emotional stuff at home before it feels like it's swallowing you whole.
+- **Flooding inside your home:** A [house](/dream/house/) in a dream usually stands for *you* - your inner world, your private life, your sense of safety. If [water](/dream/water/) is rising through your living room or creeping up the stairs, it often means family tensions or personal issues are bleeding into your safe space. It's a nudge to deal with emotional stuff at home before it feels like it's swallowing you whole.
 
 - **Being swept away by currents:** If you're caught in a powerful surge and can't get your feet under you, this one points to helplessness - plain and simple. It tends to pop up during major life upheavals like job changes, breakups, or sudden loss, where everything's moving way too fast and you're just trying to keep your head above water.
 
