@@ -4,7 +4,7 @@ symbol: "lion"
 description: "Learn what encountering a lion in your dream means regarding personal power, leadership, suppressed passions, and standing your ground."
 img: "/img/lion.webp"
 category: "animals"
-tags: ["personal power", "leadership", "courage", "passion"]
+tags: ["personal-power", "leadership", "courage", "passion"]
 faq:
   - question: "What does a lion symbolize in a dream?"
     answer: "A lion in a dream reflects how you handle power, control, and your wilder instincts. Depending on how it appears, it can represent inner confidence and strength or an overwhelming threat in your waking life."

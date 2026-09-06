@@ -4,7 +4,7 @@ symbol: "elevator"
 description: "Discover what an elevator in your subconscious signifies, from rapid career shifts to personal emotional transitions."
 img: "/img/elevator.webp"
 category: "objects"
-tags: ["transitions", "career", "personal growth", "status"]
+tags: ["transitions", "career", "personal-growth", "status"]
 faq:
   - question: "What does a dream about a falling elevator mean?"
     answer: "A rapidly plunging elevator reflects a fear of losing control, a blow to self-esteem, or a waking situation that feels like it is unraveling too quickly. It often highlights internalized anxieties about financial instability, personal failure, or unexpected disruptions to your routine."

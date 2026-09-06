@@ -4,7 +4,7 @@ symbol: "falling"
 description: "What does it mean to dream about falling? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/falling.webp"
 category: "events"
-tags: ["fear", "loss of control", "anxiety", "insecurity"]
+tags: ["fear", "loss-of-control", "anxiety", "insecurity"]
 faq:
   - question: "What does it mean to dream about falling?"
     answer: "Dreaming about falling typically signifies feeling insecure, vulnerable, or out of control in your waking life. It often reflects situations like juggling work stress, relationship troubles, or facing difficult decisions."
