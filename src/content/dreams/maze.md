@@ -33,7 +33,7 @@ When you keep running into walls over and over, it's annoying - and that's the p
 
 ## Being Chased in a Maze: You're Avoiding Something
 
-This one is scary. If you're running through twisty halls and something is [chasing](/dream/being-chase/) you, it usually means you're avoiding something in real life. Maybe it's a deadline you don't want to face, a tough talk you keep putting off, or a feeling you're trying to ignore. The maze makes it worse because you can't find a way out. Your brain is saying, "Stop running and deal with it."
+This one is scary. If you're running through twisty halls and something is [chasing](/dream/being-chased/) you, it usually means you're avoiding something in real life. Maybe it's a deadline you don't want to face, a tough talk you keep putting off, or a feeling you're trying to ignore. The maze makes it worse because you can't find a way out. Your brain is saying, "Stop running and deal with it."
 
 ## Looking Down from Above: You're Starting to See Clearly
 
