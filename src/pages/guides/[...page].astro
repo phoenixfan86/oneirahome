@@ -23,8 +23,9 @@ interface Props {
 }
 
 const { page } = Astro.props;
-const pageTitle = page.currentPage === 1 ? 'Sleep & Dream Guides' : `Sleep & Dream Guides - Page ${page.currentPage}`;
-const pageDescription = 'In-depth guides on lucid dreaming, sleep paralysis, recurring dreams, and the science of sleep - beyond individual dream symbols.';
+const guideCount = page.total;
+const pageTitle = page.currentPage === 1 ? 'Lucid Dreaming, Sleep Paralysis & Science Guides | Oneira Home' : `Lucid Dreaming & Sleep Guides — Page ${page.currentPage} | Oneira Home`;
+const pageDescription = `${guideCount} in-depth guide${guideCount === 1 ? '' : 's'} on lucid dreaming, sleep paralysis, recurring dreams, and the science of sleep — practical techniques and explanations that go beyond individual dream symbol meanings.`;
 
 const listSchema = buildListSchema({
   name: pageTitle,
@@ -36,8 +37,8 @@ const listSchema = buildListSchema({
 });
 ---
 <BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
-  <h1>Sleep & Dream Guides</h1>
-  <p>Longer reads on lucid dreaming, sleep paralysis, and other sleep phenomena - for when a single symbol meaning isn't what you're after.</p>
+  <h1>Lucid Dreaming & Sleep Guides</h1>
+  <p>In-depth guides on lucid dreaming, sleep paralysis, and the science behind why we dream — practical techniques, not just symbol lookups.</p>
 
   <div class="moon-divider">☾</div>
 
