@@ -1,5 +1,5 @@
 ---
-title: "Dream About Spider: Meaning & Interpretation"
+title: "Spider Dream Meaning: What Does It Mean?"
 symbol: "spider"
 description: "What does it mean to dream about spider? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/spider.webp"

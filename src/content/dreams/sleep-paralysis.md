@@ -1,5 +1,5 @@
 ---
-title: "Dream About Sleep Paralysis: Meaning & Interpretation"
+title: "Sleep Paralysis Dream Meaning: What Does It Mean?"
 symbol: "sleep paralysis"
 description: "Explore the symbolic and psychological meanings of feeling immobilized or experiencing sleep paralysis visions in your rest."
 img: "/img/sleep-paralysis.webp"

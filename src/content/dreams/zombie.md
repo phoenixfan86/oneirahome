@@ -1,5 +1,5 @@
 ---
-title: "Dream About Zombie: Meaning & Interpretation"
+title: "Zombie Dream Meaning: What Does It Mean?"
 symbol: "zombie"
 description: "Discover the hidden psychological meaning behind encountering zombies in your dreams and what your subconscious may be signaling."
 img: "/img/zombie.webp"
