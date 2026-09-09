@@ -92,14 +92,15 @@ schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchem
     <p class="dream-meta">
       Category: <a href={`/categories/${entry.data.category}`}>{entry.data.category}</a>
       {entry.data.tags.length > 0 && (
-        <>
+        <span>
           {' · '}
+          <span>dream themes</span>
           {entry.data.tags.map((tag: string, i: number) => (
             <>
               <a href={`/tags/${tag}/`}>{tag}</a>{i < entry.data.tags.length - 1 ? ', ' : ''}
             </>
           ))}
-        </>
+        </span>
       )}
     </p>
     {entry.data.img && (
