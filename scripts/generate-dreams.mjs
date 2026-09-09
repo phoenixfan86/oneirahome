@@ -201,7 +201,7 @@ async function main() {
         const frontmatter = buildFrontmatter({
           symbol: topic.symbol,
           category: topic.category,
-          title: match.title || `Dream About ${capitalize(topic.symbol)}: Meaning & Interpretation`,
+          title: match.title || `${capitalize(topic.symbol)} Dream Meaning: What Does It Mean?`,
           description: match.description || `What does it mean to dream about ${topic.symbol}?`,
           faq: match.faq || [],
         });
