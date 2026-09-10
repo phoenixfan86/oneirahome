@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-10T08:52:09.960Z
+Generated: 2026-09-10T10:15:41.667Z
 
-39 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
+40 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -9,6 +9,19 @@ Generated: 2026-09-10T08:52:09.960Z
 
 - Line 29: link **"ocean"** -> `/dream/ocean/`
   > From a psychological angle, water is basically a map of your inner world. The ocean or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
+
+---
+
+## horse  (`horse.md`)
+
+- Line 6: link **"bridge"** -> `/dream/bridge/`
+  > Think of a horse as the bridge between your civilized, "I've got my life together" side and your wild, untamed, instinctual side. How that horse acts in your dream says a lot about how well you're handling that balance in real life. A strong, spirited horse? That's confidence and momentum. A weak, tied-up, or struggling horse? That's a red flag-maybe you're running on empty or shoving down desires that need air.
+
+- Line 26: link **"fire"** -> `/dream/fire/`
+  > This one hurts to see. A wounded or tied-up horse usually mirrors feeling trapped, exhausted, or burned out. Your inner drive-that fire that usually pushes you forward-is running on fumes. It might be time to rest, ask for help, or break free from obligations that are slowly suffocating you. Your spirit needs care, not more pressure.
+
+- Line 40: link **"mirror"** -> `/dream/mirror/`
+  > - How did the horse seem to feel about you? Calm? Trusting? Scared? Resistant? That's usually a mirror for how you feel about yourself.
 
 ---
 
@@ -23,16 +36,6 @@ Generated: 2026-09-10T08:52:09.960Z
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
-
----
-
-## quicksand  (`quicksand.md`)
-
-- Line 8: link **"drowning"** -> `/dream/drowning/`
-  > Maybe you're drowning in responsibilities. Maybe you're trapped in a routine that's slowly sucking the life out of you. Or maybe you're caught in an emotional situation where the more you struggle, the worse it gets. Sound familiar? Yeah. That's quicksand.
-
-- Line 10: link **"money"** -> `/dream/money/`
-  > In dream land, earth usually stands for stability, structure, and security. So when the earth turns to liquid? That's a big flashing sign that the foundation of your life-whether it's money, work, or relationships-feels shaky right now. And here's the kicker: the dream might also be telling you that your current approach to the problem is actually making things worse, not better.
 
 ---
 
