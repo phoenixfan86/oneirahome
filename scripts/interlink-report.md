@@ -1,7 +1,17 @@
 # Internal Linking Suggestions
-Generated: 2026-09-10T10:15:41.667Z
+Generated: 2026-09-10T14:18:38.000Z
 
-40 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
+39 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
+
+---
+
+## desert  (`desert.md`)
+
+- Line 18: link **"water"** -> `/dream/water/`
+  > Okay, this one's a gift. If you stumble across a vibrant oasis-clear water, palm trees, the whole deal-that's a beautiful sign. It means relief is available. Support is out there. Even when things feel impossible, there's something hidden that can restore you. It might be a person, a resource, or a part of yourself you forgot you had. Either way, you're not as stuck as you think.
+
+- Line 24: link **"storm"** -> `/dream/storm/`
+  > Getting caught in a swirling wall of sand? That's chaos. That's obscured vision. It usually means external pressure or sudden anxiety is clouding your judgment. You can't see where you're going because everything's blowing up in your face. The dream is telling you to find shelter, hunker down, and wait for the storm to pass. Clarity will come back-just not yet.
 
 ---
 
@@ -9,19 +19,6 @@ Generated: 2026-09-10T10:15:41.667Z
 
 - Line 29: link **"ocean"** -> `/dream/ocean/`
   > From a psychological angle, water is basically a map of your inner world. The ocean or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
-
----
-
-## horse  (`horse.md`)
-
-- Line 6: link **"bridge"** -> `/dream/bridge/`
-  > Think of a horse as the bridge between your civilized, "I've got my life together" side and your wild, untamed, instinctual side. How that horse acts in your dream says a lot about how well you're handling that balance in real life. A strong, spirited horse? That's confidence and momentum. A weak, tied-up, or struggling horse? That's a red flag-maybe you're running on empty or shoving down desires that need air.
-
-- Line 26: link **"fire"** -> `/dream/fire/`
-  > This one hurts to see. A wounded or tied-up horse usually mirrors feeling trapped, exhausted, or burned out. Your inner drive-that fire that usually pushes you forward-is running on fumes. It might be time to rest, ask for help, or break free from obligations that are slowly suffocating you. Your spirit needs care, not more pressure.
-
-- Line 40: link **"mirror"** -> `/dream/mirror/`
-  > - How did the horse seem to feel about you? Calm? Trusting? Scared? Resistant? That's usually a mirror for how you feel about yourself.
 
 ---
 
