@@ -62,6 +62,9 @@ node --env-file=.env scripts/edit-dreams.mjs
 
 # Optional: auto-publish anything that comes back clean
 node --env-file=.env scripts/edit-dreams.mjs --auto-publish
+
+# Optional: Generate Roundups
+node scripts/generate-roundups.mjs
 ```
 
 Both `GROUP_SIZE` and `REQUESTS_PER_RUN` are constants at the top of each
