@@ -260,9 +260,23 @@ declare module 'astro:content' {
   collection: "dreams";
   data: any
 } & { render(): Render[".md"] };
+"clock.md": {
+	id: "clock.md";
+  slug: "clock";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
 "cockroach.md": {
 	id: "cockroach.md";
   slug: "cockroach";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
+"dancing.md": {
+	id: "dancing.md";
+  slug: "dancing";
   body: string;
   collection: "dreams";
   data: any
@@ -291,6 +305,13 @@ declare module 'astro:content' {
 "dog.md": {
 	id: "dog.md";
   slug: "dog";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
+"door.md": {
+	id: "door.md";
+  slug: "door";
   body: string;
   collection: "dreams";
   data: any
@@ -386,9 +407,23 @@ declare module 'astro:content' {
   collection: "dreams";
   data: any
 } & { render(): Render[".md"] };
+"haunted-house.md": {
+	id: "haunted-house.md";
+  slug: "haunted-house";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
 "horse.md": {
 	id: "horse.md";
   slug: "horse";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
+"hospital.md": {
+	id: "hospital.md";
+  slug: "hospital";
   body: string;
   collection: "dreams";
   data: any
@@ -403,6 +438,13 @@ declare module 'astro:content' {
 "island.md": {
 	id: "island.md";
   slug: "island";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
+"keys.md": {
+	id: "keys.md";
+  slug: "keys";
   body: string;
   collection: "dreams";
   data: any
@@ -575,6 +617,13 @@ declare module 'astro:content' {
   collection: "dreams";
   data: any
 } & { render(): Render[".md"] };
+"singing.md": {
+	id: "singing.md";
+  slug: "singing";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
 "sleep-paralysis.md": {
 	id: "sleep-paralysis.md";
   slug: "sleep-paralysis";
@@ -683,6 +732,13 @@ declare module 'astro:content' {
 "wedding.md": {
 	id: "wedding.md";
   slug: "wedding";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
+"winning-the-lottery.md": {
+	id: "winning-the-lottery.md";
+  slug: "winning-the-lottery";
   body: string;
   collection: "dreams";
   data: any
