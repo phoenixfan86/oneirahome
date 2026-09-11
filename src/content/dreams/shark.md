@@ -39,7 +39,7 @@ If you're standing on a boat or behind glass, watching a shark glide by without 
 This one's rare but powerful. If you're in the water with a shark and it's not attacking-you're just... coexisting-that's a sign of serious personal growth. It means you've made peace with your own intense emotions, your competitive streak, or the darker parts of your personality. You're not afraid of your own power anymore. You're learning to move through demanding situations with composure.
 
 ### A Shark in Clear vs. Murky Water
-The water tells you a lot. Clear water means you understand exactly what you're dealing with. You see the threat, you know its shape, and you're not confused about it. Murky, dark water? That's a whole different story. It means confusion, hidden motives, or a threat you can't quite identify. You know something's out there, but you can't see it coming-and that's what's freaking you out.
+The water tells you a lot. Clear [water](/dream/water/) means you understand exactly what you're dealing with. You see the threat, you know its shape, and you're not confused about it. Murky, dark water? That's a whole different story. It means confusion, hidden motives, or a threat you can't quite identify. You know something's out there, but you can't see it coming-and that's what's freaking you out.
 
 ## What Psychologists Say About It
 
