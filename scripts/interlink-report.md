@@ -1,14 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-11T08:44:48.135Z
+Generated: 2026-09-11T15:04:49.072Z
 
-38 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
-
----
-
-## bees  (`bees.md`)
-
-- Line 6: link **"mirror"** -> `/dream/mirror/`
-  > But here's the flip side: bees also sting, and they never stop humming. That constant buzz? It can mirror the inside of your head when you're stressed, anxious, or just plain overwhelmed. So the mood of the dream matters a lot. If things feel harmonious and sweet, you're probably in a good groove. If it feels chaotic and stinging, something's off-and your brain is trying to get your attention.
+40 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -60,6 +53,19 @@ Generated: 2026-09-11T08:44:48.135Z
 
 - Line 16: link **"falling"** -> `/dream/falling/`
   > - **Running late for class:** Racing down the hall while the bell rings in the distance. This is all about the fear of missing out or falling behind. Maybe you're worried you're not keeping up with peers, or that time is slipping away and you're not hitting your milestones fast enough.
+
+---
+
+## shark  (`shark.md`)
+
+- Line 6: link **"ocean"** -> `/dream/ocean/`
+  > In the dream world, the ocean is basically a giant symbol for your emotions, instincts, and all the stuff bubbling under the surface of your conscious mind. So when a shark shows up in those waters, it's usually carrying some serious weight. We're talking **threat**, **power**, **boundary invasion**, and raw survival energy. Sharks have been around forever-they never stop moving, they operate on pure instinct, and they're terrifyingly efficient. That makes them a perfect stand-in for anything in your life that feels relentless, overwhelming, or just plain scary.
+
+- Line 16: link **"drowning"** -> `/dream/drowning/`
+  > If you're standing on a boat or behind glass, watching a shark glide by without any real threat, that's actually a good sign. It means you've got healthy psychological distance from a stressful situation. You can see the conflict, the aggressive personality, or the volatile emotions around you-but you're not getting pulled under. You're observing, not drowning.
+
+- Line 19: link **"water"** -> `/dream/water/`
+  > This one's rare but powerful. If you're in the water with a shark and it's not attacking-you're just... coexisting-that's a sign of serious personal growth. It means you've made peace with your own intense emotions, your competitive streak, or the darker parts of your personality. You're not afraid of your own power anymore. You're learning to move through demanding situations with composure.
 
 ---
 
