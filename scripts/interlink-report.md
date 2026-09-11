@@ -1,17 +1,14 @@
 # Internal Linking Suggestions
-Generated: 2026-09-10T14:18:38.000Z
+Generated: 2026-09-11T08:44:48.135Z
 
-39 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
+38 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
 
 ---
 
-## desert  (`desert.md`)
+## bees  (`bees.md`)
 
-- Line 18: link **"water"** -> `/dream/water/`
-  > Okay, this one's a gift. If you stumble across a vibrant oasis-clear water, palm trees, the whole deal-that's a beautiful sign. It means relief is available. Support is out there. Even when things feel impossible, there's something hidden that can restore you. It might be a person, a resource, or a part of yourself you forgot you had. Either way, you're not as stuck as you think.
-
-- Line 24: link **"storm"** -> `/dream/storm/`
-  > Getting caught in a swirling wall of sand? That's chaos. That's obscured vision. It usually means external pressure or sudden anxiety is clouding your judgment. You can't see where you're going because everything's blowing up in your face. The dream is telling you to find shelter, hunker down, and wait for the storm to pass. Clarity will come back-just not yet.
+- Line 6: link **"mirror"** -> `/dream/mirror/`
+  > But here's the flip side: bees also sting, and they never stop humming. That constant buzz? It can mirror the inside of your head when you're stressed, anxious, or just plain overwhelmed. So the mood of the dream matters a lot. If things feel harmonious and sweet, you're probably in a good groove. If it feels chaotic and stinging, something's off-and your brain is trying to get your attention.
 
 ---
 
