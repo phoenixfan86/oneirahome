@@ -3,7 +3,7 @@ title: "Dream About Door: Meaning & Interpretation"
 symbol: "door"
 description: "Explore the psychological and symbolic significance of doors in your dreams, representing transitions, opportunities, and personal boundaries."
 category: "objects"
-tags: []
+tags: ["transitions", "opportunities", "boundaries", "choices"]
 faq:
   - question: "What does it mean to see a door opening by itself?"
     answer: "An opening entryway suggests that new paths or insights are becoming available to you naturally, without requiring forced effort on your part."

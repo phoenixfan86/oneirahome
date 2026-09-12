@@ -103,7 +103,7 @@ Respond with ONLY a JSON array, no markdown code fences, no commentary, in exact
 [
   {
     "symbol": "<the symbol exactly as given above>",
-    "title": "Dream About <Symbol, capitalized>: Meaning & Interpretation",
+    "title": "<Symbol, capitalized>: Dream Meaning: What Does It Mean?",
     "description": "<one-sentence meta description, under 160 characters>",
     "body": "<the full markdown article for this symbol>",
     "faq": [

@@ -3,7 +3,7 @@ title: "Dream About Dancing: Meaning & Interpretation"
 symbol: "dancing"
 description: "Explore what it means when you dance in your sleep, from personal freedom and balance to subconscious desires for connection."
 category: "events"
-tags: []
+tags: ["freedom", "balance", "connection", "expression"]
 faq:
   - question: "What does dancing with a stranger symbolize in a dream?"
     answer: "Partnering with an unfamiliar figure often highlights unexplored traits within yourself or an implicit desire for new personal or romantic connections."

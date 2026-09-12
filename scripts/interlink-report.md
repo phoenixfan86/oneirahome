@@ -1,7 +1,36 @@
 # Internal Linking Suggestions
-Generated: 2026-09-11T15:04:49.072Z
+Generated: 2026-09-12T11:15:57.909Z
 
-40 suggestion(s) across 22 article(s). Nothing has been changed — apply these manually.
+46 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+
+---
+
+## being late  (`being-late.md`)
+
+- Line 4: link **"clock"** -> `/dream/clock/`
+  > You know that gut-wrenching feeling: racing against the clock, heart pounding, knowing you're already behind. Lateness dreams are *incredibly* common, and they're almost never about actually missing a bus or being bad with time. In the dream world, being late usually points to that overwhelming sense that life is moving faster than you can keep up - like you're constantly playing catch-up and dropping balls left and right.
+
+---
+
+## clock  (`clock.md`)
+
+- Line 4: link **"zombie"** -> `/dream/zombie/`
+  > Clock dreams are sneaky. They don't usually scare you the way a shark or a zombie does, but they leave you with this weird, nagging feeling-like you're late for something, or like life is slipping through your fingers and you can't quite grab hold of it.
+
+- Line 4: link **"shark"** -> `/dream/shark/`
+  > Clock dreams are sneaky. They don't usually scare you the way a shark or a zombie does, but they leave you with this weird, nagging feeling-like you're late for something, or like life is slipping through your fingers and you can't quite grab hold of it.
+
+- Line 6: link **"mirror"** -> `/dream/mirror/`
+  > That's because clocks in dreams are all about **time**. Obviously, right? But more specifically, they're about your relationship with time-how you manage it, how it stresses you out, and how you feel about the years ticking by. A clock showing up in your sleep is basically your brain holding up a mirror and saying, "Hey, how are you actually doing with all this?"
+
+- Line 8: link **"falling"** -> `/dream/falling/`
+  > Because here's the truth: time is finite. It doesn't stop, it doesn't slow down, and it definitely doesn't wait for you to get your act together. So when a clock takes center stage in your dream, it usually means you're feeling some kind of pressure about it-whether you're moving too fast, falling behind, or worried you're missing out on something big. But it's not all doom and gloom. Clocks can also represent order, stability, and the natural rhythm of life. They remind you to check in: are you balancing work, rest, and everything else the way you actually want to?
+
+- Line 19: link **"being late"** -> `/dream/being-late/`
+  > Checking the time over and over in a dream? That's self-imposed pressure, plain and simple. You're probably someone who worries about being late, hates letting people down, or just feels crushed by your own commitments. The dream is showing you how tightly wound you are about staying on schedule.
+
+- Line 30: link **"drowning"** -> `/dream/drowning/`
+  > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
 
 ---
 
@@ -9,6 +38,13 @@ Generated: 2026-09-11T15:04:49.072Z
 
 - Line 29: link **"ocean"** -> `/dream/ocean/`
   > From a psychological angle, water is basically a map of your inner world. The ocean or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
+
+---
+
+## giving birth  (`giving-birth.md`)
+
+- Line 4: link **"clock"** -> `/dream/clock/`
+  > There's something undeniably intense about dreaming you're giving birth. You wake up feeling a little dazed, maybe a little sweaty, and definitely wondering what the hell that was about. But before you start Googling [pregnancy](/dream/pregnancy/) symptoms or wondering if your biological clock is screaming at you, take a breath.
 
 ---
 
@@ -56,19 +92,6 @@ Generated: 2026-09-11T15:04:49.072Z
 
 ---
 
-## shark  (`shark.md`)
-
-- Line 6: link **"ocean"** -> `/dream/ocean/`
-  > In the dream world, the ocean is basically a giant symbol for your emotions, instincts, and all the stuff bubbling under the surface of your conscious mind. So when a shark shows up in those waters, it's usually carrying some serious weight. We're talking **threat**, **power**, **boundary invasion**, and raw survival energy. Sharks have been around forever-they never stop moving, they operate on pure instinct, and they're terrifyingly efficient. That makes them a perfect stand-in for anything in your life that feels relentless, overwhelming, or just plain scary.
-
-- Line 16: link **"drowning"** -> `/dream/drowning/`
-  > If you're standing on a boat or behind glass, watching a shark glide by without any real threat, that's actually a good sign. It means you've got healthy psychological distance from a stressful situation. You can see the conflict, the aggressive personality, or the volatile emotions around you-but you're not getting pulled under. You're observing, not drowning.
-
-- Line 19: link **"water"** -> `/dream/water/`
-  > This one's rare but powerful. If you're in the water with a shark and it's not attacking-you're just... coexisting-that's a sign of serious personal growth. It means you've made peace with your own intense emotions, your competitive streak, or the darker parts of your personality. You're not afraid of your own power anymore. You're learning to move through demanding situations with composure.
-
----
-
 ## shoes  (`shoes.md`)
 
 - Line 16: link **"falling"** -> `/dream/falling/`
@@ -104,6 +127,9 @@ Generated: 2026-09-11T15:04:49.072Z
 ---
 
 ## taking an exam  (`taking-an-exam.md`)
+
+- Line 4: link **"clock"** -> `/dream/clock/`
+  > You're sitting at a desk. The clock is ticking. You flip open the test paper - and your mind goes completely blank. You didn't study. You can't read the questions. Or worse, you can't even find the right room.
 
 - Line 6: link **"school"** -> `/dream/school/`
   > Sound familiar? It's one of the most common dreams out there, and it doesn't matter if you graduated twenty years ago - your brain still drags you back to the exam hall. But here's the thing: that dream is almost never about school. It's about **being tested, judged, or evaluated** in your waking life.

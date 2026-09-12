@@ -3,7 +3,7 @@ title: "Dream About Haunted House: Meaning & Interpretation"
 symbol: "haunted house"
 description: "Explore what a haunted house setting signifies in your subconscious mind, from unresolved memories to buried emotional baggage."
 category: "places"
-tags: []
+tags: ["unresolved-memories", "fear", "emotional-baggage", "past"]
 faq:
   - question: "What does it mean to dream about being trapped in a haunted house?"
     answer: "Feeling trapped inside a spirit-filled home suggests you feel restricted by past regrets or unresolved guilt in daily life. It indicates that avoiding an uncomfortable issue is creating internal tension."

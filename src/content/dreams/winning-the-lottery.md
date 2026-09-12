@@ -3,7 +3,7 @@ title: "Dream About Winning the Lottery: Meaning & Interpretation"
 symbol: "winning the lottery"
 description: "Uncover the symbolic depth of winning the lottery in dreams, representing unexpected personal growth, validation, or emotional abundance."
 category: "events"
-tags: []
+tags: ["abundance", "personal-growth", "validation", "fortune"]
 faq:
   - question: "Does winning money in a dream mean I will gain money in real life?"
     answer: "Dream windfalls are almost purely symbolic and usually refer to internal growth, emotional relief, or sudden personal insight rather than prospective physical wealth."

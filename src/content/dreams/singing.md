@@ -3,7 +3,7 @@ title: "Dream About Singing: Meaning & Interpretation"
 symbol: "singing"
 description: "Discover the hidden emotional and psychological meanings behind dreams of singing, from self-expression to inner harmony."
 category: "events"
-tags: []
+tags: ["self-expression", "harmony", "creativity", "emotion"]
 faq:
   - question: "What does it mean if I sing poorly in a dream?"
     answer: "Poor singing or missing notes may indicate feelings of self-doubt, vulnerability, or anxiety about how others perceive your self-expression."
