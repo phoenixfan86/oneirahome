@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-12T11:15:57.909Z
+Generated: 2026-09-13T12:33:58.305Z
 
-46 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+43 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -14,23 +14,18 @@ Generated: 2026-09-12T11:15:57.909Z
 
 ## clock  (`clock.md`)
 
-- Line 4: link **"zombie"** -> `/dream/zombie/`
-  > Clock dreams are sneaky. They don't usually scare you the way a shark or a zombie does, but they leave you with this weird, nagging feeling-like you're late for something, or like life is slipping through your fingers and you can't quite grab hold of it.
-
-- Line 4: link **"shark"** -> `/dream/shark/`
-  > Clock dreams are sneaky. They don't usually scare you the way a shark or a zombie does, but they leave you with this weird, nagging feeling-like you're late for something, or like life is slipping through your fingers and you can't quite grab hold of it.
-
-- Line 6: link **"mirror"** -> `/dream/mirror/`
-  > That's because clocks in dreams are all about **time**. Obviously, right? But more specifically, they're about your relationship with time-how you manage it, how it stresses you out, and how you feel about the years ticking by. A clock showing up in your sleep is basically your brain holding up a mirror and saying, "Hey, how are you actually doing with all this?"
-
 - Line 8: link **"falling"** -> `/dream/falling/`
   > Because here's the truth: time is finite. It doesn't stop, it doesn't slow down, and it definitely doesn't wait for you to get your act together. So when a clock takes center stage in your dream, it usually means you're feeling some kind of pressure about it-whether you're moving too fast, falling behind, or worried you're missing out on something big. But it's not all doom and gloom. Clocks can also represent order, stability, and the natural rhythm of life. They remind you to check in: are you balancing work, rest, and everything else the way you actually want to?
 
-- Line 19: link **"being late"** -> `/dream/being-late/`
-  > Checking the time over and over in a dream? That's self-imposed pressure, plain and simple. You're probably someone who worries about being late, hates letting people down, or just feels crushed by your own commitments. The dream is showing you how tightly wound you are about staying on schedule.
-
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
+
+---
+
+## dancing  (`dancing.md`)
+
+- Line 19: link **"falling"** -> `/dream/falling/`
+  > Okay, this one's rough. If you can't keep up with the music, or you keep falling, it usually means you're feeling overwhelmed or disorganized in waking life. Maybe life is throwing too much at you at once. Maybe you feel like everyone else has it figured out and you're just trying not to face-plant. It's a sign you need to slow down and find your footing again.
 
 ---
 
