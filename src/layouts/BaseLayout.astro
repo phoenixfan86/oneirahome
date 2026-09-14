@@ -23,6 +23,13 @@ const websiteSchema = {
   name: 'Oneira Home',
   url: Astro.site?.href ?? Astro.url.origin,
   description: 'A dictionary of dream meanings and interpretations.',
+  sameAs: [
+    'https://x.com/Oneirahome',
+    'https://www.tumblr.com/oneirahome',
+    'https://www.quora.com/profile/OneiraHome',
+    'https://agocurrus506797.substack.com',
+    'https://www.pinterest.com/oneirahome',
+  ],
 };
 
 const totalDreams = await getDreamCount();
