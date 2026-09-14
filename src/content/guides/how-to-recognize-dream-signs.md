@@ -1,9 +1,10 @@
 ---
 title: "How to Recognize Dream Signs: Developing Mindfulness Within Your Dreams"
 description: "Learn how to spot dream signs, cultivate metacognition, and use recurring anomalies to build awareness during sleep."
+img: "/img/how-to-recognize-dream-signs.webp"
 tags: []
-pubDate: 2026-08-30
-draft: true
+pubDate: 2026-09-14
+draft: false
 source: "gemini-3.6-flash"
 edited: false
 qcIssues: []
