@@ -1,5 +1,5 @@
 # Internal Linking Suggestions
-Generated: 2026-09-13T12:33:58.305Z
+Generated: 2026-09-14T08:34:12.255Z
 
 43 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
 
@@ -19,13 +19,6 @@ Generated: 2026-09-13T12:33:58.305Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
-
----
-
-## dancing  (`dancing.md`)
-
-- Line 19: link **"falling"** -> `/dream/falling/`
-  > Okay, this one's rough. If you can't keep up with the music, or you keep falling, it usually means you're feeling overwhelmed or disorganized in waking life. Maybe life is throwing too much at you at once. Maybe you feel like everyone else has it figured out and you're just trying not to face-plant. It's a sign you need to slow down and find your footing again.
 
 ---
 
@@ -224,6 +217,13 @@ Generated: 2026-09-13T12:33:58.305Z
 
 - Line 36: link **"mirror"** -> `/dream/mirror/`
   > - If you were marrying someone, what traits did they have that you might want to cultivate in yourself? That stranger might be holding up a mirror.
+
+---
+
+## winning the lottery  (`winning-the-lottery.md`)
+
+- Line 4: link **"money"** -> `/dream/money/`
+  > Okay, let's be real-waking up from a dream where you just won a ton of money is a special kind of disappointment. For a split second, you actually believe it. Then reality hits, and you're still broke. Fun stuff.
 
 ---
 
