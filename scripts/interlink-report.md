@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-14T08:34:12.255Z
+Generated: 2026-09-15T13:45:42.348Z
 
-43 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
+42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -217,13 +217,6 @@ Generated: 2026-09-14T08:34:12.255Z
 
 - Line 36: link **"mirror"** -> `/dream/mirror/`
   > - If you were marrying someone, what traits did they have that you might want to cultivate in yourself? That stranger might be holding up a mirror.
-
----
-
-## winning the lottery  (`winning-the-lottery.md`)
-
-- Line 4: link **"money"** -> `/dream/money/`
-  > Okay, let's be real-waking up from a dream where you just won a ton of money is a special kind of disappointment. For a split second, you actually believe it. Then reality hits, and you're still broke. Fun stuff.
 
 ---
 
