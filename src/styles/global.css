@@ -138,6 +138,7 @@ strong {
 	font-weight: 700;
 	letter-spacing: 1.1px;
 	text-transform: uppercase;
+	padding-left: 0;
 	margin: 0 auto;
 	& a {
 		color: var(--color-text-muted);
@@ -674,7 +675,13 @@ article h2 {
 	main {
 		flex-direction: column;
 	}
-
+	.site-tagline {
+		font-size: 0.55rem;
+	}
+	.main-nav {
+		gap: 5px;
+		font-size: 10px;
+	}
 	.sidebar {
 		position: static;
 		max-width: none;
@@ -700,10 +707,7 @@ article h2 {
 	.home {
 		transform: translateX(5px);
 	}
-	.main-nav {
-		gap: 5px;
-		font-size: 10px;
-	}
+
 	.cat-grid {
 		grid-template-columns: repeat(2, 1fr);
 	}
