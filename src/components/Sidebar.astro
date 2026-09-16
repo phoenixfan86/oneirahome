@@ -52,12 +52,4 @@ const categories = Object.entries(categoryCounts).sort(
   </div>
 </aside>
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-<script src="/pagefind/pagefind-ui.js" is:inline></script>
-<script is:inline>
-  window.addEventListener('DOMContentLoaded', () => {
-    if (typeof PagefindUI !== 'undefined') {
-      new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
-    }
-  });
-</script>
+

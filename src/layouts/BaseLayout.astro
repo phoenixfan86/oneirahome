@@ -2,6 +2,7 @@
 import Analytics from '@vercel/analytics/astro'
 import Sidebar from '../components/Sidebar.astro';
 import Tagbadge from '../components/TagBadge.astro';
+import StarField from '../components/StarField.astro';
 import '../styles/global.css';
 import { getDreamCount } from '../lib/dreamCount';
 
@@ -46,6 +47,13 @@ const totalDreams = await getDreamCount();
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="alternate" type="application/rss+xml" title="Oneirahome - Dreams Dictionary" href="/rss.xml" />
     <link rel="me" href="https://mastodon.social/@oneirahome">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+    <!-- <link href="/pagefind/pagefind-ui.css" rel="stylesheet" /> -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="article" />
@@ -79,6 +87,7 @@ const totalDreams = await getDreamCount();
     <Analytics />
   </head>
   <>
+  <StarField />
     <header class="site-header">
       
       <div class="container">
@@ -103,7 +112,38 @@ const totalDreams = await getDreamCount();
           <div id="search"></div>
         </div>
       </div>
+      <script is:inline>
+  function loadPagefind() {
+    const cssLink = document.createElement('link');
+    cssLink.rel = 'stylesheet';
+    cssLink.href = '/pagefind/pagefind-ui.css';
+    document.head.appendChild(cssLink);
+
+    const script = document.createElement('script');
+    script.src = '/pagefind/pagefind-ui.js';
+    script.onload = () => {
+      if (typeof PagefindUI !== 'undefined') {
+        new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+      }
+    };
+    document.body.appendChild(script);
+  }
+
+  if (document.readyState === 'complete') {
+    loadPagefind();
+  } else {
+    window.addEventListener('load', loadPagefind);
+  }
+</script>
        
+<!-- <script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (typeof PagefindUI !== 'undefined') {
+      new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+    }
+  });
+</script> -->
     </header>
      <Tagbadge/>  
       <main data-pagefind-body>

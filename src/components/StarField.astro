@@ -1,0 +1,98 @@
+---
+// StarField.astro — decorative twinkling starfield behind the content.
+// Desktop-only and motion-safe by design: removed entirely on narrow
+// viewports and for prefers-reduced-motion, and its animation loop only
+// starts after window "load" so it never competes with LCP/TBT during
+// the page's critical render path.
+---
+<canvas id="starfield" aria-hidden="true"></canvas> 
+
+<script>
+  const STAR_COLOR = '#9ab9e3';
+  const HOVER_COLOR = '#ffe182';
+  const STAR_COUNT = 220;
+  const HOVER_RADIUS = 120;
+  const DESKTOP_BREAKPOINT = '(min-width: 861px)';
+
+  const canvas = document.getElementById('starfield') as HTMLCanvasElement | null;
+  const isDesktop = window.matchMedia(DESKTOP_BREAKPOINT).matches;
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (!canvas || !isDesktop || prefersReducedMotion) {
+    canvas?.remove(); // nothing left to do — zero further cost
+  } else {
+    const ctx = canvas.getContext('2d');
+    if (!ctx) {
+      canvas.remove();
+    } else {
+      let width = (canvas.width = window.innerWidth);
+      let height = (canvas.height = window.innerHeight);
+
+      interface Star {
+        x: number;
+        y: number;
+        radius: number;
+        baseAlpha: number;
+        twinkleSpeed: number;
+        phase: number;
+      }
+
+      const stars: Star[] = Array.from({ length: STAR_COUNT }, () => ({
+        x: Math.random() * width,
+        y: Math.random() * height,
+        radius: Math.random() * 1.2 + 0.3,
+        baseAlpha: Math.random() * 0.5 + 0.3,
+        twinkleSpeed: Math.random() * 0.02 + 0.005,
+        phase: Math.random() * Math.PI * 2,
+      }));
+
+      let mouseX = -9999;
+      let mouseY = -9999;
+
+      window.addEventListener(
+        'mousemove',
+        (e) => {
+          mouseX = e.clientX;
+          mouseY = e.clientY;
+        },
+        { passive: true }
+      );
+
+      window.addEventListener('resize', () => {
+        width = canvas.width = window.innerWidth;
+        height = canvas.height = window.innerHeight;
+      });
+
+      function draw() {
+        if (!ctx) return;
+        ctx.clearRect(0, 0, width, height);
+
+        for (const star of stars) {
+          star.phase += star.twinkleSpeed;
+          const twinkle = (Math.sin(star.phase) + 1) / 2;
+          const alpha = star.baseAlpha * (0.4 + twinkle * 0.6);
+
+          const dx = star.x - mouseX;
+          const dy = star.y - mouseY;
+          const isNearCursor = dx * dx + dy * dy < HOVER_RADIUS * HOVER_RADIUS;
+
+          ctx.beginPath();
+          ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
+          ctx.fillStyle = isNearCursor ? HOVER_COLOR : STAR_COLOR;
+          ctx.globalAlpha = isNearCursor ? Math.min(1, alpha + 0.4) : alpha;
+          ctx.fill();
+        }
+        ctx.globalAlpha = 1;
+
+        requestAnimationFrame(draw);
+      }
+
+      // Deferred start — never competes with the page's critical render path.
+      if (document.readyState === 'complete') {
+        draw();
+      } else {
+        window.addEventListener('load', () => draw());
+      }
+    }
+  }
+</script>
