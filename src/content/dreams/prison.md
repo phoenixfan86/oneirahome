@@ -33,7 +33,7 @@ A prison in a dream is your subconscious screaming (or quietly whispering) that 
 
 - **Visiting someone behind bars:** If you're the one visiting, not locked up, pay attention to who's inside. That person often represents a part of *you* that you've suppressed or disowned - maybe a talent you've ignored, an emotion you've buried, or a side of yourself you're afraid to show. If it's someone you know in waking life, it might reflect that your relationship with them feels constrained or emotionally distant.
 
-- **Working as a guard:** This one's interesting. If you're the one holding the keys, it usually means you're being your own warden. You might be over-controlling, overly disciplined, or running a ruthless inner critic. It can suggest you're being too rigid with yourself or holding others to standards that are just too high.
+- **Working as a guard:** This one's interesting. If you're the one holding the [keys](/dream/keys/), it usually means you're being your own warden. You might be over-controlling, overly disciplined, or running a ruthless inner critic. It can suggest you're being too rigid with yourself or holding others to standards that are just too high.
 
 ## What Psychologists Say About Prison Dreams
 

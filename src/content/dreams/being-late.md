@@ -21,7 +21,7 @@ qcIssues: []
 
 ## So You Dreamt You Were Late - Again
 
-You know that gut-wrenching feeling: racing against the clock, heart pounding, knowing you're already behind. Lateness dreams are *incredibly* common, and they're almost never about actually missing a bus or being bad with time. In the dream world, being late usually points to that overwhelming sense that life is moving faster than you can keep up - like you're constantly playing catch-up and dropping balls left and right.
+You know that gut-wrenching feeling: racing against the [clock](/dream/clock/), heart pounding, knowing you're already behind. Lateness dreams are *incredibly* common, and they're almost never about actually missing a bus or being bad with time. In the dream world, being late usually points to that overwhelming sense that life is moving faster than you can keep up - like you're constantly playing catch-up and dropping balls left and right.
 
 Here's the real deal: it's not about the clock. It's about **accountability**, **expectations**, and the crushing fear of letting people down. These dreams often signal that you're out of sync - with your job, your social life, or even your own personal goals. They usually crop up when you're trying to juggle way too many things at once and, honestly, you're starting to crack under the weight.
 
@@ -31,7 +31,7 @@ The *context* of your lateness changes the meaning entirely. Here are four class
 
 - **Late for an exam or work**: This is the granddaddy of stress dreams. Scrambling to get to a test or your desk after the start time usually points to **fear of judgment** or feeling **inadequate**. You're worried that people are watching, evaluating, and that you're just not cutting it.
 
-- **Delayed by uncontrollable obstacles**: Every time you try to leave, something blocks you - lost keys, traffic jams, a dead phone, a sudden phone call. This scenario screams **frustration and overcommitment**. It mirrors waking life where other people's needs constantly hijack your time and priorities.
+- **Delayed by uncontrollable obstacles**: Every time you try to leave, something blocks you - lost [keys](/dream/keys/), traffic jams, a dead phone, a sudden phone call. This scenario screams **frustration and overcommitment**. It mirrors waking life where other people's needs constantly hijack your time and priorities.
 
 - **Clocks moving at unnatural speeds**: You glance at the clock and the hands are spinning wildly or jumping ahead. Creepy, right? This one often hits when you're burned out or under intense lifestyle stress. It reflects that sinking feeling that life is rushing past you way too fast to enjoy or even process.
 

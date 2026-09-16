@@ -1,5 +1,5 @@
 # Internal Linking Suggestions
-Generated: 2026-09-15T13:45:42.348Z
+Generated: 2026-09-16T10:12:02.566Z
 
 42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
@@ -9,6 +9,9 @@ Generated: 2026-09-15T13:45:42.348Z
 
 - Line 4: link **"clock"** -> `/dream/clock/`
   > You know that gut-wrenching feeling: racing against the clock, heart pounding, knowing you're already behind. Lateness dreams are *incredibly* common, and they're almost never about actually missing a bus or being bad with time. In the dream world, being late usually points to that overwhelming sense that life is moving faster than you can keep up - like you're constantly playing catch-up and dropping balls left and right.
+
+- Line 14: link **"keys"** -> `/dream/keys/`
+  > - **Delayed by uncontrollable obstacles**: Every time you try to leave, something blocks you - lost keys, traffic jams, a dead phone, a sudden phone call. This scenario screams **frustration and overcommitment**. It mirrors waking life where other people's needs constantly hijack your time and priorities.
 
 ---
 
@@ -47,6 +50,13 @@ Generated: 2026-09-15T13:45:42.348Z
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
+
+---
+
+## prison  (`prison.md`)
+
+- Line 16: link **"keys"** -> `/dream/keys/`
+  > - **Working as a guard:** This one's interesting. If you're the one holding the keys, it usually means you're being your own warden. You might be over-controlling, overly disciplined, or running a ruthless inner critic. It can suggest you're being too rigid with yourself or holding others to standards that are just too high.
 
 ---
 
@@ -174,16 +184,6 @@ Generated: 2026-09-15T13:45:42.348Z
 
 - Line 30: link **"baby"** -> `/dream/baby/`
   > - **A baby turtle**: Tiny turtles heading to the ocean? That's a hopeful sign. It means something new is just starting - and it's full of promise.
-
----
-
-## twins  (`twins.md`)
-
-- Line 6: link **"mirror"** -> `/dream/mirror/`
-  > Here's the deal: dreams about paired figures - twins, duplicates, mirror images - aren't psychic predictions about your future family. They're almost always about something happening *inside* you. Think duality. Balance. Opposing forces pulling at your sleeves. Two ideas, two paths, two emotional drives all demanding your attention at the same damn time, and your subconscious is using twin imagery to say, "Hey, you need to pay attention to both of these."
-
-- Line 10: link **"Giving birth"** -> `/dream/giving-birth/`
-  > - **Giving birth to twins**: This one usually pops up when you're taking on new responsibilities or juggling multiple creative projects that are just starting to take shape. It's a sign of rapid personal growth - like you're leveling up in two directions at once. Double the effort, double the potential, but also double the exhaustion. Don't ignore that part.
 
 ---
 
