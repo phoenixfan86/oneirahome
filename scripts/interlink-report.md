@@ -1,17 +1,21 @@
 # Internal Linking Suggestions
-Generated: 2026-09-16T10:12:02.566Z
+Generated: 2026-09-17T10:21:16.073Z
 
-42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
-## being late  (`being-late.md`)
+## bear  (`bear.md`)
 
-- Line 4: link **"clock"** -> `/dream/clock/`
-  > You know that gut-wrenching feeling: racing against the clock, heart pounding, knowing you're already behind. Lateness dreams are *incredibly* common, and they're almost never about actually missing a bus or being bad with time. In the dream world, being late usually points to that overwhelming sense that life is moving faster than you can keep up - like you're constantly playing catch-up and dropping balls left and right.
+- Line 19: link **"mirror"** -> `/dream/mirror/`
+  > Yeah, this one's scary. If an aggressive bear is chasing you, it usually means you're feeling crushed by a dominant presence or an unresolved problem in your waking life. It can represent bottled-up anger, stress you haven't dealt with, or responsibilities that feel way too heavy. The bear isn't just a threat-it's a mirror for something that feels too big to handle right now.
 
-- Line 14: link **"keys"** -> `/dream/keys/`
-  > - **Delayed by uncontrollable obstacles**: Every time you try to leave, something blocks you - lost keys, traffic jams, a dead phone, a sudden phone call. This scenario screams **frustration and overcommitment**. It mirrors waking life where other people's needs constantly hijack your time and priorities.
+---
+
+## being chased  (`being-chased.md`)
+
+- Line 20: link **"bear"** -> `/dream/bear/`
+  > - **An Animal Attacker** - Getting chased by a wild beast - [wolf](/dream/wolf/), bear, [snake](/dream/snake/), whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
 
 ---
 
@@ -50,13 +54,6 @@ Generated: 2026-09-16T10:12:02.566Z
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
-
----
-
-## prison  (`prison.md`)
-
-- Line 16: link **"keys"** -> `/dream/keys/`
-  > - **Working as a guard:** This one's interesting. If you're the one holding the keys, it usually means you're being your own warden. You might be over-controlling, overly disciplined, or running a ruthless inner critic. It can suggest you're being too rigid with yourself or holding others to standards that are just too high.
 
 ---
 
