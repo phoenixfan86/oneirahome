@@ -1,14 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-17T10:21:16.073Z
+Generated: 2026-09-18T11:05:29.546Z
 
-41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
-
----
-
-## bear  (`bear.md`)
-
-- Line 19: link **"mirror"** -> `/dream/mirror/`
-  > Yeah, this one's scary. If an aggressive bear is chasing you, it usually means you're feeling crushed by a dominant presence or an unresolved problem in your waking life. It can represent bottled-up anger, stress you haven't dealt with, or responsibilities that feel way too heavy. The bear isn't just a threat-it's a mirror for something that feels too big to handle right now.
+42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -40,6 +33,16 @@ Generated: 2026-09-17T10:21:16.073Z
 
 - Line 4: link **"clock"** -> `/dream/clock/`
   > There's something undeniably intense about dreaming you're giving birth. You wake up feeling a little dazed, maybe a little sweaty, and definitely wondering what the hell that was about. But before you start Googling [pregnancy](/dream/pregnancy/) symptoms or wondering if your biological clock is screaming at you, take a breath.
+
+---
+
+## haunted house  (`haunted-house.md`)
+
+- Line 4: link **"house"** -> `/dream/house/`
+  > Haunted house dreams are creepy. No way around it. You wake up feeling off-like something's lingering in the corner of your mind that you can't quite shake. And honestly? That feeling is there for a reason.
+
+- Line 13: link **"prison"** -> `/dream/prison/`
+  > If you can't get out of a creepy house, that's a sign you're feeling boxed in by past choices or guilt you haven't let go of. The more you avoid dealing with it, the more trapped you feel. The house isn't the prison-the avoidance is.
 
 ---
 
