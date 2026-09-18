@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-18T11:05:29.546Z
+Generated: 2026-09-18T15:53:25.446Z
 
-42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -36,20 +36,17 @@ Generated: 2026-09-18T11:05:29.546Z
 
 ---
 
-## haunted house  (`haunted-house.md`)
-
-- Line 4: link **"house"** -> `/dream/house/`
-  > Haunted house dreams are creepy. No way around it. You wake up feeling off-like something's lingering in the corner of your mind that you can't quite shake. And honestly? That feeling is there for a reason.
-
-- Line 13: link **"prison"** -> `/dream/prison/`
-  > If you can't get out of a creepy house, that's a sign you're feeling boxed in by past choices or guilt you haven't let go of. The more you avoid dealing with it, the more trapped you feel. The house isn't the prison-the avoidance is.
-
----
-
 ## house  (`house.md`)
 
 - Line 6: link **"maze"** -> `/dream/maze/`
   > A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
+
+---
+
+## island  (`island.md`)
+
+- Line 6: link **"water"** -> `/dream/water/`
+  > Think about it: an island is just land completely surrounded by water. In dream terms, the land is the conscious you-your identity, your sense of self. The water around it? That's your emotions and everything bubbling underneath the surface. So standing on an island usually says something about how your conscious self relates to everything going on inside you.
 
 ---
 
