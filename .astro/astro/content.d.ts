@@ -900,6 +900,11 @@ declare module 'astro:content' {
   collection: "roundups";
   data: any
 };
+"events-top-3": {
+	id: "events-top-3";
+  collection: "roundups";
+  data: any
+};
 "nature-top-1": {
 	id: "nature-top-1";
   collection: "roundups";
@@ -932,6 +937,11 @@ declare module 'astro:content' {
 };
 "places-top-1": {
 	id: "places-top-1";
+  collection: "roundups";
+  data: any
+};
+"places-top-2": {
+	id: "places-top-2";
   collection: "roundups";
   data: any
 };
