@@ -59,6 +59,10 @@ const faqSchema = entry.data.faq.length > 0 ? {
     },
   })),
 } : null;
+
+const categoryName = entry.data.category
+  ? entry.data.category.charAt(0).toUpperCase() + entry.data.category.slice(1)
+  : 'Category';
  
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
@@ -68,10 +72,13 @@ const breadcrumbSchema = {
     {
       '@type': 'ListItem',
       position: 2,
-      name: entry.data.category,
+      name: categoryName,
       item: new URL(`/categories/${entry.data.category}/`, Astro.site).href,
     },
-    { '@type': 'ListItem', position: 3, name: entry.data.title, item: canonicalUrl },
+    { '@type': 'ListItem', 
+    position: 3, 
+    name: entry.data.title || 'Dream Meaning', 
+    item: canonicalUrl },
   ],
 };
 
@@ -84,6 +91,13 @@ image={entry.data.img}
 schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchema, breadcrumbSchema]}
 >
   <article class="dream-body">
+    <nav aria-label="Breadcrumb">
+      <ul class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li><a href={`/categories/${entry.data.category}/`}>{categoryName}</a></li>
+        <li aria-current="page">{entry.data.title}</li>
+      </ul>
+    </nav>
     <span class="read-time">{readingTime}</span>
     
     <h1 class="dream-title">{entry.data.title}</h1>

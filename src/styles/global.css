@@ -92,6 +92,25 @@ strong {
 	position: relative;
 }
 
+.breadcrumb {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	margin: 5px 0;
+	padding-left: 0;
+	gap: 10px;
+	font-size: 12px;
+	list-style: none;
+}
+.breadcrumb li {
+	margin-left: 10px;
+	padding-left: 3px;
+}
+.breadcrumb li::marker {
+	content: '🌒';
+}
+
 .read-time {
 	position: absolute;
 	top: 0;
