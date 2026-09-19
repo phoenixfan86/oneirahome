@@ -7,6 +7,7 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "generate": "node --env-file=.env scripts/generate-dreams.mjs",
+    "generate-guide": "node --env-file=.env scripts/generate-guides.mjs",
     "edit": "node --env-file=.env scripts/edit-dreams.mjs",
     "fill-tags": "node --env-file=.env scripts/fill-tags.mjs",
     "fill-faq": "node --env-file=.env scripts/fill-faq.mjs"
