@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-18T15:53:25.446Z
+Generated: 2026-09-21T13:28:53.268Z
 
-41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -40,13 +40,6 @@ Generated: 2026-09-18T15:53:25.446Z
 
 - Line 6: link **"maze"** -> `/dream/maze/`
   > A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
-
----
-
-## island  (`island.md`)
-
-- Line 6: link **"water"** -> `/dream/water/`
-  > Think about it: an island is just land completely surrounded by water. In dream terms, the land is the conscious you-your identity, your sense of self. The water around it? That's your emotions and everything bubbling underneath the surface. So standing on an island usually says something about how your conscious self relates to everything going on inside you.
 
 ---
 
