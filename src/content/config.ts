@@ -43,10 +43,15 @@ const dreams = defineCollection({
 const guides = defineCollection({
   type: 'content',
   schema: z.object({
-    title: z.string(),
+    title: z.string(), // used for the meta <title> tag
+    // Optional: lets the on-page H1 differ from the meta title (a common,
+    // legitimate SEO pattern — meta title optimized for SERP CTR, H1
+    // optimized for on-page clarity). Falls back to `title` if not set.
+    h1: z.string().optional(),
     description: z.string(),
     tags: z.array(z.string()).default([]),
     img: z.string().optional(),
+    faq: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
     pubDate: z.date(),
     updatedDate: z.date().optional(),
     draft: z.boolean().default(true),

@@ -3,6 +3,13 @@ title: "How to Recognize Dream Signs: Developing Mindfulness Within Your Dreams"
 description: "Learn how to spot dream signs, cultivate metacognition, and use recurring anomalies to build awareness during sleep."
 img: "/img/how-to-recognize-dream-signs.webp"
 tags: []
+faq:
+  - question: "What are dream signs?"
+    answer: "Dream signs are recurring elements, behaviors, or anomalies in a dream that reveal you are not awake. They fall into four main categories: inner action, form, context, and awareness."
+  - question: "How do I identify my personal dream signs?"
+    answer: "You can find your personal dream signs by keeping a detailed dream journal immediately upon waking, conducting weekly audits of your entries, and cataloging your most frequent recurring patterns."
+  - question: "What are common reality tests to check if you are dreaming?"
+    answer: "Common reality tests include reading text or a digital clock twice to see if it changes, gently pressing a finger against your opposite palm, and reviewing your memory of how you arrived at your current location."
 pubDate: 2026-09-14
 draft: false
 source: "gemini-3.6-flash"

@@ -3,6 +3,13 @@ title: "How to Lucid Dream: A Beginner's Guide"
 description: "Learn what lucid dreaming is, why it happens, and simple, evidence-informed techniques to help you become aware inside your own dreams."
 img: "/img/lucid-dreaming.webp"
 tags: ["lucid dreaming", "sleep science", "dream control", "beginners"]
+faq:
+  - question: "What is lucid dreaming?"
+    answer: "Lucid dreaming is the awareness that you are inside a dream while it is actively happening. Unlike vivid dreams, which are defined by detail and intensity, lucidity specifically centers on conscious self-awareness within the dream state."
+  - question: "What causes lucid dreaming in the brain?"
+    answer: "Lucid dreaming is linked to increased activity in the prefrontal cortex during REM sleep. This region of the brain controls self-awareness and decision-making, which triggers a moment of conscious awareness when activated during sleep."
+  - question: "What are the best techniques to induce a lucid dream?"
+    answer: "Popular methods include performing regular reality checks during the day, maintaining a dream journal, setting explicit intentions using MILD, and waking up after 5-6 hours of sleep before returning to bed with WBTB."
 pubDate: 2026-08-29
 draft: false
 source: "manual"

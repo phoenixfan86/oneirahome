@@ -10,7 +10,8 @@
     "generate-guide": "node --env-file=.env scripts/generate-guides.mjs",
     "edit": "node --env-file=.env scripts/edit-dreams.mjs",
     "fill-tags": "node --env-file=.env scripts/fill-tags.mjs",
-    "fill-faq": "node --env-file=.env scripts/fill-faq.mjs"
+    "fill-faq": "node --env-file=.env scripts/fill-faq.mjs",
+    "fill-faq-guides": "node --env-file=.env scripts/fill-faq-guides.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.9",
