@@ -43,10 +43,10 @@ function getPageNumbers(current: number, last: number): (number | 'ellipsis')[] 
 const pageNumbers = getPageNumbers(page.currentPage, page.lastPage);
 
 const pageTitle = isFirstPage
-  ? 'Dream Dictionary - What Do Your Dreams Mean?'
-  : `Dream Dictionary - Page ${page.currentPage}`;
+  ? 'Oneira Home - Dream Dictionary & Meanings'
+  : `Oneira Home - Dream Dictionary & Meanings: Page ${page.currentPage}`;
 
-const pageDescription = 'A growing dictionary of dream meanings and interpretations - from common symbols like snakes and teeth to complex dream scenarios.';
+const pageDescription = 'Explore Oneira Home, a growing dictionary of dream meanings and interpretations. Understand common symbols like snakes and teeth or complex dream scenarios.';
 
 const listSchema = buildListSchema({
   name: pageTitle,
