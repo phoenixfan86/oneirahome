@@ -1,5 +1,5 @@
 # Internal Linking Suggestions
-Generated: 2026-09-21T16:56:07.758Z
+Generated: 2026-09-22T08:24:14.252Z
 
 40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
 

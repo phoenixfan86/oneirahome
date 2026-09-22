@@ -885,6 +885,13 @@ declare module 'astro:content' {
   collection: "guides";
   data: any
 } & { render(): Render[".md"] };
+"why-people-are-dreaming-about-ai.md": {
+	id: "why-people-are-dreaming-about-ai.md";
+  slug: "why-people-are-dreaming-about-ai";
+  body: string;
+  collection: "guides";
+  data: any
+} & { render(): Render[".md"] };
 };
 
 	};
