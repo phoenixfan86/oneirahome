@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-22T08:24:14.252Z
+Generated: 2026-09-23T12:24:42.048Z
 
-40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
+43 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -19,6 +19,19 @@ Generated: 2026-09-22T08:24:14.252Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
+
+---
+
+## deceased parent  (`deceased-parent.md`)
+
+- Line 32: link **"wedding"** -> `/dream/wedding/`
+  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
+
+- Line 32: link **"death"** -> `/dream/death/`
+  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
+
+- Line 32: link **"baby"** -> `/dream/baby/`
+  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
 
 ---
 
