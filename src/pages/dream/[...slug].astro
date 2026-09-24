@@ -32,6 +32,17 @@ const modifiedDate = (entry.data.updatedDate ?? entry.data.pubDate).toISOString(
 
 const mentions = detectMentions(entry.body)
 
+const sameCategory = (
+  await getCollection(
+    'dreams',
+    ({ data }: CollectionEntry<'dreams'>) => !data.draft && data.category === entry.data.category
+  )
+).sort((a, b) => a.data.symbol.localeCompare(b.data.symbol));
+
+const currentIndex = sameCategory.findIndex((d) => d.slug === entry.slug);
+const prevDream = currentIndex > 0 ? sameCategory[currentIndex - 1] : null;
+const nextDream = currentIndex < sameCategory.length - 1 ? sameCategory[currentIndex + 1] : null;
+
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -139,6 +150,17 @@ schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchem
         ))}
       </section>
     )}
+    
     <RelatedDreams category={entry.data.category} excludeSlug={entry.slug} />
+    {(prevDream || nextDream) && (
+  <nav class="dream-pager" aria-label="Category navigation">
+    {prevDream ? (
+      <a href={`/dream/${prevDream.slug}/`}>← Prev {prevDream.data.symbol}</a>
+    ) : <span />}
+    {nextDream ? (
+      <a href={`/dream/${nextDream.slug}/`}>Next {nextDream.data.symbol} →</a>
+    ) : <span />}
+  </nav>
+)}
   </article>
 </BaseLayout>
