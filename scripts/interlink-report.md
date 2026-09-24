@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-23T12:24:42.048Z
+Generated: 2026-09-24T08:35:36.050Z
 
-43 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+44 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -19,19 +19,6 @@ Generated: 2026-09-23T12:24:42.048Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
-
----
-
-## deceased parent  (`deceased-parent.md`)
-
-- Line 32: link **"wedding"** -> `/dream/wedding/`
-  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
-
-- Line 32: link **"death"** -> `/dream/death/`
-  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
-
-- Line 32: link **"baby"** -> `/dream/baby/`
-  > It's common for these dreams to cluster around specific dates - a birthday, the anniversary of their death, or major life events like a wedding, a new baby, or a hard decision. Grief tends to resurface around exactly these moments, and that emotional intensity often carries directly into what you dream about that night.
 
 ---
 
@@ -107,6 +94,22 @@ Generated: 2026-09-23T12:24:42.048Z
 
 - Line 6: link **"ghost"** -> `/dream/ghost/`
   > This is sleep paralysis. And it's one of the most terrifying experiences a person can have. But here's the thing: it's not supernatural. It's not a ghost or a demon. It's your brain playing tricks on you while your body is stuck in sleep mode.
+
+---
+
+## snake  (`snake.md`)
+
+- Line 10: link **"mirror"** -> `/dream/mirror/`
+  > Being bitten is one of the most common snake dream scenarios, and it usually reflects feeling caught off guard - betrayed by someone, or blindsided by a situation you didn't see coming. Where the bite lands can add nuance: a bite on the hand may point to something affecting your actions or decisions, while a bite closer to the chest can suggest something that's hit you emotionally. A painful, alarming bite tends to mirror real distress about the situation; a bite that barely registers may suggest the "betrayal" is smaller than it feels in the moment.
+
+- Line 14: link **"Being chased"** -> `/dream/being-chased/`
+  > Being chased points to an unresolved conflict or problem you're avoiding rather than confronting directly. Unlike a bite, which reflects something that's already happened, a chase reflects something still in motion - a decision or confrontation you keep putting off. How the dream ends often matters: escaping the snake can suggest you're finding ways to avoid dealing with the issue (at least for now), while getting caught may reflect a sense that avoidance isn't working anymore.
+
+- Line 26: link **"house"** -> `/dream/house/`
+  > A house in a dream commonly represents the self or your personal/family life, so a snake appearing there often suggests the issue it represents isn't external - it's something affecting your home life, a close relationship, or your sense of safety and privacy. Which room the snake is in can add detail: a bedroom may point to something more personal, while a shared space like a kitchen or living room may point to something affecting the whole household.
+
+- Line 46: link **"Water"** -> `/dream/water/`
+  > Water in dreams is closely tied to emotion and the subconscious, so a snake appearing in or near water often suggests the issue it represents is emotional at its core - something beneath the surface that hasn't been fully processed. Calm water can suggest the feeling is manageable; turbulent water suggests it currently isn't.
 
 ---
 
