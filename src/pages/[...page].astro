@@ -60,13 +60,15 @@ const listSchema = buildListSchema({
   {isFirstPage && (
     <>
       <h1>Dream Dictionary</h1>
-      <p>Look up what your dream might mean. Every entry below has been reviewed before publishing.</p>
+      <p> Explore dream meanings and look up what your dream might mean.
+  Every entry below has been reviewed before publishing.</p>
       <div class="moon-divider">☾</div>
     </>
   )}
 
   {!isFirstPage && <h1>Dream Dictionary - Page {page.currentPage}</h1>}
-
+  
+  <h2>Explore Dream Meanings</h2>
   <ul class="dream-list">
     {page.data.map((entry) => (
       <li class="dream-item">
@@ -127,9 +129,11 @@ const listSchema = buildListSchema({
       </p>
 
       <section class="seo-intro">
+        <h2>Why Use a Dream Dictionary?</h2>
+        <p>A dream dictionary can help you explore common symbols, recurring themes, and possible interpretations. Dream meanings are personal, so use these interpretations as starting points for reflection rather than fixed answers.</p>
         <h2>Welcome to Oneira Home</h2>
         <p>
-          Oneira Home is a free, growing dream dictionary built to help you understand
+          Oneira Home is a free dream meaning search and dictionary built to help you understand
           what your dreams might mean. The name comes from "oneira," the ancient Greek
           word for dreams - and that's exactly what this site is about: clear,
           thoughtful interpretations for the symbols, people, and scenarios that show
