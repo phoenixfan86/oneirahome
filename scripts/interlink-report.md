@@ -1,14 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-28T20:25:38.996Z
+Generated: 2026-09-28T20:59:27.732Z
 
 41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
-
----
-
-## american football  (`american-football.md`)
-
-- Line 10: link **"mirror"** -> `/dream/mirror/`
-  > If you're actively playing rather than watching, the dream is almost always about *your* role in a current competitive or high-stakes situation. How capable you feel in the dream - confident and in control, or fumbling and out of sync - tends to mirror how prepared you actually feel for whatever's coming up in waking life.
 
 ---
 
@@ -40,6 +33,13 @@ Generated: 2026-09-28T20:25:38.996Z
 
 - Line 4: link **"clock"** -> `/dream/clock/`
   > There's something undeniably intense about dreaming you're giving birth. You wake up feeling a little dazed, maybe a little sweaty, and definitely wondering what the hell that was about. But before you start Googling [pregnancy](/dream/pregnancy/) symptoms or wondering if your biological clock is screaming at you, take a breath.
+
+---
+
+## halloween  (`halloween.md`)
+
+- Line 6: link **"house"** -> `/dream/house/`
+  > Dreams draw heavily on whatever you've been exposed to recently, especially right before bed. A month of horror movies, costume shopping, and haunted-house decorations is a lot of unusual, emotionally charged imagery for your mind to process - so it's genuinely common to have more vivid, strange, or unsettling dreams during this stretch of the year, independent of anything going on in your actual life.
 
 ---
 
