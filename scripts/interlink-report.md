@@ -1,7 +1,14 @@
 # Internal Linking Suggestions
-Generated: 2026-09-27T11:52:01.508Z
+Generated: 2026-09-28T20:25:38.996Z
 
 41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+
+---
+
+## american football  (`american-football.md`)
+
+- Line 10: link **"mirror"** -> `/dream/mirror/`
+  > If you're actively playing rather than watching, the dream is almost always about *your* role in a current competitive or high-stakes situation. How capable you feel in the dream - confident and in control, or fumbling and out of sync - tends to mirror how prepared you actually feel for whatever's coming up in waking life.
 
 ---
 
@@ -19,13 +26,6 @@ Generated: 2026-09-27T11:52:01.508Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
-
----
-
-## elevator  (`elevator.md`)
-
-- Line 32: link **"stranger"** -> `/dream/stranger/`
-  > Sharing the ride with someone you don't recognize can reflect an unfamiliar part of yourself entering the picture during a transition - an instinct, a desire, or a side of your personality you haven't consciously acknowledged yet. How that stranger behaves in the dream (calm, threatening, friendly) often mirrors how comfortable you feel with that unfamiliar part of yourself.
 
 ---
 
