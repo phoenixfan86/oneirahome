@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-09-28T20:59:27.732Z
+Generated: 2026-10-02T13:33:37.891Z
 
-41 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+42 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -145,6 +145,13 @@ Generated: 2026-09-28T20:59:27.732Z
 
 - Line 12: link **"Being chased"** -> `/dream/being-chased/`
   > - **Being chased by a tiger:** This one's about avoidance. The tiger is after you because there's something in your life you're running from - a tough conversation, a buried emotion like anger, or a responsibility that feels too heavy to face. The chase isn't about danger; it's about your fear of confronting whatever's on your heels.
+
+---
+
+## time travel  (`time-travel.md`)
+
+- Line 16: link **"mirror"** -> `/dream/mirror/`
+  > Jumping into the future usually means you're nervous or curious about where your life is going. If you see some sci-fi world or an older version of yourself, maybe you're looking for a sign that all your hard work will pay off. Or maybe you're scared you're not in control of your own destiny. Either way, the future in your dream is just a mirror for how you feel about the unknown.
 
 ---
 
