@@ -29,7 +29,7 @@ A cozy, well-lit home with solid walls usually points to stability, self-accepta
 
 Because houses are packed with meaning, the details matter a lot. Here's how some classic house dreams usually break down:
 
-- **Discovering unexplored rooms:** Finding a hidden hallway, a secret door, or an entire wing you never knew existed is actually a great sign. It usually points to personal growth, untapped potential, or parts of yourself you haven't fully met yet. Maybe you're waking up to a new passion, a buried desire, or a creative side you've been ignoring. Your subconscious is saying, *"Hey, there's more to you than you think."*
+- **Discovering unexplored rooms:** Finding a hidden hallway, a secret [door](/dream/door/), or an entire wing you never knew existed is actually a great sign. It usually points to personal growth, untapped potential, or parts of yourself you haven't fully met yet. Maybe you're waking up to a new passion, a buried desire, or a creative side you've been ignoring. Your subconscious is saying, *"Hey, there's more to you than you think."*
 
 - **A damaged or decaying house:** Broken windows, crumbling walls, or [water](/dream/water/) stains creeping across the ceiling? This one's a red flag. It usually signals emotional vulnerability or neglect - maybe you've been letting your boundaries slip, ignoring your mental health, or running on empty for too long. It's your mind's way of saying, *"Check in on this before it gets worse."*
 

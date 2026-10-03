@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-02T13:33:37.891Z
+Generated: 2026-10-03T11:18:25.276Z
 
-42 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
+44 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -48,12 +48,29 @@ Generated: 2026-10-02T13:33:37.891Z
 - Line 6: link **"maze"** -> `/dream/maze/`
   > A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
 
+- Line 12: link **"door"** -> `/dream/door/`
+  > - **Discovering unexplored rooms:** Finding a hidden hallway, a secret door, or an entire wing you never knew existed is actually a great sign. It usually points to personal growth, untapped potential, or parts of yourself you haven't fully met yet. Maybe you're waking up to a new passion, a buried desire, or a creative side you've been ignoring. Your subconscious is saying, *"Hey, there's more to you than you think."*
+
+---
+
+## keys  (`keys.md`)
+
+- Line 16: link **"door"** -> `/dream/door/`
+  > This one's frustrating, and for good reason. Losing a key in a dream points to feeling like you've lost control, missed an opportunity, or somehow misplaced your ability to handle a situation. You might feel like you don't have the right tools to deal with what's in front of you-like you're standing outside a door you used to be able to open.
+
 ---
 
 ## missing a flight  (`missing-a-flight.md`)
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
+
+---
+
+## prison  (`prison.md`)
+
+- Line 20: link **"door"** -> `/dream/door/`
+  > Carl Jung saw structures of restraint - like prisons - as symbols of the tension between your conscious mind (the ego) and your repressed self (the shadow). The cell represents parts of you that have been locked away because of shame, societal conditioning, or fear. The dream is asking you to open that door and look inside.
 
 ---
 
@@ -145,13 +162,6 @@ Generated: 2026-10-02T13:33:37.891Z
 
 - Line 12: link **"Being chased"** -> `/dream/being-chased/`
   > - **Being chased by a tiger:** This one's about avoidance. The tiger is after you because there's something in your life you're running from - a tough conversation, a buried emotion like anger, or a responsibility that feels too heavy to face. The chase isn't about danger; it's about your fear of confronting whatever's on your heels.
-
----
-
-## time travel  (`time-travel.md`)
-
-- Line 16: link **"mirror"** -> `/dream/mirror/`
-  > Jumping into the future usually means you're nervous or curious about where your life is going. If you see some sci-fi world or an older version of yourself, maybe you're looking for a sign that all your hard work will pay off. Or maybe you're scared you're not in control of your own destiny. Either way, the future in your dream is just a mirror for how you feel about the unknown.
 
 ---
 

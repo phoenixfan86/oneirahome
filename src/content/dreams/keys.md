@@ -33,7 +33,7 @@ The context matters a lot here. Are you holding the key confidently? Are you sea
 Stumbling across a key you didn't expect to find is a really good sign. It usually means a solution to a long-standing problem is about to present itself. Maybe you'll suddenly remember a skill you forgot you had. Maybe a resource or a new perspective will show up out of nowhere and help you move forward. Either way, the dream is telling you that you're more equipped than you realize.
 
 ### Losing a Key
-This one's frustrating, and for good reason. Losing a key in a dream points to feeling like you've lost control, missed an opportunity, or somehow misplaced your ability to handle a situation. You might feel like you don't have the right tools to deal with what's in front of you-like you're standing outside a door you used to be able to open.
+This one's frustrating, and for good reason. Losing a key in a dream points to feeling like you've lost control, missed an opportunity, or somehow misplaced your ability to handle a situation. You might feel like you don't have the right tools to deal with what's in front of you-like you're standing outside a [door](/dream/door/) you used to be able to open.
 
 ### Receiving a Key from Someone
 If someone hands you a key in your dream, that's all about trust. It means someone is letting you into their emotional world, or maybe giving you the authority to make important decisions. It's a shared responsibility kind of vibe. Whoever gave you that key believes in you, and the dream is showing you how much that trust matters.
