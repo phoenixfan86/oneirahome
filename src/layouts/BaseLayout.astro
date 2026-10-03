@@ -13,6 +13,7 @@ interface Props {
   image?: string;
   schema?: Record<string, unknown> | Record<string, unknown>[];
 }
+const canonicalURL = new URL(Astro.url.pathname.replace(/(index)?\.html$/, ''), Astro.site || 'https://oneirahome.com');
 const { title, description, image, currentSlug, schema } = Astro.props;
 const ogImageUrl = new URL(image ?? '/img/moon.webp', Astro.site).href;
 
@@ -43,7 +44,7 @@ const totalDreams = await getDreamCount();
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href={Astro.url} />
+    <link rel="canonical" href={canonicalURL} />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="alternate" type="application/rss+xml" title="Oneirahome - Dreams Dictionary" href="/rss.xml" />
     <link rel="me" href="https://mastodon.social/@oneirahome">
