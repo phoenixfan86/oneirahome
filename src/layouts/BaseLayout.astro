@@ -3,6 +3,7 @@ import Analytics from '@vercel/analytics/astro'
 import Sidebar from '../components/Sidebar.astro';
 import Tagbadge from '../components/TagBadge.astro';
 import StarField from '../components/StarField.astro';
+import QuickJournalButton from '../components/QuickJournalButton.astro';
 import '../styles/global.css';
 import { getDreamCount } from '../lib/dreamCount';
 
@@ -89,6 +90,7 @@ const totalDreams = await getDreamCount();
   </head>
   <>
   <StarField />
+  
     <header class="site-header">
       
       <div class="container">
@@ -137,7 +139,8 @@ const totalDreams = await getDreamCount();
   }
 </script>
     </header>
-     <Tagbadge/>  
+     <Tagbadge/> 
+     
       <main data-pagefind-body>
         
         <div class="container">
@@ -178,5 +181,6 @@ const totalDreams = await getDreamCount();
       </div>
       
     </footer>
+     <QuickJournalButton />
   </body>
 </html>

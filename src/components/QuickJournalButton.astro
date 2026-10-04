@@ -1,0 +1,209 @@
+
+<button id="quick-journal-btn" class="quick-journal-fab" type="button" aria-haspopup="dialog">
+  🌙 Log a Dream
+</button>
+
+<div id="quick-journal-modal" class="quick-journal-overlay" hidden>
+  <div class="quick-journal-dialog" role="dialog" aria-modal="true" aria-label="Log a dream">
+    <button id="quick-journal-close" class="quick-journal-close" type="button" aria-label="Close">✕</button>
+
+    <h2>Log tonight's dream</h2>
+
+    <label for="qj-text">What did you dream about?</label>
+    <textarea id="qj-text" rows="4" placeholder="Write down what you remember..."></textarea>
+
+    <p class="qj-mood-label">How did it feel?</p>
+    <div class="qj-mood-scale" role="radiogroup" aria-label="Dream mood">
+      <button type="button" class="qj-mood-option" data-mood="1" aria-label="Nightmare">😣</button>
+      <button type="button" class="qj-mood-option" data-mood="2" aria-label="Unpleasant">😟</button>
+      <button type="button" class="qj-mood-option" data-mood="3" aria-label="Neutral">😐</button>
+      <button type="button" class="qj-mood-option" data-mood="4" aria-label="Pleasant">🙂</button>
+      <button type="button" class="qj-mood-option" data-mood="5" aria-label="Great">😊</button>
+    </div>
+
+    <button id="qj-save" class="qj-save-btn" type="button">Save entry</button>
+    <p id="qj-confirmation" class="qj-confirmation" hidden>
+      Saved! <a href="/journal/">View your journal →</a>
+    </p>
+  </div>
+</div>
+
+<script>
+  const STORAGE_KEY = 'oneirahome-dream-journal';
+
+  const openBtn = document.getElementById('quick-journal-btn');
+  const closeBtn = document.getElementById('quick-journal-close');
+  const overlay = document.getElementById('quick-journal-modal');
+  const textEl = document.getElementById('qj-text') as HTMLTextAreaElement | null;
+  const saveBtn = document.getElementById('qj-save');
+  const confirmation = document.getElementById('qj-confirmation');
+  const moodButtons = document.querySelectorAll<HTMLButtonElement>('.qj-mood-option');
+
+  let selectedMood: number | null = null;
+
+  function openModal() {
+    overlay?.removeAttribute('hidden');
+  }
+  function closeModal() {
+    overlay?.setAttribute('hidden', '');
+    if (textEl) textEl.value = '';
+    selectedMood = null;
+    moodButtons.forEach((b) => b.classList.remove('selected'));
+    confirmation?.setAttribute('hidden', '');
+  }
+
+  openBtn?.addEventListener('click', openModal);
+  closeBtn?.addEventListener('click', closeModal);
+  overlay?.addEventListener('click', (e) => {
+    if (e.target === overlay) closeModal();
+  });
+
+  moodButtons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      selectedMood = Number(btn.dataset.mood);
+      moodButtons.forEach((b) => b.classList.remove('selected'));
+      btn.classList.add('selected');
+    });
+  });
+
+  saveBtn?.addEventListener('click', () => {
+    const text = textEl?.value.trim();
+    if (!text) return;
+
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      const entries = raw ? JSON.parse(raw) : [];
+      entries.push({
+        id: crypto.randomUUID(),
+        text,
+        tags: [],
+        mood: selectedMood,
+        createdAt: new Date().toISOString(),
+      });
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
+      if (textEl) textEl.value = '';
+      confirmation?.removeAttribute('hidden');
+    } catch {
+      // localStorage unavailable (private browsing, etc.) — fail quietly
+    }
+  });
+</script>
+
+<style>
+  .quick-journal-fab {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 40;
+    padding: 0.75rem 1.2rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--color-accent);
+    background: var(--color-bg-alt);
+    color: var(--color-accent);
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+    transition: all 0.4s ease;
+  }
+  .quick-journal-fab:hover {
+    background: var(--color-accent);
+    color: var(--color-1);
+    font-weight: 800;
+  }
+
+  .quick-journal-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+.quick-journal-overlay[hidden] {
+  display: none;
+}
+  .quick-journal-dialog {
+    position: relative;
+    width: 100%;
+    max-width: 420px;
+    background: var(--color-bg);
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+
+  .quick-journal-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    background: none;
+    border: none;
+    color: var(--color-text-muted);
+    font-size: 1rem;
+    cursor: pointer;
+  }
+
+  .quick-journal-dialog label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-top: 0.75rem;
+  }
+  .quick-journal-dialog textarea {
+    width: 100%;
+    margin-top: 0.4rem;
+    padding: 0.6rem;
+    border-radius: 6px;
+    border: 1px solid var(--color-line);
+    background: var(--color-bg-alt);
+    color: var(--color-text);
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+
+  .qj-mood-label {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 1rem 0 0.4rem;
+  }
+  .qj-mood-scale {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .qj-mood-option {
+    flex: 1;
+    padding: 0.5rem 0;
+    font-size: 1.4rem;
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-line);
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .qj-mood-option.selected {
+    border-color: var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 20%, var(--color-bg-alt));
+  }
+
+  .qj-save-btn {
+    margin-top: 1.2rem;
+    width: 100%;
+    padding: 0.6rem;
+    border-radius: 999px;
+    border: 1px solid var(--color-accent);
+    background: var(--color-accent);
+    color: var(--color-bg);
+    font-family: inherit;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+
+  .qj-confirmation {
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+</style>

@@ -40,6 +40,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     text: string;
     tags: string[];
     createdAt: string; // ISO date
+    mood?: number;
   }
 
   const STORAGE_KEY = 'oneirahome-dream-journal';
@@ -71,6 +72,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     if (!list || !empty) return;
 
     const entries = loadEntries().sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+    const moodEmoji: Record<number, string> = { 1: '😣', 2: '😟', 3: '😐', 4: '🙂', 5: '😊' };
 
     empty.hidden = entries.length > 0;
     list.innerHTML = entries
@@ -87,6 +89,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               ? `<div class="journal-entry-tags">${entry.tags.map((t) => `<span>${escapeHtml(t)}</span>`).join('')}</div>`
               : ''
           }
+          ${entry.mood ? `<span class="journal-mood">${moodEmoji[entry.mood]}</span>` : ''}
         </li>`
       )
       .join('');
