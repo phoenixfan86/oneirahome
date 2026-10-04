@@ -1,6 +1,6 @@
 
 <button id="quick-journal-btn" class="quick-journal-fab" type="button" aria-haspopup="dialog">
-  🌙 Log a Dream
+  🌙 <span>Log a Dream</span>
 </button>
 
 <div id="quick-journal-modal" class="quick-journal-overlay" hidden>
@@ -105,6 +105,7 @@
     cursor: pointer;
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
     transition: all 0.4s ease;
+    overflow: hidden;
   }
   .quick-journal-fab:hover {
     background: var(--color-accent);
@@ -194,7 +195,8 @@
     border-radius: 999px;
     border: 1px solid var(--color-accent);
     background: var(--color-accent);
-    color: var(--color-bg);
+    color: var(--color-bg-alt);
+    text-shadow: 1px 1px 3px  var(--color-1);
     font-family: inherit;
     font-size: 0.9rem;
     cursor: pointer;
@@ -205,5 +207,17 @@
     font-size: 0.85rem;
     color: var(--color-text-muted);
     text-align: center;
+  }
+  @media (max-width: 425px){
+    .quick-journal-fab{
+      padding: 0.5rem;
+    }
+    .quick-journal-fab span{
+      display: none;
+    }
+    .quick-journal-dialog{
+      bottom: -3rem;
+      padding: 1rem;
+    }
   }
 </style>

@@ -94,7 +94,7 @@ const totalDreams = await getDreamCount();
     <header class="site-header">
       
       <div class="container">
-        <div class="">
+        <div class="logo-wrapper">
           <a href="/" class="site-title">
             <span class="moon">🌙</span> 
             <div class="logo"><span class="text">Oneira</span><span class="home">Home</span>
@@ -102,42 +102,42 @@ const totalDreams = await getDreamCount();
           </a>
           <p class="site-tagline">Understand what your dreams are telling you</p>
         </div>
-<nav>
-  <ul class="main-nav">
-    <li><a href="/">Dreams</a></li>
-    <li><a href="/guides/">Guides</a></li>
-    <li><a href="/journal/">Dream Journal</a></li>
-    <li><a href="/articles/">Top 5 Roundups</a></li>
-  </ul>
-</nav>
+        <nav>
+          <ul class="main-nav">
+            <li><a href="/">Dreams</a></li>
+            <li><a href="/guides/">Guides</a></li>
+            <li><a href="/journal/">Dream Journal</a></li>
+            <li><a href="/articles/">Top 5 Roundups</a></li>
+          </ul>
+        </nav>
         <div class="search">
           <span>Find your dream</span>
           <div id="search"></div>
         </div>
       </div>
       <script is:inline>
-  function loadPagefind() {
-    const cssLink = document.createElement('link');
-    cssLink.rel = 'stylesheet';
-    cssLink.href = '/pagefind/pagefind-ui.css';
-    document.head.appendChild(cssLink);
+        function loadPagefind() {
+          const cssLink = document.createElement('link');
+          cssLink.rel = 'stylesheet';
+          cssLink.href = '/pagefind/pagefind-ui.css';
+          document.head.appendChild(cssLink);
 
-    const script = document.createElement('script');
-    script.src = '/pagefind/pagefind-ui.js';
-    script.onload = () => {
-      if (typeof PagefindUI !== 'undefined') {
-        new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
-      }
-    };
-    document.body.appendChild(script);
-  }
+          const script = document.createElement('script');
+          script.src = '/pagefind/pagefind-ui.js';
+          script.onload = () => {
+            if (typeof PagefindUI !== 'undefined') {
+              new PagefindUI({ element: '#search', showSubResults: true, showImages: false });
+            }
+          };
+          document.body.appendChild(script);
+        }
 
-  if (document.readyState === 'complete') {
-    loadPagefind();
-  } else {
-    window.addEventListener('load', loadPagefind);
-  }
-</script>
+        if (document.readyState === 'complete') {
+          loadPagefind();
+        } else {
+          window.addEventListener('load', loadPagefind);
+        }
+      </script>
     </header>
      <Tagbadge/> 
      
