@@ -1,0 +1,104 @@
+---
+// MoonPhase.astro — calculates tonight's moon phase client-side (so it's
+// always accurate, regardless of when the site was last built/deployed),
+// using a standard synodic-month formula. No API, no backend.
+---
+<section class="sidebar-section">
+  <h2>Tonight's Moon</h2>
+  <div id="moon-phase-widget" class="moon-widget">
+    <span class="moon-emoji">🌙</span>
+    <p class="moon-loading">Calculating...</p>
+  </div>
+</section>
+
+<script>
+  const SYNODIC_MONTH = 29.53058867; // average days in a full lunar cycle
+
+  function getMoonPhase(date: Date) {
+    // Known reference new moon: Jan 6, 2000, 18:14 UTC
+    const knownNewMoon = Date.UTC(2000, 0, 6, 18, 14, 0);
+    const diffDays = (date.getTime() - knownNewMoon) / 86400000;
+    const phase = ((diffDays % SYNODIC_MONTH) + SYNODIC_MONTH) % SYNODIC_MONTH;
+    const illumination = Math.round(((1 - Math.cos((phase / SYNODIC_MONTH) * 2 * Math.PI)) / 2) * 100);
+
+    const segment = SYNODIC_MONTH / 8;
+    let name: string;
+    let emoji: string;
+
+    if (phase < segment * 0.5 || phase >= segment * 7.5) {
+      name = 'New Moon';
+      emoji = '🌑';
+    } else if (phase < segment * 1.5) {
+      name = 'Waxing Crescent';
+      emoji = '🌒';
+    } else if (phase < segment * 2.5) {
+      name = 'First Quarter';
+      emoji = '🌓';
+    } else if (phase < segment * 3.5) {
+      name = 'Waxing Gibbous';
+      emoji = '🌔';
+    } else if (phase < segment * 4.5) {
+      name = 'Full Moon';
+      emoji = '🌕';
+    } else if (phase < segment * 5.5) {
+      name = 'Waning Gibbous';
+      emoji = '🌖';
+    } else if (phase < segment * 6.5) {
+      name = 'Last Quarter';
+      emoji = '🌗';
+    } else {
+      name = 'Waning Crescent';
+      emoji = '🌘';
+    }
+
+    // Distance (in days) from the nearest full moon — used to decide
+    // whether to surface the full-moon-and-dreams guide link.
+    const daysFromFull = Math.abs(phase - SYNODIC_MONTH / 2);
+
+    return { name, emoji, illumination, daysFromFull };
+  }
+
+  const widget = document.getElementById('moon-phase-widget');
+  if (widget) {
+    const { name, emoji, illumination, daysFromFull } = getMoonPhase(new Date());
+
+    const nearFull = daysFromFull < 2.5;
+    const note = nearFull
+      ? `The moon is close to full tonight — some research suggests dream content may feel more vivid than usual. <a href="/guides/full-moon-and-dreams/">Learn more →</a>`
+      : `<a href="/guides/full-moon-and-dreams/">Does the moon affect dreams?</a>`;
+
+    widget.innerHTML = `
+      <span class="moon-emoji">${emoji}</span>
+      <p class="moon-name">${name}</p>
+      <p class="moon-illumination">${illumination}% illuminated</p>
+      <p class="moon-note">${note}</p>
+    `;
+  }
+</script>
+
+<style>
+  .moon-widget {
+    text-align: center;
+  }
+  .moon-emoji {
+    display: block;
+  }
+  .moon-name {
+    font-weight: 600;
+    margin: 0.3rem 0 0.1rem;
+  }
+  .moon-illumination {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    margin: 0 0 0.6rem;
+  }
+  .moon-note {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+  .moon-loading {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+  }
+</style>

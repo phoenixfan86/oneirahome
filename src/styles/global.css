@@ -662,6 +662,9 @@ article h2 {
 		background: none;
 	}
 }
+.moon-emoji {
+	font-size: 3rem;
+}
 
 .f-nav {
 	display: flex;
