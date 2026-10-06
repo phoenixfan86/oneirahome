@@ -1,5 +1,6 @@
 ---
 title: "Dream About Cat: Meaning & Interpretation"
+h1: "Cat Dream Meaning: Interpretation and Symbolism"
 symbol: "cat"
 description: "What does it mean to dream about cat? Explore the common scenarios and psychological meaning behind this dream."
 img: "/img/cat.webp"
@@ -13,6 +14,7 @@ faq:
   - question: "What is the meaning of a black cat in a dream?"
     answer: "In modern dreamwork, a black cat symbolizes mystery and the unknown rather than bad luck. It invites you to confront unexamined emotions and trust your inner wisdom even when the path ahead feels unclear."
 pubDate: 2026-08-19
+updatedDate: 2026-10-07
 draft: false
 source: "gemini-3.6-flash"
 edited: true

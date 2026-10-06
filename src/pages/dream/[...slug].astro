@@ -111,7 +111,7 @@ schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchem
     </nav>
     <span class="read-time">{readingTime}</span>
     
-    <h1 class="dream-title">{entry.data.title}</h1>
+    <h1 class="dream-title">{entry.data.h1 ?? entry.data.title}</h1>
     <ShareButtons url={canonicalUrl} title={entry.data.title} />
     
     <p class="dream-meta">

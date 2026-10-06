@@ -4,6 +4,7 @@ const dreams = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    h1: z.string().optional(),
     symbol: z.string(),
     description: z.string(),
     img: z.string().optional(),

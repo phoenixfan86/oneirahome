@@ -22,7 +22,7 @@
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises';
 import path from 'node:path';
 
-const MODEL = 'gemini-3.6-flash';
+const MODEL = 'gemini-3.7-flash';
 const API_KEY = process.env.GEMINI_API_KEY;
 const DREAMS_DIR = path.resolve('src/content/dreams');
 const TOPICS_FILE = path.resolve('scripts/topics.json');
