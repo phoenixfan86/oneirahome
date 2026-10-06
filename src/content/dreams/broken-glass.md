@@ -4,7 +4,7 @@ symbol: "broken glass"
 description: "Explore the psychological and symbolic meanings of broken glass in dreams, including common scenarios and emotional interpretations."
 img: "/img/broken-glass.webp"
 category: "objects"
-tags: []
+tags: ["vulnerability", "emotional-pain", "conflict", "change"]
 faq:
   - question: "What does it mean to step on broken glass in a dream?"
     answer: "Stepping on sharp fragments often represents navigating a risky or emotionally painful situation in waking life. It highlights feelings of vulnerability and emphasizes the need to proceed with care."

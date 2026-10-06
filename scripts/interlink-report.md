@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-03T11:18:25.276Z
+Generated: 2026-10-06T08:10:17.593Z
 
-44 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
+42 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -47,16 +47,6 @@ Generated: 2026-10-03T11:18:25.276Z
 
 - Line 6: link **"maze"** -> `/dream/maze/`
   > A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
-
-- Line 12: link **"door"** -> `/dream/door/`
-  > - **Discovering unexplored rooms:** Finding a hidden hallway, a secret door, or an entire wing you never knew existed is actually a great sign. It usually points to personal growth, untapped potential, or parts of yourself you haven't fully met yet. Maybe you're waking up to a new passion, a buried desire, or a creative side you've been ignoring. Your subconscious is saying, *"Hey, there's more to you than you think."*
-
----
-
-## keys  (`keys.md`)
-
-- Line 16: link **"door"** -> `/dream/door/`
-  > This one's frustrating, and for good reason. Losing a key in a dream points to feeling like you've lost control, missed an opportunity, or somehow misplaced your ability to handle a situation. You might feel like you don't have the right tools to deal with what's in front of you-like you're standing outside a door you used to be able to open.
 
 ---
 

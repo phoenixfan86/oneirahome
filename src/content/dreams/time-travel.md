@@ -4,7 +4,7 @@ symbol: "time travel"
 description: "Discover what time travel in dreams means, from visits to the past to future journeys, and what your subconscious may be signaling."
 img: "/img/time-travel.webp"
 category: "other"
-tags: []
+tags: ["nostalgia", "past", "future", "subconscious"]
 faq:
   - question: "What does it mean to dream about traveling back in time?"
     answer: "Visiting earlier eras usually signifies unresolved feelings, nostalgia, or a desire to alter past choices. It often suggests your subconscious is encouraging you to extract wisdom from past experiences to help with present challenges."

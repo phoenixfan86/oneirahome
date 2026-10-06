@@ -3,7 +3,7 @@ title: "Moving to a New House: Dream Meaning: What Does It Mean?"
 symbol: "moving to a new house"
 description: "Discover what relocating in your dreams signifies about life transitions, personal growth, and internal identity shifts."
 category: "events"
-tags: []
+tags: ["life-transitions", "personal-growth", "identity", "change"]
 faq:
   - question: "What does it mean to move to a new house in a dream?"
     answer: "Relocating to a new residence typically represents major personal transitions, evolving self-identity, or a shift in life circumstances. It highlights your internal readiness to embrace fresh opportunities or let go of past habits."
