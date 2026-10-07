@@ -40,13 +40,20 @@ function getPageNumbers(current: number, last: number): (number | 'ellipsis')[] 
   return result;
 }
 
+const sampleSymbols = page.data
+  .slice(0, 3)
+  .map((entry) => entry.data.symbol)
+  .join(', ');
+
 const pageNumbers = getPageNumbers(page.currentPage, page.lastPage);
 
 const pageTitle = isFirstPage
   ? 'Oneira Home - Dream Dictionary & Meanings'
   : `Oneira Home - Dream Dictionary & Meanings: Page ${page.currentPage}`;
 
-const pageDescription = 'Explore Oneira Home, a growing dictionary of dream meanings and interpretations. Understand common symbols like snakes and teeth or complex dream scenarios.';
+const pageDescription = isFirstPage
+  ? 'Explore Oneira Home, a growing dictionary of dream meanings and interpretations. Understand common symbols like snakes and teeth or complex dream scenarios.'
+  : `Page ${page.currentPage} of ${page.lastPage} of the Oneira Home dream dictionary, including meanings for ${sampleSymbols} and more.`;
 
 const listSchema = buildListSchema({
   name: pageTitle,
