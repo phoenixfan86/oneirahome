@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-06T08:10:17.593Z
+Generated: 2026-10-07T20:04:15.204Z
 
-42 suggestion(s) across 25 article(s). Nothing has been changed — apply these manually.
+44 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -54,6 +54,16 @@ Generated: 2026-10-06T08:10:17.593Z
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
+
+---
+
+## moving to a new house  (`moving-to-a-new-house.md`)
+
+- Line 4: link **"house"** -> `/dream/house/`
+  > Moving dreams are a whole thing. One night you're packing boxes, the next you're wandering through a house that doesn't feel like yours, and you wake up feeling like your whole life just shifted. And honestly? That feeling is usually spot on.
+
+- Line 21: link **"drowning"** -> `/dream/drowning/`
+  > If you're drowning in boxes, packing or unpacking forever, that's about emotional baggage. You're carrying old memories, unresolved issues, or responsibilities into a brand new chapter-a new relationship, a new job, a new phase of life. The dream is gently reminding you: deal with the old stuff before you try to build something new. Otherwise, you're just dragging it all with you.
 
 ---
 
