@@ -31,7 +31,7 @@ But here's the thing: falling in a dream is almost never about actual falling. I
 
 Not all falling dreams are created equal. The *how* and *where* of the fall can give you some solid clues about what's really bugging you:
 
-- **Plummeting from a great height:** Sky-high buildings, cliffs, or even airplanes. This one usually screams fear of failure, especially after you've worked hard to get somewhere. It's that nagging thought: *"I've climbed too high - what if I slip?"* You might be putting pressure on yourself to maintain a standard that's starting to feel impossible.
+- **Plummeting from a great height:** Sky-high buildings, cliffs, or even [airplanes](/dream/airplane/). This one usually screams fear of failure, especially after you've worked hard to get somewhere. It's that nagging thought: *"I've climbed too high - what if I slip?"* You might be putting pressure on yourself to maintain a standard that's starting to feel impossible.
 
 - **Tripping or stumbling:** This is more low-key - tripping on stairs, catching your foot on nothing, or losing your balance on flat ground. It points to smaller, everyday anxieties that keep you feeling off-kilter. Maybe you're worried about screwing up a presentation, forgetting something important, or making a minor mistake that snowballs.
 

@@ -30,7 +30,7 @@ Across most interpretive traditions, a snake represents transformation, hidden f
 
 ## Snake Bite Dream Meaning
 
-Being bitten is one of the most common snake dream scenarios, and it usually reflects feeling caught off guard - betrayed by someone, or blindsided by a situation you didn't see coming. Where the bite lands can add nuance: a bite on the hand may point to something affecting your actions or decisions, while a bite closer to the chest can suggest something that's hit you emotionally. A painful, alarming bite tends to [mirror](/dream/mirror/) real distress about the situation; a bite that barely registers may suggest the "betrayal" is smaller than it feels in the moment.
+Being bitten is one of the most common snake dream scenarios, and it usually reflects feeling caught off guard - [betrayed by someone of friends](/dream/being-betrayed-by-a-friend/), or blindsided by a situation you didn't see coming. Where the bite lands can add nuance: a bite on the hand may point to something affecting your actions or decisions, while a bite closer to the chest can suggest something that's hit you emotionally. A painful, alarming bite tends to [mirror](/dream/mirror/) real distress about the situation; a bite that barely registers may suggest the "betrayal" is smaller than it feels in the moment.
 
 ## Dream About a Snake Chasing You
 

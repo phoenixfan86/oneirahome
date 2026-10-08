@@ -33,7 +33,7 @@ When you duck into a cave to escape harsh weather or some outside threat, it usu
 
 ## Getting Trapped or Lost Inside: When Self-Reflection Turns into Overthinking
 
-This one's tough. If you're stuck deep underground with no clear way out, it often means you've gotten lost in your own head. What started as healthy reflection has turned into rumination - you're overthinking, spiraling, or feeling emotionally boxed in by your own patterns and fears. The dream is a red flag: you need to find your way back to the surface before you get buried alive in your own thoughts.
+This one's tough. If you're stuck deep underground with no clear way out, it often means you've gotten lost in your own head. What started as healthy reflection has turned into rumination - you're overthinking, spiraling, or feeling emotionally boxed in by your own patterns and fears. The dream is a red flag: you need to find your way back to the surface before you get [buried alive](/dream/being-buried-alive/) in your own thoughts.
 
 ## Discovering Hidden Treasure Deep Underground: You've Struck Gold
 

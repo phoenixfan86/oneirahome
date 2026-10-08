@@ -33,7 +33,7 @@ That's exactly what this dream is telling you. You're feeling stalled. Drained. 
 If the tire bursts out of nowhere while you're cruising, that's a sign of unexpected disruption. Maybe some surprising news, a sudden change of plans, or a curveball you didn't see coming. It forces you to stop, reassess, and change direction. Annoying? Absolutely. But sometimes these sudden stops are exactly what you need.
 
 ### Changing or Fixing the Tire Yourself
-This one's actually encouraging. If you're the one jacking up the car and swapping out the wheel, it means you've got resilience and problem-solving skills. Despite the setback, you know how to recover. You're not helpless-you're capable, adaptable, and ready to get back on the road.
+This one's actually encouraging. If you're the one jacking up the car [after a car accident](/dream/car-accident) and swapping out the wheel, it means you've got resilience and problem-solving skills. Despite the setback, you know how to recover. You're not helpless-you're capable, adaptable, and ready to get back on the road.
 
 ### Finding All Tires Deflated
 If you walk up to your car and every single tire is flat, that's a heavy one. It points to severe burnout-exhaustion that's spread across multiple areas of your life, not just one. It's your mind's way of saying you can't keep pushing through this. Rest isn't optional anymore. It's mandatory.
