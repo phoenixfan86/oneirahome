@@ -665,7 +665,24 @@ article h2 {
 .moon-emoji {
 	font-size: 3rem;
 }
+.not-found {
+	font-size: 100px;
+	font-weight: 800;
+	text-align: center;
+	text-shadow: 0 0 10px var(--color-accent);
+	line-height: 0.3;
+	transition: all 0.4s ease;
+}
+.not-found:hover {
+	text-shadow: 0 0 20px var(--color-text-muted);
+}
 
+.not-found-links {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
+}
 .f-nav {
 	display: flex;
 	align-items: center;
@@ -824,6 +841,10 @@ article h2 {
 	}
 	.dream-img img {
 		width: 100%;
+	}
+	.not-found {
+		font-size: 80px;
+		line-height: 0.1;
 	}
 	.f-nav {
 		flex-direction: column;
