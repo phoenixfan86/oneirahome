@@ -20,7 +20,7 @@ For a long time, we could only guess. But these days, neuroscience has given us 
 
 In humans, vivid dreaming mostly happens during REM sleep. That's the stage where your brain waves look almost like you're awake, your eyes dart around, your heart rate picks up, and your muscles go temporarily paralyzed. That last part-muscle atonia-is what stops you from actually acting out your dreams.
 
-When researchers hook up other animals to EEG machines, they see remarkably similar patterns. Almost all land mammals and birds cycle through Non-REM and REM sleep just like we do. Cats, dogs, rats, even the platypus-they all show clear REM signatures.
+When researchers hook up other animals to EEG machines, they see remarkably similar patterns. Almost all land mammals and birds cycle through Non-REM and REM sleep just like we do. [Cats](/dream/cat/), [dogs](/dream/dog/), rats, even the platypus-they all show clear REM signatures.
 
 Some of the earliest evidence for animal dreaming came from cats. Back in the 1960s, a French researcher named Michel Jouvet found that if you damaged a tiny part of the brainstem called the pons, cats would lose their REM paralysis. Then, when they entered REM sleep, they didn't just lie there. They stood up, stalked invisible prey, arched their backs, and swatted at things that weren't there-all while completely oblivious to the real world around them. They were literally acting out their dreams.
 

@@ -46,5 +46,5 @@ Modern psychology tends to view these dreams through the lens of **relational he
 Dream imagery is deeply personal, so universal meanings are just a starting point. To really understand what your dream dog is telling you, reflect on these:
 
 - What emotions were most prominent during your interaction with the dog - **comfort**, **fear**, **grief**, or **joy**?
-- Does the dog resemble a pet from your past or present? What qualities do you associate with that specific animal?
+- Does the dog resemble a pet from your past or present? What qualities do you associate with that [specific animals](/categories/animals/)?
 - Is there a situation in your waking life where you feel a heightened need for **loyalty**, **protection**, or **self-advocacy**?
