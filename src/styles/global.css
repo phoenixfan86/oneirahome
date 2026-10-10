@@ -1,5 +1,3 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap'); */
-
 :root {
 	--color-1: #07091c;
 	--color-2: #171d4e;
@@ -43,7 +41,7 @@ body {
 	inset: 0;
 	width: 100%;
 	height: 100%;
-	z-index: 5; /* always behind real content, no stacking-context fuss needed */
+	z-index: 5;
 	pointer-events: none;
 }
 main {
@@ -277,6 +275,56 @@ strong {
 	}
 }
 
+.toc {
+	position: sticky;
+	top: 7rem;
+	float: left;
+	width: 240px;
+	margin: 0 0 1rem 0.5rem;
+	font-size: 0.75rem;
+}
+.toc-title {
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	color: var(--color-accent);
+	font-size: 0.75rem;
+	font-weight: 700;
+	margin-bottom: 0.5rem;
+}
+.toc ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	border-left: 1px solid var(--color-line);
+}
+.toc li a {
+	display: block;
+	padding: 0.3rem 0.75rem;
+	color: var(--color-text-muted);
+	text-decoration: none;
+	border-left: 2px solid transparent;
+	margin-left: -1px;
+	transition: all 0.4s ease;
+}
+.toc li a:hover {
+	color: var(--color-accent);
+	text-shadow: 0 0 2px var(--color-text-muted);
+	border-left-color: var(--color-accent);
+}
+.toc li a.active {
+	color: var(--color-accent);
+	border-left-color: var(--color-accent);
+}
+.toc-depth-2 a {
+	font-weight: 800;
+	letter-spacing: 0.5px;
+}
+.toc-depth-3 {
+	padding-left: 10px;
+}
+.toc-depth-3 a {
+	font-size: 0.7rem;
+}
 article {
 	padding: 2.5rem 0 4rem;
 }
@@ -526,7 +574,6 @@ article h2 {
 	transition: all 0.4s ease;
 }
 .tag-grid a:hover {
-	/* border-color: var(--color-accent); */
 	box-shadow:
 		1px 1px 6px var(--color-accent),
 		inset 0 0 7px var(--color-accent);
@@ -683,6 +730,20 @@ article h2 {
 	align-items: center;
 	justify-content: center;
 }
+.top-items {
+	list-style: none;
+}
+.top-items li {
+	padding-left: 10px;
+}
+.top-items li:hover::marker {
+	text-shadow: 0 0 9px var(--color-accent);
+}
+.top-items li::marker {
+	content: '🌒';
+	transition: all 0.4s ease;
+}
+
 .f-nav {
 	display: flex;
 	align-items: center;
@@ -751,6 +812,9 @@ article h2 {
 @media (max-width: 860px) {
 	main {
 		flex-direction: column;
+	}
+	.toc {
+		display: none;
 	}
 	.site-tagline {
 		font-size: 0.55rem;

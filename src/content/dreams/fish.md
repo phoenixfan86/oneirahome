@@ -21,7 +21,7 @@ qcIssues: []
 
 ## What It Means When You Dream About Fish
 
-If you've ever woken up wondering why the hell you were dreaming about fish, you're not alone. Water in dreams is almost always connected to your emotional world and what's going on beneath the surface of your conscious mind. And since fish actually *live* in that [water](/dream/water/), they tend to represent all the thoughts, feelings, and creative sparks that are swimming around in your subconscious, waiting for you to notice them.
+If you've ever woken up wondering why the hell you were dreaming about fish, you're not alone. Water in dreams is almost always connected to your emotional world and what's going on beneath the surface of your conscious mind. And since fish actually *live* in [that water](/dream/water/), they tend to represent all the thoughts, feelings, and creative sparks that are swimming around in your subconscious, waiting for you to notice them.
 
 So when fish show up in your sleep, it usually means something you've been ignoring or pushing down is finally trying to bust out and get your attention.
 
@@ -46,7 +46,7 @@ If you're moving with the fish-like, actually gliding through the water with the
 
 ## What Psychologists Say About It
 
-From a psychological angle, water is basically a map of your inner world. The ocean or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
+From a psychological angle, water is basically a map of your inner world. [The ocean](/dream/ocean/) or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
 
 Depth psychology suggests that when fish grab your attention in a dream, your mind is practically yelling at you to pay closer attention to your gut feelings and subtle cues. You know that quiet little voice you keep brushing off? Yeah, that one.
 

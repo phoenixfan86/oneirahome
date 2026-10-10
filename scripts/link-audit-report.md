@@ -1,19 +1,14 @@
 # Internal Link Audit
-Generated: 2026-10-08T08:13:13.745Z
+Generated: 2026-10-08T14:41:36.094Z
 Content items scanned: 122
 
-## Orphan pages (78)
+## Orphan pages (73)
 Nothing on the site links to these. Add at least one contextual link from a related article.
-- /dream/airplane  (src/content/dreams/airplane.md)
 - /dream/american-football  (src/content/dreams/american-football.md)
 - /dream/angel  (src/content/dreams/angel.md)
-- /dream/bear  (src/content/dreams/bear.md)
 - /dream/bees  (src/content/dreams/bees.md)
-- /dream/being-betrayed-by-a-friend  (src/content/dreams/being-betrayed-by-a-friend.md)
-- /dream/being-buried-alive  (src/content/dreams/being-buried-alive.md)
 - /dream/broken-glass  (src/content/dreams/broken-glass.md)
 - /dream/butterfly  (src/content/dreams/butterfly.md)
-- /dream/car-accident  (src/content/dreams/car-accident.md)
 - /dream/cave  (src/content/dreams/cave.md)
 - /dream/celebrity  (src/content/dreams/celebrity.md)
 - /dream/cheating-partner  (src/content/dreams/cheating-partner.md)
@@ -104,13 +99,13 @@ Targets that do not match any content item or static route.
     - linked from src/layouts/BaseLayout.astro
 
 ## Link hubs (top 15 by outbound internal links)
+- 5  src/content/dreams/being-chased.md
 - 5  src/content/dreams/halloween.md
-- 4  src/content/dreams/being-chased.md
+- 5  src/content/dreams/snake.md
 - 4  src/content/dreams/being-late.md
 - 4  src/content/dreams/clock.md
 - 4  src/content/dreams/fire.md
 - 4  src/content/dreams/pregnancy.md
-- 4  src/content/dreams/snake.md
 - 3  src/content/dreams/baby.md
 - 3  src/content/dreams/deceased-parent.md
 - 3  src/content/dreams/desert.md

@@ -8,6 +8,7 @@ import RelatedDreams from '../../components/RelatedDreams.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
 import ListenButton from '../../components/ListenButton.astro';
 
+
 export const getStaticPaths = (async () => {
   const dreams = await getCollection(
     'dreams',
@@ -24,8 +25,10 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const { Content } = await entry.render();
-
+const { Content, headings } = await entry.render();
+const tocItems = headings
+  .filter((h) => h.depth === 2 || h.depth === 3)
+  .map((h) => ({ depth: h.depth, slug: h.slug, text: h.text }));
 const canonicalUrl = new URL(`/dream/${entry.slug}/`, Astro.site).href;
 const publishedDate = entry.data.pubDate.toISOString();
 const modifiedDate = (entry.data.updatedDate ?? entry.data.pubDate).toISOString();
@@ -99,6 +102,7 @@ const readingTime = getReadingTime(entry.body)
 title={entry.data.title} 
 description={entry.data.description} 
 image={entry.data.img}
+tocItems={tocItems}
 schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchema, breadcrumbSchema]}
 >
   <article class="dream-body">

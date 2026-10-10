@@ -4,6 +4,7 @@ import Sidebar from '../components/Sidebar.astro';
 import Tagbadge from '../components/TagBadge.astro';
 import StarField from '../components/StarField.astro';
 import QuickJournalButton from '../components/QuickJournalButton.astro';
+import  TableOfContents  from '../components/TableOfContents.astro';
 import '../styles/global.css';
 import { getDreamCount } from '../lib/dreamCount';
 
@@ -14,9 +15,10 @@ interface Props {
   currentSlug?: string;
   image?: string;
   schema?: Record<string, unknown> | Record<string, unknown>[];
+  tocItems?: { depth: number; slug: string; text: string }[];
 }
 const canonicalURL = new URL(Astro.url.pathname.replace(/(index)?\.html$/, ''), Astro.site || 'https://oneirahome.com');
-const { robots = 'index, follow', title, description, image, currentSlug, schema } = Astro.props;
+const { robots = 'index, follow', title, description, image, currentSlug, schema, tocItems = [] } = Astro.props;
 const ogImageUrl = new URL(image ?? '/img/moon.webp', Astro.site).href;
 
 const schemaList = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
@@ -67,7 +69,8 @@ const totalDreams = await getDreamCount();
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content={ogImageUrl} />
-
+    <meta name="theme-color" content="var(--color-2)" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="var(--color-4)" media="(prefers-color-scheme: light)" />
     <meta name="blogarama-site-verification" content="blogarama-6b0069dd-2ca7-4639-bc51-64f418ea7de9">
     <meta name="p:domain_verify" content="fd640d88647c4424e66c2394a4fce868"/>
 
@@ -142,8 +145,10 @@ const totalDreams = await getDreamCount();
     </header>
      <Tagbadge/> 
      
-      <main data-pagefind-body>
-        
+      <main data-pagefind-body class="main">
+        <aside class="toc-column">
+    {tocItems.length > 2 && <TableOfContents items={tocItems} />}
+  </aside>
         <div class="container">
           
           <slot />
