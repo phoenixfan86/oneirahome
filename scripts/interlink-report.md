@@ -1,14 +1,21 @@
 # Internal Linking Suggestions
-Generated: 2026-10-07T20:04:15.204Z
+Generated: 2026-10-11T12:00:07.514Z
 
-44 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
+43 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
 
 ---
 
-## being chased  (`being-chased.md`)
+## baby  (`baby.md`)
 
-- Line 20: link **"bear"** -> `/dream/bear/`
-  > - **An Animal Attacker** - Getting chased by a wild beast - [wolf](/dream/wolf/), bear, [snake](/dream/snake/), whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
+- Line 14: link **"crying"** -> `/dream/crying/`
+  > - **A baby that's crying or upset**: Yikes. Hearing that relentless wail or seeing a baby in distress often means something in your life is feeling **neglected**. It could be your own emotional needs, a creative idea you've shoved to the back burner, or a responsibility you're avoiding. Basically, something important is screaming for your attention, and you're not giving it.
+
+---
+
+## blood  (`blood.md`)
+
+- Line 14: link **"crying"** -> `/dream/crying/`
+  > - **Watching someone else bleed**: Seeing another person lose blood usually reflects your **empathy** and concern for them in real life. But here's a twist - that person might actually represent a neglected part of *yourself*. Maybe it's an aspect of your personality that's been hurt and is crying out for attention.
 
 ---
 
@@ -22,10 +29,10 @@ Generated: 2026-10-07T20:04:15.204Z
 
 ---
 
-## fish  (`fish.md`)
+## crying  (`crying.md`)
 
-- Line 29: link **"ocean"** -> `/dream/ocean/`
-  > From a psychological angle, water is basically a map of your inner world. The ocean or lake? That's your vast unconscious mind. The fish? They're the specific bits of content floating around in there-feelings, memories, or those "aha" moments that are just waiting to surface.
+- Line 8: link **"Water"** -> `/dream/water/`
+  > Water and tears often stand for the flow of emotion. A dream that centers on crying may be asking whether you have made space to feel what you have been carrying, rather than predicting a misfortune. Many interpreters read these dreams as a sign of release and a chance to become clearer about what hurts.
 
 ---
 
@@ -54,16 +61,6 @@ Generated: 2026-10-07T20:04:15.204Z
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
-
----
-
-## moving to a new house  (`moving-to-a-new-house.md`)
-
-- Line 4: link **"house"** -> `/dream/house/`
-  > Moving dreams are a whole thing. One night you're packing boxes, the next you're wandering through a house that doesn't feel like yours, and you wake up feeling like your whole life just shifted. And honestly? That feeling is usually spot on.
-
-- Line 21: link **"drowning"** -> `/dream/drowning/`
-  > If you're drowning in boxes, packing or unpacking forever, that's about emotional baggage. You're carrying old memories, unresolved issues, or responsibilities into a brand new chapter-a new relationship, a new job, a new phase of life. The dream is gently reminding you: deal with the old stuff before you try to build something new. Otherwise, you're just dragging it all with you.
 
 ---
 

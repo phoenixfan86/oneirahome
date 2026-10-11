@@ -31,7 +31,7 @@ The meaning shifts completely depending on *how* the blood appears and *how it m
 
 - **Blood on your hands**: This one's heavy. It's traditionally tied to **guilt**, **remorse**, or feeling accountable for something. Maybe you're wrestling with a decision you made, a harsh word you let slip, or a situation where you feel responsible for someone else's pain - even if no one else is pointing fingers at you.
 
-- **Watching someone else bleed**: Seeing another person lose blood usually reflects your **empathy** and concern for them in real life. But here's a twist - that person might actually represent a neglected part of *yourself*. Maybe it's an aspect of your personality that's been hurt and is crying out for attention.
+- **Watching someone else bleed**: Seeing another person lose blood usually reflects your **empathy** and concern for them in real life. But here's a twist - that person might actually represent a neglected part of *yourself*. Maybe it's an aspect of your personality that's been hurt and is [crying out](/dream/crying/) for attention.
 
 - **Receiving a transfusion**: Ah, this one's hopeful. Witnessing new blood being restored usually means **healing**, **renewal**, and accepting help. It often shows up when you're turning a corner emotionally - finding new inspiration, rebuilding resilience, or leaning on community support after a rough patch.
 

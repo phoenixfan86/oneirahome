@@ -150,6 +150,7 @@ function buildFrontmatter({ symbol, category, title, description, faq }) {
 title: "${title.replace(/"/g, '\\"')}"
 symbol: "${symbol}"
 description: "${description.replace(/"/g, '\\"')}"
+img: "/img/"
 category: "${category}"
 tags: []
 faq:${faqYaml}

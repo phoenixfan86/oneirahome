@@ -32,7 +32,7 @@ The details matter a ton here. What you're *doing* with the baby in the dream ch
 
 - **Holding or caring for a happy, content baby**: If you're rocking a peaceful little one and everything feels calm, that's usually a great sign. It means you're putting in the time and emotional energy to grow something meaningful - a project, a goal, a relationship - and it's actually paying off. You're feeling fulfilled and centered.
 
-- **A baby that's crying or upset**: Yikes. Hearing that relentless wail or seeing a baby in distress often means something in your life is feeling **neglected**. It could be your own emotional needs, a creative idea you've shoved to the back burner, or a responsibility you're avoiding. Basically, something important is screaming for your attention, and you're not giving it.
+- **[A baby that's crying](/dream/crying/) or upset**: Yikes. Hearing that relentless wail or seeing a baby in distress often means something in your life is feeling **neglected**. It could be your own emotional needs, a creative idea you've shoved to the back burner, or a responsibility you're avoiding. Basically, something important is screaming for your attention, and you're not giving it.
 
 - **Forgetting or misplacing the baby**: This one's a gut punch. Losing track of a newborn in a dream usually points to **fear of dropping the ball** on something that matters. Maybe you're so overwhelmed with daily chaos that you're sidelining a passion project, your self-care, or a goal you used to care about. Your brain is waving a red flag.
 
