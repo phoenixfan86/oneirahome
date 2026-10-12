@@ -1,21 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-11T12:00:07.514Z
+Generated: 2026-10-12T15:48:06.706Z
 
-43 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
-
----
-
-## baby  (`baby.md`)
-
-- Line 14: link **"crying"** -> `/dream/crying/`
-  > - **A baby that's crying or upset**: Yikes. Hearing that relentless wail or seeing a baby in distress often means something in your life is feeling **neglected**. It could be your own emotional needs, a creative idea you've shoved to the back burner, or a responsibility you're avoiding. Basically, something important is screaming for your attention, and you're not giving it.
-
----
-
-## blood  (`blood.md`)
-
-- Line 14: link **"crying"** -> `/dream/crying/`
-  > - **Watching someone else bleed**: Seeing another person lose blood usually reflects your **empathy** and concern for them in real life. But here's a twist - that person might actually represent a neglected part of *yourself*. Maybe it's an aspect of your personality that's been hurt and is crying out for attention.
+40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -26,13 +12,6 @@ Generated: 2026-10-11T12:00:07.514Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
-
----
-
-## crying  (`crying.md`)
-
-- Line 8: link **"Water"** -> `/dream/water/`
-  > Water and tears often stand for the flow of emotion. A dream that centers on crying may be asking whether you have made space to feel what you have been carrying, rather than predicting a misfortune. Many interpreters read these dreams as a sign of release and a chance to become clearer about what hurts.
 
 ---
 

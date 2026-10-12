@@ -86,6 +86,23 @@ strong {
 	color: var(--color-accent);
 }
 
+table {
+	color: var(--color-text-muted);
+	font-size: 10px;
+	border-collapse: collapse;
+	border: 1px solid var(--color-text-muted);
+}
+thead {
+	font-size: 12px;
+	font-weight: 800;
+}
+
+td,
+th {
+	padding: 5px 10px;
+	border: 1px solid var(--color-accent);
+}
+
 .dream-body {
 	position: relative;
 }
