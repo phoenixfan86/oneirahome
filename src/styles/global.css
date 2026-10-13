@@ -526,6 +526,30 @@ article h2 {
 	margin: 0.25rem 0 0;
 }
 
+.dream-item-footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.dream-date {
+	font-size: 13px;
+	padding-top: 5px;
+	color: var(--color-text-muted);
+}
+.dream-date span {
+	color: var(--color-accent);
+}
+.more-opt {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.article-dates {
+	font-size: 0.85rem;
+	color: var(--color-text-muted);
+}
+
 .read-more {
 	display: flex;
 	align-items: center;
@@ -917,6 +941,9 @@ article h2 {
 	}
 	.tag-more {
 		margin-top: 0;
+	}
+	.more-opt {
+		flex-direction: column;
 	}
 	.container {
 		padding: 0.8rem;

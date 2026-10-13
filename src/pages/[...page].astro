@@ -40,6 +40,13 @@ function getPageNumbers(current: number, last: number): (number | 'ellipsis')[] 
   return result;
 }
 
+const cardDateFormatter = new Intl.DateTimeFormat('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+  timeZone: 'UTC',
+});
+
 const sampleSymbols = page.data
   .slice(0, 3)
   .map((entry) => entry.data.symbol)
@@ -95,10 +102,15 @@ const listSchema = buildListSchema({
         </a>
         <p class="dream-excerpt">{entry.data.description}</p>
         <p><span>Category: </span>{entry.data.category}</p>
-        <div class="read-more">
-          <a href={`/dream/${entry.slug}/`} class="read-more-link">
-          Read more about {entry.data.symbol} →
-                </a>
+        <div class="dream-item-footer">
+          <time class="dream-date" datetime={entry.data.pubDate.toISOString().slice(0, 10)}>
+           <span>Published</span> {cardDateFormatter.format(entry.data.pubDate)}
+          </time>
+          <div class="read-more">
+            <a href={`/dream/${entry.slug}/`} class="read-more-link">
+            Read more about {entry.data.symbol} →
+                  </a>
+          </div>
         </div>
       </li>
     ))}
