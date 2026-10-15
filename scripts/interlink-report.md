@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-14T14:53:49.484Z
+Generated: 2026-10-15T14:31:55.493Z
 
-42 suggestion(s) across 24 article(s). Nothing has been changed — apply these manually.
+40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -33,16 +33,6 @@ Generated: 2026-10-14T14:53:49.484Z
 
 - Line 6: link **"maze"** -> `/dream/maze/`
   > A cozy, well-lit home with solid walls usually points to stability, self-acceptance, and a sense of balance. But a creaky, dark, or maze-like house? That's often a sign of internal conflict, feeling overwhelmed, or going through a major life shift where you don't quite recognize yourself anymore. Your dream is basically holding up a snapshot of your inner state - no renovation crew required.
-
----
-
-## job interview  (`job-interview.md`)
-
-- Line 26: link **"school"** -> `/dream/school/`
-  > Showing up without your resume, late, or without the knowledge you need is one of the most common anxiety-dream patterns. Research on anxiety dreams, including Schredl's work on exam and school dreams, has found that being unprepared is a frequent theme, appearing across many people's dream reports. In an interview context, it can reflect the sense that a new demand has arrived faster than you feel ready for. It may also point to holding yourself to standards that are hard to meet.
-
-- Line 34: link **"mirror"** -> `/dream/mirror/`
-  > A hostile or silent panel is often read as an inner critic, the part of you that is hardest on your efforts. It can also mirror a real person in your life who judges harshly, such as a manager, a parent, or a partner. The useful question is whether the standard in the dream is one you actually agree with.
 
 ---
 
