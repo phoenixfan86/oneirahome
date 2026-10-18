@@ -115,7 +115,7 @@ If guilt lingers, try a simple step: write down what the dream felt like, and th
 
 ## Sleep-Related Sexual Behavior: When to See a Doctor
 
-Rarely, people act out sexual behaviors during sleep. This is a recognized sleep disorder, sometimes called sexsomnia, and it is a different experience from dreaming. People who wake up with evidence of sexual activity they do not remember, or who have concerns about sexual behavior during sleep, should talk to a doctor or a sleep specialist. Our <a href="/resources/">support resources page</a> lists places to start.
+Rarely, people act out sexual behaviors during sleep. This is a recognized sleep disorder, sometimes called sexsomnia, and it is a different experience from dreaming. People who wake up with evidence of sexual activity they do not remember, or who have concerns about sexual behavior during sleep, should talk to a doctor or a sleep specialist. Our support resources page lists places to start.
 
 ## Questions to Reflect On
 
