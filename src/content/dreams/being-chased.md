@@ -37,7 +37,7 @@ The specifics of your chase scene can tell you a lot about what's actually buggi
 
 - **Moving in Slow Motion or Feeling Paralyzed** - You know that awful feeling when your legs turn to lead, and you're trying to run but going nowhere? That usually screams "I feel stuck" in real life. Like you've got a problem, but no clue how to handle it, and it's draining you.
 
-- **An Animal Attacker** - Getting chased by a wild beast - [wolf](/dream/wolf/), [bear](/dream/bear), [snake](/dream/snake/), whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
+- **An Animal Attacker** - Getting chased by a wild beast - [wolf](/dream/wolf/), [bear](/dream/bear/), [snake](/dream/snake/), whatever - is almost always about raw, primal emotions. Suppressed anger, terror, or intense desire that you've been shoving down, and now it's busting out through your dreams because you keep ignoring it.
 
 ---
 

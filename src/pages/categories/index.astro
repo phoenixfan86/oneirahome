@@ -16,15 +16,11 @@ const categories = Object.entries(categoryCounts).sort(
   (a, b) => b[1] - a[1]
 ) as [string, number][];
 
-// const allCategories = Array.from(
-//   new Set(allDreams.flatMap((entry: CollectionEntry<'dreams'>) => entry.data.category))
-// ).sort((a: string, b: string) => a.localeCompare(b));
-
 const pageTitle = `${categories.length} Dream Categories | Oneira Home`;
 const pageDescription = `Browse dream meanings by category - animals, people, places, emotions, and more. ${categories.length} categories covered so far.`;
 ---
 <BaseLayout title={pageTitle} description={pageDescription}>
-  <h1>Browse by Category</h1>
+  <h1>Browse by Category | Oneira Home</h1>
   <p>{categories.length} categories covered so far — pick one to see dream meanings that fall under it.</p>
 
   <ul class="cat-grid">

@@ -694,7 +694,11 @@ article h3 {
 	border-radius: var(--radius-sm);
 	padding: 0.5rem 0.7rem;
 }
-
+.category-intro {
+	color: var(--color-text-muted);
+	max-width: 65ch;
+	margin-bottom: 2rem;
+}
 .roundup-list {
 	counter-reset: roundup;
 }

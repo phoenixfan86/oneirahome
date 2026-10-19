@@ -61,6 +61,50 @@ function getPageNumbers(current: number, last: number): (number | 'ellipsis')[] 
   return result;
 }
 
+const categoryCopy: Record<string, { h1: string; intro: string }> = {
+  animals: {
+    h1: 'Dream Animals: What Animal Dreams Mean',
+    intro: 'Animals in dreams often stand for instincts, emotions, and parts of yourself you rarely name. This section gathers meanings for animals, from everyday pets like dogs and cats to wild creatures such as bears, wolves, and snakes.',
+  },
+  people: {
+    h1: 'Dreams About People: Family, Exes and Strangers',
+    intro: 'People in dreams often represent relationships, roles, or qualities you associate with them. Here you will find meanings for dreams about exes, strangers, babies, deceased parents, and other figures from waking life.',
+  },
+  places: {
+    h1: 'Dream Places: Houses, Schools, Forests and More',
+    intro: 'Places in dreams often reflect the parts of life they belong to: home, work, study, or the wider world. This section covers dreams about houses, schools, forests, bridges, and other locations.',
+  },
+  objects: {
+    h1: 'Dream Objects: Keys, Doors, Mirrors and Everyday Items',
+    intro: 'Objects in dreams often act as tools for a situation or a symbol of what you value. Find meanings for keys, doors, mirrors, money, clocks, and other everyday things that show up while you sleep.',
+  },
+  emotions: {
+    h1: 'Emotions in Dreams: Crying, Laughter and Feelings',
+    intro: 'Dreams often show feelings more clearly than events. This section covers dreams where emotional states, such as crying or laughing, are the central experience.',
+  },
+  body: {
+    h1: 'Body Dreams: Teeth, Hair, Pregnancy and Blood',
+    intro: 'Dreams about the body often reflect how you feel about your health, identity, or capacity to cope. This section covers common body-related dreams, from teeth falling out to pregnancy and giving birth.',
+  },
+  nature: {
+    h1: 'Nature Dreams: Water, Fire, Storms and Natural Forces',
+    intro: 'Natural elements in dreams often reflect emotion, change, and forces you cannot fully control. Explore meanings for water, fire, floods, storms, mountains, and other elements from the natural world.',
+  },
+  events: {
+    h1: 'Event Dreams: Falling, Being Chased and Life Moments',
+    intro: 'Dreams about events often mirror situations you are living through: a fall, a chase, an exam, a wedding, or a loss. This section covers the most common event scenarios and what they may suggest.',
+  },
+  other: {
+    h1: 'Other Dreams: Monsters, Time Travel and Surreal Scenes',
+    intro: 'Some dreams do not fit a simple category. This section covers unusual scenarios such as monsters, demons, time travel, and surreal experiences, and what they may reflect.',
+  },
+};
+
+const copy = categoryCopy[category] ?? {
+  h1: `${capitalize(category)} Dream Meanings`,
+  intro: '',
+};
+
 const pageNumbers = getPageNumbers(page.currentPage, page.lastPage);
 const basePath = Astro.url.pathname.replace(/\/\d+\/?$/, '').replace(/\/$/, '');
 
@@ -73,8 +117,12 @@ const listSchema = buildListSchema({
 });
 ---
 <BaseLayout title={pageTitle} description={pageDescription} schema={listSchema}>
-  <h1>Category: {category}</h1>
-
+  <h1>
+    {page.currentPage === 1 ? copy.h1 : `${copy.h1} — Page ${page.currentPage}`}
+  </h1>
+    {page.currentPage === 1 && copy.intro && (
+      <p class="category-intro">{copy.intro}</p>
+    )}
   <ul class="dream-list">
     {page.data.map((entry) => (
       <li>

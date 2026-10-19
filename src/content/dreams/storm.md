@@ -25,7 +25,7 @@ You're in the middle of a dream, and suddenly the sky turns dark. The wind picks
 
 Here's the thing: storms in dreams are almost never about the weather. They're about **emotions** - big ones. Anger, grief, passion, stress - the kind of feelings that have been building up under the surface for a while, waiting for a release. Just like a real storm needs pressure to break, your mind uses this imagery to say: *"Something's been brewing, and it's time to let it out."*
 
-And here's the silver lining: storms also clear the air. After the thunder and [rain](/dream/rain) pass, things feel fresher, calmer, lighter. So while a storm dream can feel unsettling, it often means you're working through something messy - and that clarity and peace are waiting on the other side.
+And here's the silver lining: storms also clear the air. After the thunder and [rain](/dream/rain/) pass, things feel fresher, calmer, lighter. So while a storm dream can feel unsettling, it often means you're working through something messy - and that clarity and peace are waiting on the other side.
 
 ## Different Storm Scenarios, Different Meanings
 

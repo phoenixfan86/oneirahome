@@ -21,7 +21,7 @@ qcIssues: []
 
 ## What Turtle Dreams Really Mean
 
-Turtle dreams are different. Unlike those scary dreams where you're [falling](/dream/falling) or someone's chasing you, a turtle dream usually leaves you feeling calm and thoughtful. Turtles aren't about chaos - they're about patience, safety, and taking things at your own speed. When one shows up in your sleep, your brain is trying to tell you something important.
+Turtle dreams are different. Unlike those scary dreams where you're [falling](/dream/falling/) or someone's chasing you, a turtle dream usually leaves you feeling calm and thoughtful. Turtles aren't about chaos - they're about patience, safety, and taking things at your own speed. When one shows up in your sleep, your brain is trying to tell you something important.
 
 ## Protection and Setting Boundaries
 

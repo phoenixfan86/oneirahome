@@ -146,7 +146,7 @@ schema={faqSchema ? [articleSchema, breadcrumbSchema, faqSchema] : [articleSchem
     </div>
     
     <p class="dream-meta">
-      Category: <a href={`/categories/${entry.data.category}`}>{entry.data.category}</a>
+      Category: <a href={`/categories/${entry.data.category}/`}>{entry.data.category}</a>
       {entry.data.tags.length > 0 && (
         <span>
           {' · '}
