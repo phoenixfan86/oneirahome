@@ -1,7 +1,30 @@
 # Internal Linking Suggestions
-Generated: 2026-10-15T14:31:55.493Z
+Generated: 2026-10-21T15:39:07.010Z
 
-40 suggestion(s) across 23 article(s). Nothing has been changed — apply these manually.
+47 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
+
+---
+
+## being buried alive  (`being-buried-alive.md`)
+
+- Line 48: link **"Being trapped"** -> `/dream/being-trapped/`
+  > Depth psychology interprets the earth as the realm of the unconscious. Being trapped beneath it implies that buried emotions-such as long-held anger, grief, or denied desires-are overwhelming your conscious mind. When you suppress fundamental feelings for too long, they can manifest as stifling subterranean pressure in your night visions.
+
+---
+
+## being trapped  (`being-trapped.md`)
+
+- Line 10: link **"maze"** -> `/dream/maze/`
+  > Variations such as being locked in a small room, trapped in a vehicle, or stuck in a maze spotlight specific emotional pressures. Each distinct setting mirrors a different source of waking helplessness.
+
+- Line 13: link **"Elevator"** -> `/dream/elevator/`
+  > * **Trapped in an Elevator or Sinking Vehicle:** Mechanical confinement scenarios commonly align with feelings of rapid, uncontrollable life transitions. An elevator stuck between floors or a car submerged in water can reflect anxieties about losing control over your direction, career trajectory, or emotional equilibrium.
+
+- Line 13: link **"water"** -> `/dream/water/`
+  > * **Trapped in an Elevator or Sinking Vehicle:** Mechanical confinement scenarios commonly align with feelings of rapid, uncontrollable life transitions. An elevator stuck between floors or a car submerged in water can reflect anxieties about losing control over your direction, career trajectory, or emotional equilibrium.
+
+- Line 15: link **"sleep paralysis"** -> `/dream/sleep-paralysis/`
+  > * **Physically Immobilized or Held Down:** Being unable to move your limbs while conscious in a dream often connects to sleep paralysis physiology, but psychologically it underscores an acute waking sense of utter powerlessness against a looming problem.
 
 ---
 
@@ -12,6 +35,13 @@ Generated: 2026-10-15T14:31:55.493Z
 
 - Line 30: link **"drowning"** -> `/dream/drowning/`
   > Psychologists also see clocks as a symbol of the **super-ego**-that internal critic in your head that's always nagging you about rules, duties, and being punctual. If the clock in your dream causes panic, it means external demands are drowning out your inner peace. But if the clock feels calm and harmonious? That's a sign you're actually comfortable with where you are in life and how you're spending your time.
+
+---
+
+## earthquake  (`earthquake.md`)
+
+- Line 14: link **"Being trapped"** -> `/dream/being-trapped/`
+  > - **Being trapped beneath rubble**: Feeling pinned down or unable to move after the ground stops shaking? That's a heavy one. This scenario often reflects **feelings of helplessness** in your waking hours. It might point to a situation where sudden changes have left you overwhelmed or restricted. Consider whether you need to reach out for support or systematically shed some heavy obligations.
 
 ---
 
@@ -44,6 +74,9 @@ Generated: 2026-10-15T14:31:55.493Z
 ---
 
 ## prison  (`prison.md`)
+
+- Line 10: link **"Being trapped"** -> `/dream/being-trapped/`
+  > - **Being trapped inside a cell:** You're locked in a small, sparse space, and there's no way out. This one usually points to isolation or emotional paralysis. You might feel like your choices are severely limited, or like you're paying the price for something you did in the past. It often shows up during periods of intense self-doubt or when personal growth has hit a wall.
 
 - Line 20: link **"door"** -> `/dream/door/`
   > Carl Jung saw structures of restraint - like prisons - as symbols of the tension between your conscious mind (the ego) and your repressed self (the shadow). The cell represents parts of you that have been locked away because of shame, societal conditioning, or fear. The dream is asking you to open that door and look inside.
