@@ -29,11 +29,15 @@ const categories = Object.entries(categoryCounts).sort(
     </section>
     <section class="sidebar-section">
       <h2>Categories</h2>
-      <ul class="sidebar-list">
+      <ul class="category-grid">
         {categories.map(([category, count]) => (
           <li>
-            <a href={`/categories/${category}/`}>
-              {category} <span class="count">{count}</span>
+            <a href={`/categories/${category}/`} class="category-chip">
+              <div class="category-img">
+                <img src={`/img/icons/${category}.webp`} alt="" width="128" height="128" loading="lazy" />
+                <span class="category-name">{category}</span>
+                <span class="count-badge">{count}</span>
+              </div>
             </a>
           </li>
         ))}
