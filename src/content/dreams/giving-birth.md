@@ -29,7 +29,7 @@ There's something undeniably intense about dreaming you're giving birth. You wak
 Here's the deal: childbirth in dreams is almost never about actual babies or a literal desire to get pregnant. What it *is* about is creation, transformation, and something new trying to break through in your life. Your brain is using one of the most visceral metaphors it has to talk about bringing something *you've* been nurturing into the real world - a creative project, a major life change, a side hustle, or even a new version of yourself.
 
 ## A Smooth, Painless Birth Dream
-
+![What does a dream about smooth painless birth symbolize?](/img/dreams-about-smooth-painless-birth.webp)
 If the whole thing goes off without a hitch - no pain, no drama, just a warm and fuzzy moment - take it as a green light. It usually means something in your waking life is clicking into place naturally. A project is flowing, a goal feels within reach, or you're handling a transition with way more grace than you're giving yourself credit for.
 
 ## A Painful or Difficult Birth Dream
@@ -41,7 +41,7 @@ This one's more common and definitely more stressful. A long, painful delivery u
 Sometimes it's not a [baby](/dream/baby/) at all - it's a [cat](/dream/cat/), a weird object, or something completely abstract. This one usually reflects uncertainty about what you're actually creating. Maybe you started a project with one idea in mind, and it's turning into something totally different. Or maybe you're not sure if what you're nurturing is even going to look like you expected.
 
 ## Helping Someone Else Give Birth in a Dream
-
+![What does a dream about helping someone else give birth symbolize?](/img/dream-about-helping-someone-else-give-birth.webp)
 If you're playing the role of coach or support system, this one's about your role in *other* people's growth. You might be mentoring a colleague, guiding a friend through a tough transition, or just being a solid presence for someone who's in the middle of their own messy evolution.
 
 ## The Spiritual Meaning of Giving Birth in a Dream
