@@ -367,6 +367,8 @@ article img {
 	display: block;
 	width: 70%;
 	margin: 0 auto;
+	border-radius: var(--radius-sm);
+	box-shadow: 0 0 8px var(--color-text-muted);
 }
 
 .listen-btn {

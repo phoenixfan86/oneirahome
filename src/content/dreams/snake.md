@@ -29,6 +29,7 @@ Snakes are among the most common - and most emotionally loaded - dream symbols. 
 Across most interpretive traditions, a snake represents transformation, hidden fears, or an issue you've been avoiding. Because snakes shed their skin, they're closely tied to ideas of renewal - the dream may be nudging you toward a change you've been putting off.
 
 ## Snake Bite Dream Meaning
+![What does a dream about a snake bite symbolize?](/img/dreams-about-bite-snake.webp)
 
 Being bitten is one of the most common snake dream scenarios, and it usually reflects feeling caught off guard - [betrayed by someone of friends](/dream/being-betrayed-by-a-friend/), or blindsided by a situation you didn't see coming. Where the bite lands can add nuance: a bite on the hand may point to something affecting your actions or decisions, while a bite closer to the chest can suggest something that's hit you emotionally. A painful, alarming bite tends to [mirror](/dream/mirror/) real distress about the situation; a bite that barely registers may suggest the "betrayal" is smaller than it feels in the moment.
 
@@ -37,7 +38,7 @@ Being bitten is one of the most common snake dream scenarios, and it usually ref
 [Being chased](/dream/being-chased/) points to an unresolved conflict or problem you're avoiding rather than confronting directly. Unlike a bite, which reflects something that's already happened, a chase reflects something still in motion - a decision or confrontation you keep putting off. How the dream ends often matters: escaping the snake can suggest you're finding ways to avoid dealing with the issue (at least for now), while getting caught may reflect a sense that avoidance isn't working anymore.
 
 ## Dream About a Black Snake
-
+![What does a dream about a black snake symbolize?](/img/dreams-about-black-snake.webp)
 Black snakes are often tied to the unknown - something hidden, repressed, or not yet fully understood, rather than something automatically negative. Depending on how the snake behaves in the dream, a black snake can represent a fear you haven't looked at directly, or, less commonly, a kind of quiet personal power that hasn't been acknowledged yet. The snake's behavior (threatening vs. calm) tends to matter more than the color itself.
 
 ## Dream About Killing a Snake
