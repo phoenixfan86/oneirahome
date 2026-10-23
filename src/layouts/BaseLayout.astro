@@ -37,6 +37,22 @@ const websiteSchema = {
     'https://www.pinterest.com/oneirahome',
   ],
 };
+const siteHome = new URL('/', Astro.site).href;
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${siteHome}#organization`,
+  name: 'Oneira Home',
+  url: siteHome,
+  logo: `${siteHome}img/moon.png`,
+  sameAs: [
+    'https://x.com/Oneirahome',
+    'https://www.tumblr.com/oneirahome',
+    'https://www.quora.com/profile/OneiraHome',
+    'https://agocurrus506797.substack.com',
+    'https://www.pinterest.com/oneirahome',
+  ],
+};
 
 const totalDreams = await getDreamCount();
 ---
@@ -76,6 +92,7 @@ const totalDreams = await getDreamCount();
 
     <script src="https://analytics.ahrefs.com/analytics.js" data-key="f7IrqYJ95PfVavfoyJRmsg" async></script>
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     {schemaList.map((item) => (
       <script type="application/ld+json" set:html={JSON.stringify(item)} />
     ))}
