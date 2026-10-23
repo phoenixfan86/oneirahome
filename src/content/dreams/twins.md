@@ -2,7 +2,7 @@
 title: "Dream About Twins: Meaning & Interpretation"
 symbol: "twins"
 description: "Learn what seeing or having twins in your sleep signifies regarding balance, duality, conflicting choices, and hidden potential."
-img: "/img/twins.webp"
+img: "/img/dreams-about-twins.webp"
 category: "people"
 tags: ["duality", "balance", "conflicting-choices", "hidden-potential"]
 faq:

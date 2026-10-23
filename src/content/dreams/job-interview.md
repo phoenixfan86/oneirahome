@@ -2,7 +2,7 @@
 title: "Dreaming About a Job Interview? Self-Worth and Being Judged"
 symbol: "job interview"
 description: "Dreaming about a job interview? Learn what the scenario may say about self-worth, performance anxiety, and being judged, from being unprepared to impressing everyone."
-img: "/img/job-interview.webp"
+img: "/img/dreams-about-job-interview.webp"
 category: "events"
 tags: ["self-worth", "performance-anxiety", "evaluation", "impostor-syndrome", "career"]
 faq:

@@ -3,7 +3,7 @@ title: "Dream About Drowning: Meaning & Interpretation"
 h1: "Drowning Dream Meaning: Interpretation and Symbolism"
 symbol: "drowning"
 description: "What does it mean to dream about drowning? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/drowning.webp"
+img: "/img/dreams-about-drowning.webp"
 category: "events"
 tags: ["overwhelmed", "emotions", "helplessness", "stress"]
 faq:

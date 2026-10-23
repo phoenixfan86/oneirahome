@@ -2,7 +2,7 @@
 title: "Dream About Ocean: Meaning & Interpretation"
 symbol: "ocean"
 description: "Uncover the meaning of ocean dreams, exploring themes of the deep subconscious, vast emotional states, and personal discovery."
-img: "/img/ocean.webp"
+img: "/img/dreams-about-ocean.webp"
 category: "nature"
 tags: ["subconscious", "emotions", "discovery", "depth"]
 faq:

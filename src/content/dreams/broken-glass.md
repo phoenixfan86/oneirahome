@@ -2,7 +2,7 @@
 title: "Broken Glass: Dream Meaning: What Does It Mean?"
 symbol: "broken glass"
 description: "Explore the psychological and symbolic meanings of broken glass in dreams, including common scenarios and emotional interpretations."
-img: "/img/broken-glass.webp"
+img: "/img/dreams-about-broken-glass.webp"
 category: "objects"
 tags: ["vulnerability", "emotional-pain", "conflict", "change"]
 faq:

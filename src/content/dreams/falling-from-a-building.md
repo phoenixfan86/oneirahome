@@ -2,7 +2,7 @@
 title: "Falling From a Building in a Dream: Meaning & Causes"
 symbol: "falling from a building"
 description: "Dreaming of falling from a building? Learn what it may mean, why you often wake up before hitting the ground, and how falling dreams link to stress and control."
-img: "/img/falling-from-a-building.webp"
+img: "/img/dreams-about-falling-from-a-building.webp"
 category: "events"
 tags: ["falling", "loss-of-control", "anxiety", "imposter-syndrome", "career-pressure"]
 faq:

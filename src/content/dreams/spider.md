@@ -2,7 +2,7 @@
 title: "Spider Dream Meaning: What Does It Mean?"
 symbol: "spider"
 description: "What does it mean to dream about spider? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/spider.webp"
+img: "/img/dreams-about-spider.webp"
 category: "animals"
 tags: ["fear", "creativity", "control", "trapped"]
 faq:

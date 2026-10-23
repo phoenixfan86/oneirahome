@@ -2,7 +2,7 @@
 title: "Dreaming About a Door? Here's What It's Trying to Tell You"
 symbol: "door"
 description: "From a locked door to one that opens by itself, here's what the door in your dream may reflect about the choices, boundaries, and transitions in your life right now."
-img: "/img/door.webp"
+img: "/img/dreams-about-door.webp"
 category: "objects"
 tags: ["transitions", "opportunities", "boundaries", "choices"]
 faq:

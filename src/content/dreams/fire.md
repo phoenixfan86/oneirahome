@@ -2,7 +2,7 @@
 title: "Dreaming About Fire? Here's What It's Really Igniting"
 symbol: "fire"
 description: "From a burning house to fireworks and fire you can't put out — here's what every common fire dream scenario may reflect about your emotional state right now."
-img: "/img/fire.webp"
+img: "/img/dreams-about-fire.webp"
 category: "nature"
 tags: ["passion", "destruction", "transformation", "anger"]
 faq:

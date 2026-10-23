@@ -2,7 +2,7 @@
 title: "Dream About Money: Meaning & Interpretation"
 symbol: "money"
 description: "What does it mean to dream about money? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/money.webp"
+img: "/img/dreams-about-money.webp"
 category: "objects"
 tags: ["finances", "self-worth", "security", "power"]
 faq:

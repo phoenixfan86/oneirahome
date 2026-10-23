@@ -2,7 +2,7 @@
 title: "Dream About Shark: What Does It Mean?"
 symbol: "shark"
 description: "Uncover the subconscious meaning of sharks in sleep visions, exploring emotional vulnerability, deep-seated anxieties, and power dynamics."
-img: "/img/shark.webp"
+img: "/img/dreams-about-shark.webp"
 category: "animals"
 tags: ["vulnerability", "anxiety", "power-dynamics", "fear"]
 faq:

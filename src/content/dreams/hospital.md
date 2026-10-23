@@ -2,7 +2,7 @@
 title: "Dream About Hospital: Meaning & Interpretation"
 symbol: "hospital"
 description: "Discover the emotional and psychological meanings behind appearing in a hospital setting during sleep and what it reveals about your inner healing."
-img: "/img/hospital.webp"
+img: "/img/dreams-about-hospital.webp"
 category: "places"
 tags: ["healing", "recovery", "health", "vulnerability"]
 faq:

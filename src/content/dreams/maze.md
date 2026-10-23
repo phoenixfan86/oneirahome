@@ -3,7 +3,7 @@ title: "Dream About Maze: Meaning & Interpretation"
 symbol: "maze"
 description: "Uncover the symbolic meaning of navigating a maze, highlighting feelings of confusion, choices, and personal growth."
 category: "places"
-img: "/img/maze.webp"
+img: "/img/dreams-about-maze.webp"
 tags: ["confusion", "choices", "personal-growth", "navigation"]
 faq:
   - question: "What does it mean to dream about a maze?"

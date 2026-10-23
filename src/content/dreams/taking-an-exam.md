@@ -2,7 +2,7 @@
 title: "Dream About Taking an Exam: Meaning & Interpretation"
 symbol: "taking an exam"
 description: "Explore what it means when you face an academic test during sleep, including themes of unpreparedness, stress, and internal self-evaluation."
-img: "/img/taking-an-exam.webp"
+img: "/img/dreams-about-taking-an-exam.webp"
 category: "events"
 tags: ["stress", "unpreparedness", "self-evaluation", "anxiety"]
 faq:

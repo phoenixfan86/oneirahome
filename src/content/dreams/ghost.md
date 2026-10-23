@@ -2,7 +2,7 @@
 title: "Dream About Ghost: Meaning & Interpretation"
 symbol: "ghost"
 description: "Discover the psychological and symbolic meanings behind encountering a ghost in your sleep, from unresolved past issues to hidden emotions."
-img: "/img/ghost.webp"
+img: "/img/dreams-about-ghost.webp"
 category: "people"
 tags: ["past", "unresolved-issues", "memory", "fear"]
 faq:

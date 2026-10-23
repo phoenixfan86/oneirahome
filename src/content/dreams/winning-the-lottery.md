@@ -2,7 +2,7 @@
 title: "Dream About Winning the Lottery: Meaning & Interpretation"
 symbol: "winning the lottery"
 description: "Uncover the symbolic depth of winning the lottery in dreams, representing unexpected personal growth, validation, or emotional abundance."
-img: "/img/winning-the-lottery.webp"
+img: "/img/dreams-about-winning-the-lottery.webp"
 category: "events"
 tags: ["abundance", "personal-growth", "validation", "fortune"]
 faq:

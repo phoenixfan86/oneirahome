@@ -2,7 +2,7 @@
 title: "What is the meaning of a haunted house in a dream?"
 symbol: "haunted house"
 description: "Explore what a haunted house setting signifies in your subconscious mind, from unresolved memories to buried emotional baggage."
-img: "/img/haunted-house.webp"
+img: "/img/dreams-about-haunted-house.webp"
 category: "places"
 tags: ["unresolved-memories", "fear", "emotional-baggage", "past"]
 faq:

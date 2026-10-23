@@ -2,7 +2,7 @@
 title: "Dream About Rain: Meaning & Interpretation"
 symbol: "rain"
 description: "Discover the psychological meaning and emotional symbolism behind rain in your subconscious nightscape."
-img: "/img/rain.webp"
+img: "/img/dreams-about-rain.webp"
 category: "nature"
 tags: ["emotions", "cleansing", "subconscious", "release"]
 faq:

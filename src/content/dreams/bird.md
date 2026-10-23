@@ -2,7 +2,7 @@
 title: "Dream About Bird: Meaning & Interpretation"
 symbol: "bird"
 description: "Explore the symbolic meaning of birds in dreams, representing freedom, higher perspectives, spiritual expression, and personal transformation."
-img: "/img/bird.webp"
+img: "/img/dreams-about-bird.webp"
 category: "animals"
 tags: ["freedom", "spirituality", "transformation", "perspective"]
 faq:

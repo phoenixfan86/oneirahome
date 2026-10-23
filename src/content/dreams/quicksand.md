@@ -2,7 +2,7 @@
 title: "Quicksand Dream Meaning: What Does It Mean?"
 symbol: "quicksand"
 description: "Discover the psychological meaning of quicksand in dreams, including common scenarios, symbolism of instability, and paths to finding solid ground."
-img: "/img/quicksand.webp"
+img: "/img/dreams-about-quicksand.webp"
 category: "nature"
 tags: ["instability", "helplessness", "grounding", "stuck"]
 faq:

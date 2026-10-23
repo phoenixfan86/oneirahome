@@ -2,7 +2,7 @@
 title: "Dream About Earthquake: Meaning & Interpretation"
 symbol: "earthquake"
 description: "Discover what an earthquake in your dreams signifies regarding life changes, unstable foundations, and internal transformation."
-img: "/img/earthqake.webp"
+img: "/img/dreams-about-earthqake.webp"
 category: "nature"
 tags: ["instability", "transformation", "life-changes", "chaos"]
 faq:

@@ -2,7 +2,7 @@
 title: "Dreaming About Your Ex? Meaning of Common Ex Dream Scenarios"
 symbol: "ex"
 description: "Dreaming about your ex or getting back together? Learn what ex dreams may mean, from an ex getting married to seeing them with someone else, and what research says about how common they are."
-img: "/img/ex.webp"
+img: "/img/dreams-about-ex.webp"
 category: "people"
 tags: ["past", "relationships", "unresolved-feelings", "nostalgia", "jealousy", "reconciliation"]
 faq:

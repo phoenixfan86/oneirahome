@@ -2,7 +2,7 @@
 title: "Dream About Cave: Meaning & Interpretation"
 symbol: "cave"
 description: "Explore what entering, exploring, or hiding in a cave reveals about your subconscious mind and hidden personal potential."
-img: "/img/cave.webp"
+img: "/img/dreams-about-cave.webp"
 category: "places"
 tags: ["subconscious", "potential", "exploration", "hiding"]
 faq:

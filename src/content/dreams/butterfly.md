@@ -2,7 +2,7 @@
 title: "Dream About Butterfly: Meaning & Interpretation"
 symbol: "butterfly"
 description: "Discover the symbolic meaning of butterflies in night visions, from personal growth and transformation to emotional independence and life transitions."
-img: "/img/butterfly.webp"
+img: "/img/dreams-about-butterfly.webp"
 category: "animals"
 tags: ["growth", "transformation", "independence", "transitions"]
 faq:

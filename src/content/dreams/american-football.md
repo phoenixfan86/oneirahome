@@ -2,7 +2,7 @@
 title: "Dreaming About Playing American Football? Here's What It Means"
 symbol: "american football"
 description: "Whether you scored the winning touchdown or fumbled at the worst moment, dreams about American football usually reflect how you're handling competition and pressure in waking life."
-img: "/img/american-football.webp"
+img: "/img/dreams-about-american-football.webp"
 category: "events"
 tags: ["competition", "achievement", "preparedness", "teamwork", "performance-anxiety"]
 faq:

@@ -6,8 +6,1020 @@
       "destination": "/",
       "permanent": true
     },
-    { "source": "/dreams/", "destination": "/", "permanent": true },
-    { "source": "/dreams/:page/", "destination": "/:page/", "permanent": true },
-    { "source": "/img/snake.webp", "destination": "/img/dreams-about-snake.webp", "statusCode": 301 }
+    {
+      "source": "/dreams/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/dreams/:page/",
+      "destination": "/:page/",
+      "permanent": true
+    },
+    {
+      "source": "/img/snake.webp",
+      "destination": "/img/dreams-about-snake.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/airplane.webp",
+      "destination": "/img/dreams-about-airplane.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/airplane-thumb.webp",
+      "destination": "/img/dreams-about-airplane-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/american-football.webp",
+      "destination": "/img/dreams-about-american-football.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/american-football-thumb.webp",
+      "destination": "/img/dreams-about-american-football-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/angel.webp",
+      "destination": "/img/dreams-about-angel.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/angel-thumb.webp",
+      "destination": "/img/dreams-about-angel-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/baby.webp",
+      "destination": "/img/dreams-about-baby.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/baby-thumb.webp",
+      "destination": "/img/dreams-about-baby-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bear.webp",
+      "destination": "/img/dreams-about-bear.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bear-thumb.webp",
+      "destination": "/img/dreams-about-bear-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bees.webp",
+      "destination": "/img/dreams-about-bees.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bees-thumb.webp",
+      "destination": "/img/dreams-about-bees-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/beingbetrayed.webp",
+      "destination": "/img/dreams-about-beingbetrayed.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/beingbetrayed-thumb.webp",
+      "destination": "/img/dreams-about-beingbetrayed-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/buried-alive.webp",
+      "destination": "/img/dreams-about-buried-alive.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/buried-alive-thumb.webp",
+      "destination": "/img/dreams-about-buried-alive-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-chased.webp",
+      "destination": "/img/dreams-about-being-chased.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-chased-thumb.webp",
+      "destination": "/img/dreams-about-being-chased-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-late.webp",
+      "destination": "/img/dreams-about-being-late.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-late-thumb.webp",
+      "destination": "/img/dreams-about-being-late-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-trapped.webp",
+      "destination": "/img/dreams-about-being-trapped.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/being-trapped-thumb.webp",
+      "destination": "/img/dreams-about-being-trapped-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bird.webp",
+      "destination": "/img/dreams-about-bird.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bird-thumb.webp",
+      "destination": "/img/dreams-about-bird-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/blood.webp",
+      "destination": "/img/dreams-about-blood.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/blood-thumb.webp",
+      "destination": "/img/dreams-about-blood-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bridge.webp",
+      "destination": "/img/dreams-about-bridge.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/bridge-thumb.webp",
+      "destination": "/img/dreams-about-bridge-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/broken-glass.webp",
+      "destination": "/img/dreams-about-broken-glass.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/broken-glass-thumb.webp",
+      "destination": "/img/dreams-about-broken-glass-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/butterfly.webp",
+      "destination": "/img/dreams-about-butterfly.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/butterfly-thumb.webp",
+      "destination": "/img/dreams-about-butterfly-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/car-accident.webp",
+      "destination": "/img/dreams-about-car-accident.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/car-accident-thumb.webp",
+      "destination": "/img/dreams-about-car-accident-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cat.webp",
+      "destination": "/img/dreams-about-cat.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cat-thumb.webp",
+      "destination": "/img/dreams-about-cat-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cave.webp",
+      "destination": "/img/dreams-about-cave.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cave-thumb.webp",
+      "destination": "/img/dreams-about-cave-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/celebrity.webp",
+      "destination": "/img/dreams-about-celebrity.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/celebrity-thumb.webp",
+      "destination": "/img/dreams-about-celebrity-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cheating-partner.webp",
+      "destination": "/img/dreams-about-cheating-partner.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cheating-partner-thumb.webp",
+      "destination": "/img/dreams-about-cheating-partner-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/clock.webp",
+      "destination": "/img/dreams-about-clock.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/clock-thumb.webp",
+      "destination": "/img/dreams-about-clock-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cockroach.webp",
+      "destination": "/img/dreams-about-cockroach.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/cockroach-thumb.webp",
+      "destination": "/img/dreams-about-cockroach-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/crying.webp",
+      "destination": "/img/dreams-about-crying.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/crying-thumb.webp",
+      "destination": "/img/dreams-about-crying-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/dancing.webp",
+      "destination": "/img/dreams-about-dancing.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/dancing-thumb.webp",
+      "destination": "/img/dreams-about-dancing-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/death.webp",
+      "destination": "/img/dreams-about-death.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/death-thumb.webp",
+      "destination": "/img/dreams-about-death-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/deceased-parent.webp",
+      "destination": "/img/dreams-about-deceased-parent.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/deceased-parent-thumb.webp",
+      "destination": "/img/dreams-about-deceased-parent-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/demon.webp",
+      "destination": "/img/dreams-about-demon.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/demon-thumb.webp",
+      "destination": "/img/dreams-about-demon-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/desert.webp",
+      "destination": "/img/dreams-about-desert.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/desert-thumb.webp",
+      "destination": "/img/dreams-about-desert-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/dog.webp",
+      "destination": "/img/dreams-about-dog.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/dog-thumb.webp",
+      "destination": "/img/dreams-about-dog-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/door.webp",
+      "destination": "/img/dreams-about-door.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/door-thumb.webp",
+      "destination": "/img/dreams-about-door-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/drowning.webp",
+      "destination": "/img/dreams-about-drowning.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/drowning-thumb.webp",
+      "destination": "/img/dreams-about-drowning-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/earthqake.webp",
+      "destination": "/img/dreams-about-earthqake.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/earthqake-thumb.webp",
+      "destination": "/img/dreams-about-earthqake-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/elevator.webp",
+      "destination": "/img/dreams-about-elevator.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/elevator-thumb.webp",
+      "destination": "/img/dreams-about-elevator-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ex.webp",
+      "destination": "/img/dreams-about-ex.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ex-thumb.webp",
+      "destination": "/img/dreams-about-ex-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/falling-from-a-building.webp",
+      "destination": "/img/dreams-about-falling-from-a-building.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/falling-from-a-building-thumb.webp",
+      "destination": "/img/dreams-about-falling-from-a-building-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/falling.webp",
+      "destination": "/img/dreams-about-falling.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/falling-thumb.webp",
+      "destination": "/img/dreams-about-falling-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/fire.webp",
+      "destination": "/img/dreams-about-fire.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/fire-thumb.webp",
+      "destination": "/img/dreams-about-fire-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/fish.webp",
+      "destination": "/img/dreams-about-fish.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/fish-thumb.webp",
+      "destination": "/img/dreams-about-fish-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flat-tire.webp",
+      "destination": "/img/dreams-about-flat-tire.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flat-tire-thumb.webp",
+      "destination": "/img/dreams-about-flat-tire-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flood.webp",
+      "destination": "/img/dreams-about-flood.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flood-thumb.webp",
+      "destination": "/img/dreams-about-flood-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flying.webp",
+      "destination": "/img/dreams-about-flying.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/flying-thumb.webp",
+      "destination": "/img/dreams-about-flying-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/forest.webp",
+      "destination": "/img/dreams-about-forest.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/forest-thumb.webp",
+      "destination": "/img/dreams-about-forest-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ghost.webp",
+      "destination": "/img/dreams-about-ghost.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ghost-thumb.webp",
+      "destination": "/img/dreams-about-ghost-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/giving-birth.webp",
+      "destination": "/img/dreams-about-giving-birth.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/giving-birth-thumb.webp",
+      "destination": "/img/dreams-about-giving-birth-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/hair-falling-out.webp",
+      "destination": "/img/dreams-about-hair-falling-out.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/hair-falling-out-thumb.webp",
+      "destination": "/img/dreams-about-hair-falling-out-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/halloween.webp",
+      "destination": "/img/dreams-about-halloween.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/halloween-thumb.webp",
+      "destination": "/img/dreams-about-halloween-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/haunted-house.webp",
+      "destination": "/img/dreams-about-haunted-house.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/haunted-house-thumb.webp",
+      "destination": "/img/dreams-about-haunted-house-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/horse.webp",
+      "destination": "/img/dreams-about-horse.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/horse-thumb.webp",
+      "destination": "/img/dreams-about-horse-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/hospital.webp",
+      "destination": "/img/dreams-about-hospital.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/hospital-thumb.webp",
+      "destination": "/img/dreams-about-hospital-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/house.webp",
+      "destination": "/img/dreams-about-house.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/house-thumb.webp",
+      "destination": "/img/dreams-about-house-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/island.webp",
+      "destination": "/img/dreams-about-island.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/island-thumb.webp",
+      "destination": "/img/dreams-about-island-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/job-interview.webp",
+      "destination": "/img/dreams-about-job-interview.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/job-interview-thumb.webp",
+      "destination": "/img/dreams-about-job-interview-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/keys.webp",
+      "destination": "/img/dreams-about-keys.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/keys-thumb.webp",
+      "destination": "/img/dreams-about-keys-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/king-or-queen.webp",
+      "destination": "/img/dreams-about-king-or-queen.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/king-or-queen-thumb.webp",
+      "destination": "/img/dreams-about-king-or-queen-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/kissing.webp",
+      "destination": "/img/dreams-about-kissing.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/kissing-thumb.webp",
+      "destination": "/img/dreams-about-kissing-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/lion.webp",
+      "destination": "/img/dreams-about-lion.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/lion-thumb.webp",
+      "destination": "/img/dreams-about-lion-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-job.webp",
+      "destination": "/img/dreams-about-losing-a-job.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-job-thumb.webp",
+      "destination": "/img/dreams-about-losing-a-job-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-pet.webp",
+      "destination": "/img/dreams-about-losing-a-pet.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-pet-thumb.webp",
+      "destination": "/img/dreams-about-losing-a-pet-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-phone.webp",
+      "destination": "/img/dreams-about-losing-a-phone.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-phone-thumb.webp",
+      "destination": "/img/dreams-about-losing-a-phone-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-wallet.webp",
+      "destination": "/img/dreams-about-losing-a-wallet.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/losing-a-wallet-thumb.webp",
+      "destination": "/img/dreams-about-losing-a-wallet-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/maze.webp",
+      "destination": "/img/dreams-about-maze.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/maze-thumb.webp",
+      "destination": "/img/dreams-about-maze-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/mirror.webp",
+      "destination": "/img/dreams-about-mirror.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/mirror-thumb.webp",
+      "destination": "/img/dreams-about-mirror-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/missing-a-flight.webp",
+      "destination": "/img/dreams-about-missing-a-flight.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/missing-a-flight-thumb.webp",
+      "destination": "/img/dreams-about-missing-a-flight-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/money.webp",
+      "destination": "/img/dreams-about-money.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/money-thumb.webp",
+      "destination": "/img/dreams-about-money-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/monster.webp",
+      "destination": "/img/dreams-about-monster.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/monster-thumb.webp",
+      "destination": "/img/dreams-about-monster-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/mountain.webp",
+      "destination": "/img/dreams-about-mountain.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/mountain-thumb.webp",
+      "destination": "/img/dreams-about-mountain-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/moving-to-a-new-house.webp",
+      "destination": "/img/dreams-about-moving-to-a-new-house.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/moving-to-a-new-house-thumb.webp",
+      "destination": "/img/dreams-about-moving-to-a-new-house-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/naked-in-public.webp",
+      "destination": "/img/dreams-about-naked-in-public.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/naked-in-public-thumb.webp",
+      "destination": "/img/dreams-about-naked-in-public-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ocean.webp",
+      "destination": "/img/dreams-about-ocean.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/ocean-thumb.webp",
+      "destination": "/img/dreams-about-ocean-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/pregnancy.webp",
+      "destination": "/img/dreams-about-pregnancy.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/pregnancy-thumb.webp",
+      "destination": "/img/dreams-about-pregnancy-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/prison.webp",
+      "destination": "/img/dreams-about-prison.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/prison-thumb.webp",
+      "destination": "/img/dreams-about-prison-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/quicksand.webp",
+      "destination": "/img/dreams-about-quicksand.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/quicksand-thumb.webp",
+      "destination": "/img/dreams-about-quicksand-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/rain.webp",
+      "destination": "/img/dreams-about-rain.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/rain-thumb.webp",
+      "destination": "/img/dreams-about-rain-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/rainbow.webp",
+      "destination": "/img/dreams-about-rainbow.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/rainbow-thumb.webp",
+      "destination": "/img/dreams-about-rainbow-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/running-but-not-moving.webp",
+      "destination": "/img/dreams-about-running-but-not-moving.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/running-but-not-moving-thumb.webp",
+      "destination": "/img/dreams-about-running-but-not-moving-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/school.webp",
+      "destination": "/img/dreams-about-school.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/school-thumb.webp",
+      "destination": "/img/dreams-about-school-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/sex.webp",
+      "destination": "/img/dreams-about-sex.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/sex-thumb.webp",
+      "destination": "/img/dreams-about-sex-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/shark.webp",
+      "destination": "/img/dreams-about-shark.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/shark-thumb.webp",
+      "destination": "/img/dreams-about-shark-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/shoes.webp",
+      "destination": "/img/dreams-about-shoes.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/shoes-thumb.webp",
+      "destination": "/img/dreams-about-shoes-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/singing.webp",
+      "destination": "/img/dreams-about-singing.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/singing-thumb.webp",
+      "destination": "/img/dreams-about-singing-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/sleep-paralysis.webp",
+      "destination": "/img/dreams-about-sleep-paralysis.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/sleep-paralysis-thumb.webp",
+      "destination": "/img/dreams-about-sleep-paralysis-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/spider-web.webp",
+      "destination": "/img/dreams-about-spider-web.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/spider-web-thumb.webp",
+      "destination": "/img/dreams-about-spider-web-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/spider.webp",
+      "destination": "/img/dreams-about-spider.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/spider-thumb.webp",
+      "destination": "/img/dreams-about-spider-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/storm.webp",
+      "destination": "/img/dreams-about-storm.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/storm-thumb.webp",
+      "destination": "/img/dreams-about-storm-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/stranger.webp",
+      "destination": "/img/dreams-about-stranger.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/stranger-thumb.webp",
+      "destination": "/img/dreams-about-stranger-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/taking-an-exam.webp",
+      "destination": "/img/dreams-about-taking-an-exam.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/taking-an-exam-thumb.webp",
+      "destination": "/img/dreams-about-taking-an-exam-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/teeth-falling-out.webp",
+      "destination": "/img/dreams-about-teeth-falling-out.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/teeth-falling-out-thumb.webp",
+      "destination": "/img/dreams-about-teeth-falling-out-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tiger.webp",
+      "destination": "/img/dreams-about-tiger.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tiger-thumb.webp",
+      "destination": "/img/dreams-about-tiger-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/time-travel.webp",
+      "destination": "/img/dreams-about-time-travel.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/time-travel-thumb.webp",
+      "destination": "/img/dreams-about-time-travel-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tornado.webp",
+      "destination": "/img/dreams-about-tornado.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tornado-thumb.webp",
+      "destination": "/img/dreams-about-tornado-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tsunami.webp",
+      "destination": "/img/dreams-about-tsunami.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/tsunami-thumb.webp",
+      "destination": "/img/dreams-about-tsunami-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/turtle.webp",
+      "destination": "/img/dreams-about-turtle.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/turtle-thumb.webp",
+      "destination": "/img/dreams-about-turtle-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/twins.webp",
+      "destination": "/img/dreams-about-twins.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/twins-thumb.webp",
+      "destination": "/img/dreams-about-twins-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/volcano.webp",
+      "destination": "/img/dreams-about-volcano.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/volcano-thumb.webp",
+      "destination": "/img/dreams-about-volcano-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/water.webp",
+      "destination": "/img/dreams-about-water.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/water-thumb.webp",
+      "destination": "/img/dreams-about-water-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/wedding.webp",
+      "destination": "/img/dreams-about-wedding.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/wedding-thumb.webp",
+      "destination": "/img/dreams-about-wedding-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/winning-the-lottery.webp",
+      "destination": "/img/dreams-about-winning-the-lottery.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/winning-the-lottery-thumb.webp",
+      "destination": "/img/dreams-about-winning-the-lottery-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/wolf.webp",
+      "destination": "/img/dreams-about-wolf.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/wolf-thumb.webp",
+      "destination": "/img/dreams-about-wolf-thumb.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/zombie.webp",
+      "destination": "/img/dreams-about-zombie.webp",
+      "permanent": true
+    },
+    {
+      "source": "/img/zombie-thumb.webp",
+      "destination": "/img/dreams-about-zombie-thumb.webp",
+      "permanent": true
+    }
   ]
 }

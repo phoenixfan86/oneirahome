@@ -2,7 +2,7 @@
 title: "Clock Dream Meaning: What Does It Mean?"
 symbol: "clock"
 description: "Uncover what clocks signify in dreams, from anxieties about time and deadlines to internal biological rhythms and life transitions."
-img: "/img/clock.webp"
+img: "/img/dreams-about-clock.webp"
 category: "objects"
 tags: ["time", "anxiety", "deadlines", "transitions"]
 faq:

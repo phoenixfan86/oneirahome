@@ -2,7 +2,7 @@
 title: "Dreamt About an Elevator? Here's What Your Ride Is Really Telling You"
 symbol: "elevator"
 description: "Discover what an elevator in your subconscious signifies, from rapid career shifts to personal emotional transitions."
-img: "/img/elevator.webp"
+img: "/img/dreams-about-elevator.webp"
 category: "objects"
 tags: ["transitions", "career", "personal-growth", "status"]
 faq:

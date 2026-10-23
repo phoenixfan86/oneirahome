@@ -2,7 +2,7 @@
 title: "Flat Tire: Dream Meaning: What Does It Mean?"
 symbol: "flat tire"
 description: "Discover what a flat tire symbol means in dreams, from feelings of burnout to sudden setbacks in your personal or professional life."
-img: "/img/flat-tire.webp"
+img: "/img/dreams-about-flat-tire.webp"
 category: "objects"
 tags: ["burnout", "setbacks", "obstacles", "frustration"]
 faq:

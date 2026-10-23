@@ -2,7 +2,7 @@
 title: "Dream About Tiger: Meaning & Interpretation"
 symbol: "tiger"
 description: "Discover the psychological and symbolic meanings behind tiger dreams, exploring themes of personal power, raw emotion, and boundary setting."
-img: "/img/tiger.webp"
+img: "/img/dreams-about-tiger.webp"
 category: "animals"
 tags: ["personal-power", "raw-emotion", "boundaries", "strength"]
 faq:

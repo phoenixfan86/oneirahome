@@ -2,7 +2,7 @@
 title: "Dream About Airplane: Meaning & Interpretation"
 symbol: "airplane"
 description: "What does it mean to dream about airplane? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/airplane.webp"
+img: "/img/dreams-about-airplane.webp"
 category: "objects"
 tags: ["ambition", "transition", "control", "travel", "anxiety"]
 faq:

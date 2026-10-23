@@ -2,7 +2,7 @@
 title: "Dreaming of Giving Birth? Here's What It Actually Means"
 symbol: "giving birth"
 description: "Giving birth in a dream rarely means what you'd expect. Here's the psychological and spiritual meaning behind labor and childbirth dreams - and what it says about your life right now."
-img: "/img/giving-birth.webp"
+img: "/img/dreams-about-giving-birth.webp"
 category: "body"
 tags: ["new-beginnings", "transformation", "potential", "creation"]
 faq:

@@ -2,7 +2,7 @@
 title: "Dreaming About Halloween? What Ghosts, Zombies, and Costumes Might Mean"
 symbol: "halloween"
 description: "Dreams get noticeably stranger around Halloween. Here's what dreams about zombies, ghosts, costumes, and haunted houses tend to mean this time of year - and why."
-img: "/img/halloween.webp"
+img: "/img/dreams-about-halloween.webp"
 category: "events"
 tags: ["halloween", "fear", "identity", "seasonal", "the-unknown"]
 faq:

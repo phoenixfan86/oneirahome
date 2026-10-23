@@ -2,7 +2,7 @@
 title: "Rainbow Dream Meaning: What Does It Mean?"
 symbol: "rainbow"
 description: "Explore the symbolic promise of hope, transformation, and inner balance when a rainbow appears in your sleep."
-img: "/img/rainbow.webp"
+img: "/img/dreams-about-rainbow.webp"
 category: "nature"
 tags: ["hope", "transformation", "balance", "positivity"]
 faq:

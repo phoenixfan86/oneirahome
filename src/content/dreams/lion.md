@@ -2,7 +2,7 @@
 title: "Dream About Lion: Meaning & Interpretation"
 symbol: "lion"
 description: "Learn what encountering a lion in your dream means regarding personal power, leadership, suppressed passions, and standing your ground."
-img: "/img/lion.webp"
+img: "/img/dreams-about-lion.webp"
 category: "animals"
 tags: ["personal-power", "leadership", "courage", "passion"]
 faq:

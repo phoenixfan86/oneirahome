@@ -2,7 +2,7 @@
 title: "Dream About Losing a Phone: Meaning & Interpretation"
 symbol: "losing a phone"
 description: "Explore what misplacing or losing a phone reflects about your real-life connections, communication gaps, and digital overwhelm."
-img: "/img/losing-a-phone.webp"
+img: "/img/dreams-about-losing-a-phone.webp"
 category: "objects"
 tags: ["communication", "relationships", "anxiety", "technology"]
 faq:

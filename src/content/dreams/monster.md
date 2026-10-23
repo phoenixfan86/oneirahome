@@ -2,7 +2,7 @@
 title: "Dream About Monster: Meaning & Interpretation"
 symbol: "monster"
 description: "Explore the hidden psychological meaning behind encountering a monster in your nighttime subconscious and what it reveals about your waking life."
-img: "/img/monster.webp"
+img: "/img/dreams-about-monster.webp"
 category: "other"
 tags: ["fear", "subconscious", "anxiety", "shadow-self"]
 faq:

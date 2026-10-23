@@ -2,7 +2,7 @@
 title: "Dream About Flying: Meaning & Interpretation"
 symbol: "flying"
 description: "What does it mean to dream about flying? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/flying.webp"
+img: "/img/dreams-about-flying.webp"
 category: "events"
 tags: ["freedom", "ambition", "perspective", "control"]
 faq:

@@ -2,7 +2,7 @@
 title: "Desert Dream Meaning: What Does It Mean?"
 symbol: "desert"
 description: "Uncover what vast arid landscapes represent regarding isolation, resilience, and personal transformation."
-img: "/img/desert.webp"
+img: "/img/dreams-about-desert.webp"
 category: "nature"
 tags: ["isolation", "resilience", "transformation"]
 faq:

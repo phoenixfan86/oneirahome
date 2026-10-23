@@ -2,7 +2,7 @@
 title: "Dream About Spider Web: Meaning & Interpretation"
 symbol: "spider web"
 description: "Explore what spider webs signify in night visions, including feelings of entanglement, creative patience, and complex personal relationships."
-img: "/img/spider-web.webp"
+img: "/img/dreams-about-spider-web.webp"
 category: "animals"
 tags: ["entanglement", "patience", "relationships", "creativity"]
 faq:

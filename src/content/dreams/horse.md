@@ -2,7 +2,7 @@
 title: "Horse Dream Meaning: What Does It Mean?"
 symbol: "horse"
 description: "Discover the psychological and symbolic meanings behind horses in dreams, from personal energy and autonomy to raw instinct."
-img: "/img/horse.webp"
+img: "/img/dreams-about-horse.webp"
 category: "animals"
 tags: ["energy", "autonomy", "instinct", "psychology"]
 faq:

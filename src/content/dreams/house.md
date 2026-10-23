@@ -2,7 +2,7 @@
 title: "Dream About House: Meaning & Interpretation"
 symbol: "house"
 description: "What does it mean to dream about house? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/house.webp"
+img: "/img/dreams-about-house.webp"
 category: "places"
 tags: ["self", "mind", "security", "identity"]
 faq:

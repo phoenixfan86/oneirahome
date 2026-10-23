@@ -2,7 +2,7 @@
 title: "Dream About Demon: Meaning & Interpretation"
 symbol: "demon"
 description: "Discover the deeper spiritual and psychological symbolism of encountering a demon in sleep and how to process the emotions behind it."
-img: "/img/demon.webp"
+img: "/img/dreams-about-demon.webp"
 category: "other"
 tags: ["fear", "inner-shadow", "spirituality", "struggle"]
 faq:

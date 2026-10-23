@@ -2,7 +2,7 @@
 title: "Dream About Kissing: Meaning & Interpretation"
 symbol: "kissing"
 description: "Uncover the emotional and symbolic significance of kissing in dreams, from romantic desires to personal integration and self-acceptance."
-img: "/img/kissing.webp"
+img: "/img/dreams-about-kissing.webp"
 category: "events"
 tags: ["romance", "desire", "self-acceptance", "integration"]
 faq:

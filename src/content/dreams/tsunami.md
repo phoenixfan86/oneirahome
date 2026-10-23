@@ -2,7 +2,7 @@
 title: "Dream About Tsunami: Meaning & Interpretation"
 symbol: "tsunami"
 description: "Discover what a tsunami symbol reveals about your emotional state, deep stress, and capacity for psychological resilience."
-img: "/img/tsunami.webp"
+img: "/img/dreams-about-tsunami.webp"
 category: "nature"
 tags: ["overwhelming-emotions", "deep-stress", "resilience", "crisis"]
 faq:

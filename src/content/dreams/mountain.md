@@ -2,7 +2,7 @@
 title: "Dream About Mountain: Meaning & Interpretation"
 symbol: "mountain"
 description: "Uncover what mountains in dreams represent, from overcoming major obstacles to achieving long-held personal goals."
-img: "/img/mountain.webp"
+img: "/img/dreams-about-mountain.webp"
 category: "nature"
 tags: ["obstacles", "goals", "achievement", "challenges"]
 faq:

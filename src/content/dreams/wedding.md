@@ -2,7 +2,7 @@
 title: "Wedding Dream Meaning: What Does It Mean?"
 symbol: "wedding"
 description: "What does it mean to dream about wedding? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/wedding.webp"
+img: "/img/dreams-about-wedding.webp"
 category: "events"
 tags: ["commitment", "relationships", "union", "transitions"]
 faq:

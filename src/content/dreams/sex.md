@@ -2,7 +2,7 @@
 title: "Dreaming About Sex? What Sex Dreams Really Mean"
 symbol: "sex"
 description: "Dreaming about sex with an ex, a friend, or your partner? Learn what sex dreams may mean, why they can feel so vivid, and how to handle the guilt they sometimes bring."
-img: "/img/sex.webp"
+img: "/img/dreams-about-sex.webp"
 category: "people"
 tags: ["desire", "intimacy", "relationships", "unmet-needs", "guilt"]
 faq:

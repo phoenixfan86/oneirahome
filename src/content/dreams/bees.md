@@ -2,7 +2,7 @@
 title: "Bees Dream Meaning: What Does It Mean?"
 symbol: "bees"
 description: "Understand the rich symbolism of bees in dreams, from productivity and social connections to anxiety and overwork."
-img: "/img/bees.webp"
+img: "/img/dreams-about-bees.webp"
 category: "animals"
 tags: ["productivity", "social-connections", "anxiety", "overwork"]
 faq:

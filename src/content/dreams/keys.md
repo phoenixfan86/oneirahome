@@ -2,7 +2,7 @@
 title: "Keys Dream Meaning: What Does It Mean?"
 symbol: "keys"
 description: "Discover the psychological and symbolic meanings behind seeing keys in your dreams and what they reveal about control, access, and self-discovery."
-img: "/img/keys.webp"
+img: "/img/dreams-about-keys.webp"
 category: "objects"
 tags: ["control", "access", "self-discovery", "opportunity"]
 faq:

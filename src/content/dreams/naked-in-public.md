@@ -2,7 +2,7 @@
 title: "Dream About Naked In Public: Meaning & Interpretation"
 symbol: "naked in public"
 description: "What does it mean to dream about naked in public? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/naked-in-public.webp"
+img: "/img/dreams-about-naked-in-public.webp"
 category: "events"
 tags: ["vulnerability", "exposure", "anxiety", "shame"]
 faq:

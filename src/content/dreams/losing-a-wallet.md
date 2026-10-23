@@ -2,7 +2,7 @@
 title: "Dream About Losing a Wallet: Meaning & Interpretation"
 symbol: "losing a wallet"
 description: "Uncover the symbolic meaning of losing your wallet in sleep, exploring themes of identity, security, and personal values."
-img: "/img/losing-a-wallet.webp"
+img: "/img/dreams-about-losing-a-wallet.webp"
 category: "objects"
 tags: ["identity", "security", "finances", "loss"]
 faq:

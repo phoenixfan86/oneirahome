@@ -2,7 +2,7 @@
 title: "Dream About Forest: Meaning & Interpretation"
 symbol: "forest"
 description: "Learn the deep symbolic significance of walking through, getting lost in, or discovering a forest in your dreams."
-img: "/img/forest.webp"
+img: "/img/dreams-about-forest.webp"
 category: "places"
 tags: ["unconscious", "mystery", "exploration", "growth"]
 faq:

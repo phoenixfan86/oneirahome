@@ -2,7 +2,7 @@
 title: "Dream About Celebrity: Meaning & Interpretation"
 symbol: "celebrity"
 description: "Discover what it means when a famous figure appears in your night visions, from personal aspirations to hidden psychological traits."
-img: "/img/celebrity.webp"
+img: "/img/dreams-about-celebrity.webp"
 category: "people"
 tags: ["ambition", "aspirations", "identity", "desire"]
 faq:

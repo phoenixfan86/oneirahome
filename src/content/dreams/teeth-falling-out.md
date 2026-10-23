@@ -2,7 +2,7 @@
 title: "Dream About Teeth Falling Out: Meaning & Interpretation"
 symbol: "teeth falling out"
 description: "What does it mean to dream about teeth falling out? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/teeth-falling-out.webp"
+img: "/img/dreams-about-teeth-falling-out.webp"
 category: "body"
 tags: ["loss-of-control", "vulnerability", "insecurity", "anxiety"]
 faq:

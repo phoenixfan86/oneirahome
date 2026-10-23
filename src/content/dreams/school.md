@@ -2,7 +2,7 @@
 title: "Dream About School: Meaning & Interpretation"
 symbol: "school"
 description: "What does it mean to dream about school? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/school.webp"
+img: "/img/dreams-about-school.webp"
 category: "places"
 tags: ["learning", "anxiety", "past", "evaluation"]
 faq:

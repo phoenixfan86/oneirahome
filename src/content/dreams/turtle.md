@@ -2,7 +2,7 @@
 title: "Dream About Turtles: Meaning & Interpretation"
 symbol: "turtle"
 description: "Discover what it means when you dream about turtles. Explore the deep psychological symbolism of slow progress, emotional protection, and ancient wisdom."
-img: "/img/turtle.webp"
+img: "/img/dreams-about-turtle.webp"
 category: "animals"
 tags: ["patience", "protection", "wisdom", "slow-progress"]
 faq:

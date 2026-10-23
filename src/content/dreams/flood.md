@@ -2,7 +2,7 @@
 title: "Dream About Flood: Meaning & Interpretation"
 symbol: "flood"
 description: "What does it mean to dream about flood? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/flood.webp"
+img: "/img/dreams-about-flood.webp"
 category: "nature"
 tags: ["overwhelmed", "emotions", "cleansing", "change"]
 faq:

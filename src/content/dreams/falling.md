@@ -3,7 +3,7 @@ title: "Dream About Falling: Meaning & Interpretation"
 h1: "Falling Dream Meaning: Interpretation and Symbolism"
 symbol: "falling"
 description: "What does it mean to dream about falling? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/falling.webp"
+img: "/img/dreams-about-falling.webp"
 category: "events"
 tags: ["fear", "loss-of-control", "anxiety", "insecurity"]
 faq:

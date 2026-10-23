@@ -2,7 +2,7 @@
 title: "Dreaming About a Deceased Parent? What Visitation Dreams May Mean"
 symbol: "deceased parent"
 description: "Dreams about a deceased parent - especially ones that feel unusually real - are common. Here's what psychologists say these visits may reflect, and when they tend to happen."
-img: "/img/deceased-parent.webp"
+img: "/img/dreams-about-deceased-parent.webp"
 category: "people"
 tags: ["grief", "deceased-parent", "visitation-dream", "memory", "closure"]
 faq:

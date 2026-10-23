@@ -2,7 +2,7 @@
 title: "Crying in a Dream: Meaning of Tears, Grief & Relief"
 symbol: "crying"
 description: "Dreaming of crying? Learn what tears in a dream may mean, from suppressed grief and emotional release to joy and relief, and why some people wake up in tears."
-img: "/img/crying.webp"
+img: "/img/dreams-about-crying.webp"
 category: "emotions"
 tags: ["grief", "emotional-release", "relief", "suppressed-emotions", "healing"]
 faq:

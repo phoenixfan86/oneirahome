@@ -2,7 +2,7 @@
 title: "Dream About Losing a Job: Meaning & Interpretation"
 symbol: "losing a job"
 description: "Discover the psychological meanings and symbolic interpretations behind experiencing job loss and professional uncertainty in sleep."
-img: "/img/losing-a-job.webp"
+img: "/img/dreams-about-losing-a-job.webp"
 category: "events"
 tags: ["career", "anxiety", "security", "identity"]
 faq:

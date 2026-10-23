@@ -2,7 +2,7 @@
 title: "Wolf Dream Meaning: What Does It Mean?"
 symbol: "wolf"
 description: "Explore what wolves represent in dreams, from pack dynamics and social instinct to hidden personal autonomy and emotional boundaries."
-img: "/img/wolf.webp"
+img: "/img/dreams-about-wolf.webp"
 category: "animals"
 tags: ["social-instinct", "autonomy", "boundaries", "relationships"]
 faq:

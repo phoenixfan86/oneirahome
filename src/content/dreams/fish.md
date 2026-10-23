@@ -2,7 +2,7 @@
 title: "Dream About Fish: Meaning & Interpretation"
 symbol: "fish"
 description: "Explore the symbolic meaning of fish in dreams, including subconscious insights, emotional depths, and personal growth."
-img: "/img/fish.webp"
+img: "/img/dreams-about-fish.webp"
 category: "animals"
 tags: ["subconscious", "emotions", "growth", "insight"]
 faq:

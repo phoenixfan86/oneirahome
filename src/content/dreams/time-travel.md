@@ -2,7 +2,7 @@
 title: "Time Travel: Dream Meaning: What Does It Mean?"
 symbol: "time travel"
 description: "Discover what time travel in dreams means, from visits to the past to future journeys, and what your subconscious may be signaling."
-img: "/img/time-travel.webp"
+img: "/img/dreams-about-time-travel.webp"
 category: "other"
 tags: ["nostalgia", "past", "future", "subconscious"]
 faq:

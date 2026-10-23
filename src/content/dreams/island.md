@@ -2,7 +2,7 @@
 title: "Island in a dream, what does it mean?"
 symbol: "island"
 description: "Discover the psychological and symbolic meanings behind island dreams, from self-reliance to emotional isolation."
-img: "/img/island.webp"
+img: "/img/dreams-about-island.webp"
 category: "places"
 tags: ["self-reliance", "isolation", "emotions"]
 faq:

@@ -2,7 +2,7 @@
 title: "Buried Alive in a Dream? Here's What Your Mind Is Trying to Tell You"
 symbol: "being buried alive"
 description: "Dreaming about being buried alive usually points to overwhelming stress, helplessness, or emotional suppression. Here's what different burial scenarios may reflect."
-img: "/img/buried-alive.webp"
+img: "/img/dreams-about-buried-alive.webp"
 category: "events"
 tags: ["anxiety", "helplessness", "suppression", "burnout", "fear"]
 faq:

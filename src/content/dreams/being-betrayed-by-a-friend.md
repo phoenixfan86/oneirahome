@@ -2,7 +2,7 @@
 title: "Dream About Being Betrayed by a Friend: Meaning & Interpretation"
 symbol: "being betrayed by a friend"
 description: "Understand the emotional and psychological meaning of friend betrayal in dreams and what it reveals about trust and self-doubt."
-img: "/img/beingbetrayed.webp"
+img: "/img/dreams-about-beingbetrayed.webp"
 category: "people"
 tags: ["trust", "betrayal", "relationships", "self-doubt"]
 faq:

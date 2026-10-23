@@ -2,7 +2,7 @@
 title: "Dream About Mirror: Meaning & Interpretation"
 symbol: "mirror"
 description: "What does it mean to dream about mirror? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/mirror.webp"
+img: "/img/dreams-about-mirror.webp"
 category: "objects"
 tags: ["self-reflection", "identity", "truth", "perception"]
 faq:

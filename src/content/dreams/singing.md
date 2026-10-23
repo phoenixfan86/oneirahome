@@ -2,7 +2,7 @@
 title: "Dream About Singing: Meaning & Interpretation"
 symbol: "singing"
 description: "Discover the hidden emotional and psychological meanings behind dreams of singing, from self-expression to inner harmony."
-img: "/img/singing.webp"
+img: "/img/dreams-about-singing.webp"
 category: "events"
 tags: ["self-expression", "harmony", "creativity", "emotion"]
 faq:

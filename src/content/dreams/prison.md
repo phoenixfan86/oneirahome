@@ -2,7 +2,7 @@
 title: "Dream About Prison: Meaning & Interpretation"
 symbol: "prison"
 description: "Discover the psychological meaning and hidden messages behind seeing or being trapped in a prison in your dreams."
-img: "/img/prison.webp"
+img: "/img/dreams-about-prison.webp"
 category: "places"
 tags: ["confinement", "restriction", "guilt", "trapped"]
 faq:

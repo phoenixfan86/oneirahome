@@ -2,7 +2,7 @@
 title: "Losing a Pet: Dream Meaning: What Does It Mean?"
 symbol: "losing a pet"
 description: "Explore the symbolic meaning behind losing a beloved companion in dreams and how it relates to emotional security, trust, and responsibility."
-img: "/img/losing-a-pet.webp"
+img: "/img/dreams-about-losing-a-pet.webp"
 category: "events"
 tags: ["grief", "loss", "emotional-security", "responsibility"]
 faq:

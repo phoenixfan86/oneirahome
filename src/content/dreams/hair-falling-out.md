@@ -2,7 +2,7 @@
 title: "Dream About Hair Falling Out: Meaning & Interpretation"
 symbol: "hair falling out"
 description: "What does it mean to dream about hair falling out? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/hair-falling-out.webp"
+img: "/img/dreams-about-hair-falling-out.webp"
 category: "body"
 tags: ["aging", "loss-of-control", "insecurity", "vanity"]
 faq:

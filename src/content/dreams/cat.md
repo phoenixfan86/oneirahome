@@ -3,7 +3,7 @@ title: "Dream About Cat: Meaning & Interpretation"
 h1: "Cat Dream Meaning: Interpretation and Symbolism"
 symbol: "cat"
 description: "What does it mean to dream about cat? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/cat.webp"
+img: "/img/dreams-about-cat.webp"
 category: "animals"
 tags: ["intuition", "independence", "boundaries", "anima", "mystery"]
 faq:

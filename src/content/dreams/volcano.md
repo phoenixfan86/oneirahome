@@ -2,7 +2,7 @@
 title: "Dream About Volcano: Meaning & Interpretation"
 symbol: "volcano"
 description: "Learn how volcanic imagery represents suppressed anger, creative tension, and intense psychological transformation."
-img: "/img/volcano.webp"
+img: "/img/dreams-about-volcano.webp"
 category: "nature"
 tags: ["suppressed-anger", "transformation", "creative-tension", "emotional-release"]
 faq:

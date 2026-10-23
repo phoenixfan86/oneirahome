@@ -2,7 +2,7 @@
 title: "Bear Dream Meaning: Mama Bear, Attacks & Hibernation"
 symbol: "bear"
 description: "Dreaming about a bear? Learn what black, brown, and polar bear dreams may mean, from being chased to a mama bear with cubs, and what they say about your boundaries."
-img: "/img/bear.webp"
+img: "/img/dreams-about-bear.webp"
 category: "animals"
 tags: ["introspection", "boundaries", "protection", "instincts", "strength"]
 faq:

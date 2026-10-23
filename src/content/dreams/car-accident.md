@@ -2,7 +2,7 @@
 title: "Dream About Car Accident: Meaning & Interpretation"
 symbol: "car accident"
 description: "What does it mean to dream about car accident? Explore the common scenarios and psychological meaning behind this dream."
-img: "/img/car-accident.webp"
+img: "/img/dreams-about-car-accident.webp"
 category: "events"
 tags: ["control", "stress", "conflict", "burnout", "warning"]
 faq:

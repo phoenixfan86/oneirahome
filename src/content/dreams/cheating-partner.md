@@ -2,7 +2,7 @@
 title: "Dream About Cheating Partner: Meaning & Interpretation"
 symbol: "cheating partner"
 description: "Explore the deeper emotional meanings of a cheating partner in a dream, focusing on insecurity, trust issues, and personal growth."
-img: "/img/cheating-partner.webp"
+img: "/img/dreams-about-cheating-partner.webp"
 category: "people"
 tags: ["insecurity", "trust", "relationships", "betrayal"]
 faq:

@@ -2,7 +2,7 @@
 title: "Dream About Missing a Flight: Meaning & Interpretation"
 symbol: "missing a flight"
 description: "Explore what it means to miss a flight in your sleep, from lost opportunities to fears of life transitions."
-img: "/img/missing-a-flight.webp"
+img: "/img/dreams-about-missing-a-flight.webp"
 category: "events"
 tags: ["anxiety", "opportunities", "transitions", "stress"]
 faq:

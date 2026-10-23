@@ -2,7 +2,7 @@
 title: "Dream About Storm: Meaning & Interpretation"
 symbol: "storm"
 description: "Explore the symbolic meaning of storms in dreams, from emotional turbulence to psychological renewal and personal transformation."
-img: "/img/storm.webp"
+img: "/img/dreams-about-storm.webp"
 category: "nature"
 tags: ["emotional-turmoil", "transformation", "chaos", "renewal"]
 faq:
