@@ -8,6 +8,6 @@
     },
     { "source": "/dreams/", "destination": "/", "permanent": true },
     { "source": "/dreams/:page/", "destination": "/:page/", "permanent": true },
-    { "source": "/img/snake.webp", "destination": "/img/dream-about-snake.webp", "statusCode": 301 }
+    { "source": "/img/snake.webp", "destination": "/img/dreams-about-snake.webp", "statusCode": 301 }
   ]
 }
