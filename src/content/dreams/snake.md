@@ -2,7 +2,7 @@
 title: "Snake Dream Meaning: The Complete Guide to Every Scenario"
 symbol: "snake"
 description: "From snake bites and chases to specific colors like black, white, and green - here's what every common snake dream scenario may actually mean."
-img: "/img/snake.webp"
+img: "/img/dreams-about-snake.webp"
 category: "animals"
 tags: ["snake", "fear", "transformation", "danger"]
 faq:

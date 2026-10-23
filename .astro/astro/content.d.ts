@@ -1025,6 +1025,13 @@ declare module 'astro:content' {
   collection: "guides";
   data: any
 } & { render(): Render[".md"] };
+"snake-dreams-worldwide.md": {
+	id: "snake-dreams-worldwide.md";
+  slug: "snake-dreams-worldwide";
+  body: string;
+  collection: "guides";
+  data: any
+} & { render(): Render[".md"] };
 "wake-back-to-bed-wbtb-technique.md": {
 	id: "wake-back-to-bed-wbtb-technique.md";
   slug: "wake-back-to-bed-wbtb-technique";
