@@ -127,7 +127,7 @@ const totalDreams = await getDreamCount();
 
       thresholds.forEach(threshold => {
         if (scrollPercent >= threshold && !firedThresholds[threshold]) {
-          firedThresholds[threshold] = true; // Мітимо як надіслану
+          firedThresholds[threshold] = true;
 
           gtag('event', 'custom_scroll', {
             'scroll_depth': threshold
