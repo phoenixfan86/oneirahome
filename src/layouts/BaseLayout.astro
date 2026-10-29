@@ -110,8 +110,34 @@ const totalDreams = await getDreamCount();
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BVS1JC86NV');
+  gtag('config', 'G-BVS1JC86NV'); 
+
+  (function() {
+    const thresholds =[25, 50, 75, 100];
+    const firedThresholds = {};
+
+    window.addEventListener('scroll', function() {
+      
+      const scrollTop = window.scrollY || window.pageYOffset || document.documentElement.scrollTop;
+      const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+ 
+      if (docHeight <= 0) return;
+
+      const scrollPercent = Math.round((scrollTop / docHeight) * 100);
+
+      thresholds.forEach(threshold => {
+        if (scrollPercent >= threshold && !firedThresholds[threshold]) {
+          firedThresholds[threshold] = true; // Мітимо як надіслану
+
+          gtag('event', 'custom_scroll', {
+            'scroll_depth': threshold
+          });
+        }
+      });
+    });
+  })();
 </script>
+
 
     <Analytics />
   </head>
