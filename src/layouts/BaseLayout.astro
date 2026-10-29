@@ -98,6 +98,12 @@ const totalDreams = await getDreamCount();
     ))}
     
 <!-- Google tag (gtag.js) -->
+ <script is:inline>
+
+  if (localStorage.getItem('oneira_no_analytics') === '1') {
+    window['ga-disable-G-BVS1JC86NV'] = true;
+  }
+</script>
 <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-BVS1JC86NV"></script>
 <script is:inline>
   window.dataLayer = window.dataLayer || [];
@@ -105,11 +111,6 @@ const totalDreams = await getDreamCount();
   gtag('js', new Date());
 
   gtag('config', 'G-BVS1JC86NV');
-</script>
-<script is:inline>
-  if (localStorage.getItem('oneira_no_analytics') === '1') {
-    window['ga-disable-G-BVS1JC86NV'] = true;
-  }
 </script>
 
     <Analytics />
