@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import RandomDreams from './RandomDreams.astro';
 import MoonPhase from './MoonPhase.astro';
+import NewDreams from './NewDreams.astro';
 
 interface Props {
   currentSlug?: string;
@@ -23,10 +24,11 @@ const categories = Object.entries(categoryCounts).sort(
 ) as [string, number][];
 ---
 <aside class="sidebar" data-pagefind-ignore>
-  <div class="container">
+  <di class="container">
     <section class="sidebar-section">
       <MoonPhase />
     </section>
+    <NewDreams />
     <section class="sidebar-section">
       <h2>Categories</h2>
       <ul class="category-grid">
@@ -57,7 +59,7 @@ const categories = Object.entries(categoryCounts).sort(
       </p>
     </section>
     
-  </div>
+  </di>
 </aside>
 
 

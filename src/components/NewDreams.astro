@@ -1,0 +1,39 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  count?: number;
+}
+const { count = 3 } = Astro.props;
+
+const dreams = await getCollection(
+  'dreams',
+  ({ data }: CollectionEntry<'dreams'>) => !data.draft
+);
+
+const latest = [...dreams]
+  .sort((a: CollectionEntry<'dreams'>, b: CollectionEntry<'dreams'>) =>
+    b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  )
+  .slice(0, count);
+
+const dateFormatter = new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+  year: 'numeric',
+  timeZone: 'UTC',
+});
+---
+<section class="sidebar-section new-dreams">
+  <h2>New Dreams</h2>
+  <ul class="sidebar-list">
+    {latest.map((entry: CollectionEntry<'dreams'>) => (
+      <li class="new-item">
+        <a href={`/dream/${entry.slug}/`}>{entry.data.symbol}</a>
+        <time class="new-dream-date" datetime={entry.data.pubDate.toISOString().slice(0, 10)}>
+          {dateFormatter.format(entry.data.pubDate)}
+        </time>
+      </li>
+    ))}
+  </ul>
+</section>
