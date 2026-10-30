@@ -680,6 +680,13 @@ declare module 'astro:content' {
   collection: "dreams";
   data: any
 } & { render(): Render[".md"] };
+"nightmare.md": {
+	id: "nightmare.md";
+  slug: "nightmare";
+  body: string;
+  collection: "dreams";
+  data: any
+} & { render(): Render[".md"] };
 "ocean.md": {
 	id: "ocean.md";
   slug: "ocean";

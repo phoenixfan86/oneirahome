@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-30T10:25:40.536Z
+Generated: 2026-10-30T10:55:08.089Z
 
-48 suggestion(s) across 29 article(s). Nothing has been changed — apply these manually.
+50 suggestion(s) across 29 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -64,17 +64,23 @@ Generated: 2026-10-30T10:25:40.536Z
 
 ---
 
-## money  (`money.md`)
-
-- Line 42: link **"poop"** -> `/dream/poop/`
-  > There is a popular saying that dreaming of poop means money is coming. It is a folk belief, not a tested interpretation. If you have heard it, treat it as a cultural tradition, and do not use it to make financial decisions.
-
----
-
 ## moving to a new house  (`moving-to-a-new-house.md`)
 
 - Line 22: link **"money"** -> `/dream/money/`
   > A cramped or shabby new home can point to feeling limited: stressed about money, stuck in a situation, or aware that you have lost some sense of status. It can also be read as a wish to simplify, to clear away distractions and get back to basics. Which reading fits depends on how you felt in the dream and what is happening in your life.
+
+---
+
+## owl  (`owl.md`)
+
+- Line 2: link **"bird"** -> `/dream/bird/`
+  > Owls have a strong presence in dreams. A silent bird on a branch, a pair of eyes watching from the dark, or a wing passing overhead can leave you with a sense of being observed. This article covers what owl dreams may mean, how a white or brown owl changes the reading, and what cultural and psychological traditions say about the bird, without making claims those traditions do not support.
+
+- Line 11: link **"Flying"** -> `/dream/flying/`
+  > | Flying or hunting | Focus and timing | Is this the moment to act quietly and precisely? |
+
+- Line 50: link **"death"** -> `/dream/death/`
+  > Other traditions connect owl calls or sightings with omens, sometimes of bad news or death. These beliefs vary widely between regions and communities, and they are cultural readings rather than tested findings. If you hold one of these beliefs, it is worth considering how it shapes the way you feel about the dream.
 
 ---
 
