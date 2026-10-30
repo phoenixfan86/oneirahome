@@ -1,7 +1,7 @@
 # Internal Linking Suggestions
-Generated: 2026-10-21T15:39:07.010Z
+Generated: 2026-10-30T10:25:40.536Z
 
-47 suggestion(s) across 26 article(s). Nothing has been changed — apply these manually.
+48 suggestion(s) across 29 article(s). Nothing has been changed — apply these manually.
 
 ---
 
@@ -9,22 +9,6 @@ Generated: 2026-10-21T15:39:07.010Z
 
 - Line 48: link **"Being trapped"** -> `/dream/being-trapped/`
   > Depth psychology interprets the earth as the realm of the unconscious. Being trapped beneath it implies that buried emotions-such as long-held anger, grief, or denied desires-are overwhelming your conscious mind. When you suppress fundamental feelings for too long, they can manifest as stifling subterranean pressure in your night visions.
-
----
-
-## being trapped  (`being-trapped.md`)
-
-- Line 10: link **"maze"** -> `/dream/maze/`
-  > Variations such as being locked in a small room, trapped in a vehicle, or stuck in a maze spotlight specific emotional pressures. Each distinct setting mirrors a different source of waking helplessness.
-
-- Line 13: link **"Elevator"** -> `/dream/elevator/`
-  > * **Trapped in an Elevator or Sinking Vehicle:** Mechanical confinement scenarios commonly align with feelings of rapid, uncontrollable life transitions. An elevator stuck between floors or a car submerged in water can reflect anxieties about losing control over your direction, career trajectory, or emotional equilibrium.
-
-- Line 13: link **"water"** -> `/dream/water/`
-  > * **Trapped in an Elevator or Sinking Vehicle:** Mechanical confinement scenarios commonly align with feelings of rapid, uncontrollable life transitions. An elevator stuck between floors or a car submerged in water can reflect anxieties about losing control over your direction, career trajectory, or emotional equilibrium.
-
-- Line 15: link **"sleep paralysis"** -> `/dream/sleep-paralysis/`
-  > * **Physically Immobilized or Held Down:** Being unable to move your limbs while conscious in a dream often connects to sleep paralysis physiology, but psychologically it underscores an acute waking sense of utter powerlessness against a looming problem.
 
 ---
 
@@ -66,10 +50,41 @@ Generated: 2026-10-21T15:39:07.010Z
 
 ---
 
+## losing a pet  (`losing-a-pet.md`)
+
+- Line 32: link **"death"** -> `/dream/death/`
+  > A pet that dies in a dream is one of the most painful versions, and it often connects to grief. If your animal has died in real life, the dream may be a way of revisiting that loss, especially if you have not yet had space to feel it. If the animal is alive, a dream about its death can reflect fear of losing something precious or a sense that a stage of life is ending. Many interpreters also note that these dreams can help process guilt or unfinished feelings about a goodbye.
+
+---
+
 ## missing a flight  (`missing-a-flight.md`)
 
 - Line 16: link **"maze"** -> `/dream/maze/`
   > - **Getting lost in the terminal:** Endless corridors, wrong gates, broken escalators - this dream isn't about missing the destination. It's about confusion around the path to get there. You know where you want to go, but the route is a maze, and you can't figure out which way to turn.
+
+---
+
+## money  (`money.md`)
+
+- Line 42: link **"poop"** -> `/dream/poop/`
+  > There is a popular saying that dreaming of poop means money is coming. It is a folk belief, not a tested interpretation. If you have heard it, treat it as a cultural tradition, and do not use it to make financial decisions.
+
+---
+
+## moving to a new house  (`moving-to-a-new-house.md`)
+
+- Line 22: link **"money"** -> `/dream/money/`
+  > A cramped or shabby new home can point to feeling limited: stressed about money, stuck in a situation, or aware that you have lost some sense of status. It can also be read as a wish to simplify, to clear away distractions and get back to basics. Which reading fits depends on how you felt in the dream and what is happening in your life.
+
+---
+
+## poop  (`poop.md`)
+
+- Line 18: link **"mirror"** -> `/dream/mirror/`
+  > Finding poop all over a room, a floor, or your clothes often reflects a sense that things have gotten out of control. The mess in the dream can mirror a disorganized routine, a relationship that feels messy, or responsibilities piling up faster than you can clear them.
+
+- Line 32: link **"Dog"** -> `/dream/dog/`
+  > Dog poop is a smaller, everyday version of this theme. It often reflects minor irritations, or a responsibility for someone close to you, such as a pet, a child, or a partner, that has become a chore. The image may look trivial, but the feeling in the dream is usually what matters.
 
 ---
 
