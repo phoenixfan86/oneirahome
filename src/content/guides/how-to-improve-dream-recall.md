@@ -10,7 +10,7 @@ edited: false
 qcIssues: []
 ---
 
-# How to Actually Remember Your Dreams
+## How to Actually Remember Your Dreams
 
 Here's a wild fact: adults spend about two hours every night dreaming. That's a whole movie's worth of weird landscapes, emotional rollercoasters, and bizarre scenarios playing out in your head while you snooze. But then morning comes, and poof-you remember maybe a fuzzy fragment, or nothing at all. Sound familiar?
 

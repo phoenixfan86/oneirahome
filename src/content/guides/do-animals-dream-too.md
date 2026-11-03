@@ -10,7 +10,7 @@ edited: false
 qcIssues: []
 ---
 
-# Do Animals Dream? Here's What the Science Actually Says.
+## Do Animals Dream? Here's What the Science Actually Says.
 
 If you've ever watched your dog twitch its paws, let out a muffled little bark, or move its eyes around behind closed lids, you've probably wondered: is my dog dreaming? And honestly, that's a question humans have been asking for centuries.
 
