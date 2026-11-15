@@ -1,8 +1,8 @@
 ---
-title: "Being Trapped: Dream Meaning: What Does It Mean?"
-h1: "What Does It Mean to Dream About Being Trapped?"
+title: "Dreams About Being Trapped - What Does It Mean?"
+h1: "Dreams about being trapped - how to interpret them?"
 symbol: "being trapped"
-description: "Explore what dreams of being trapped reveal about feelings of restriction, powerlessness, life transitions, and emotional boundaries."
+description: "Discover what dreams about being trapped may reveal about feelings of restriction, powerlessness, life transitions, and the emotional boundaries shaping your waking life."
 img: "/img/dreams-about-being-trapped.webp"
 category: "events"
 tags: []
