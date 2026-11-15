@@ -35,7 +35,7 @@ Several factors shape which dreams you keep:
 - **How often you wake.** Research by Schredl links higher dream recall with more frequent brief awakenings during the night. Even short arousals can leave a dream behind.
 - **Your attitude.** Schredl and Göritz (2017) found that dream recall frequency is linked with attitude toward dreams and with personality traits in the Big Five model. People who are curious about dreams tend to recall more.
 - **Your day.** Stress and tiredness have been associated with recall in research on non-student samples.
-- **Emotion.** Nightmares are often easier to recall than calm dreams. They wake you abruptly and leave a strong feeling that the memory holds on to.
+- **Emotion.** [Nightmares](/dream/nightmare/) are often easier to recall than calm dreams. They wake you abruptly and leave a strong feeling that the memory holds on to.
 
 If you remember only bad dreams, that usually reflects the way the brain stores strong emotions and abrupt awakenings, not a sign that your other dreams are missing.
 
@@ -59,8 +59,6 @@ You can use the [dream journal](/journal/) on this site, which stores entries pr
 
 Forgetting dreams is usually not a medical concern. But if you wake often during the night, feel unrested, snore loudly, stop breathing during sleep, or feel very sleepy during the day, talk with a doctor or a sleep specialist. Sleep disruption can change recall, and sleep problems are worth evaluating in their own right.
 
-Our [support resources page](/resources/) lists places to start.
-
 ## Why Dreams Feel Different in the Morning
 
 Sometimes a dream seems clear for a moment and then fades into a feeling. That feeling may still carry the emotional tone of the dream even when the story is gone. Research on dream content suggests that dreams generally reflect what matters to a person in waking life (see the Sources). So a dream you cannot recall may still be connected to what you are dealing with, even if you cannot describe it.
@@ -74,7 +72,7 @@ Sometimes a dream seems clear for a moment and then fades into a feeling. That f
 ## Sources
 
 - Schredl, M. (2019). Increased awakenings from non-REM sleep explain differences in dream recall frequency in healthy individuals. *Frontiers in Human Neuroscience*. https://doi.org/10.3389/fnhum.2019.00370
-- Schredl, M., & Göritz, A. S. (2017). Dream recall frequency, attitude toward dreams, and the Big Five personality factors. *Dreaming, 27*(1), 49–58. Перевірте вихідні дані.
+- Schredl, M., & Göritz, A. S. (2017). Dream recall frequency, attitude toward dreams, and the Big Five personality factors. *Dreaming, 27*(1), 49–58.
 - Schredl, M., Erlacher, D., Reiner, M., & Woll, A. (2014). Factors of home dream recall and nightmare frequency in a non-student sample. *International Journal of Dream Research*.
 - The Scientist. Why do people sometimes forget their dreams?
 - Domhoff, G. W. (2003). *The scientific study of dreams: Neural networks, cognitive development, and content.* American Psychological Association. Online: dreams.ucsc.edu.
