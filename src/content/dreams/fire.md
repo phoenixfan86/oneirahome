@@ -1,7 +1,7 @@
 ---
-title: "Dreaming About Fire? Here's What It's Really Igniting"
+title: "Fire Dream Meaning - Here's What It's Really Mean"
 symbol: "fire"
-description: "From a burning house to fireworks and fire you can't put out — here's what every common fire dream scenario may reflect about your emotional state right now."
+description: "Explore the fire dream meaning, from a burning house to fireworks and flames you can't put out, and discover what these common dream scenarios may reveal about your emotional state right now."
 img: "/img/dreams-about-fire.webp"
 category: "nature"
 tags: ["passion", "destruction", "transformation", "anger"]
@@ -15,7 +15,7 @@ faq:
   - question: "What does it mean if fire doesn't burn you in a dream?"
     answer: "Standing in or near fire without being harmed often reflects resilience — a sense that you can withstand an intense situation in waking life without being destroyed by it."
 pubDate: 2026-08-24
-updatedDate: 2026-10-06
+updatedDate: 2026-11-15
 draft: false
 source: "manual"
 edited: true
