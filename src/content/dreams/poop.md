@@ -1,5 +1,6 @@
 ---
 title: "Dreaming of Poop? What It May Mean, From Embarrassment to Letting Go"
+h1: "Dreaming of poop meaning"
 symbol: "poop"
 description: "Dreaming of poop? Learn what it may mean, from pooping in public to poop everywhere, and why these dreams often relate to control, embarrassment, and letting go."
 img: "/img/dreams-about-poop.webp"
