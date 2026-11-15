@@ -146,812 +146,812 @@ declare module 'astro:content' {
   slug: "airplane";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "aliens.md": {
 	id: "aliens.md";
   slug: "aliens";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "american-football.md": {
 	id: "american-football.md";
   slug: "american-football";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "angel.md": {
 	id: "angel.md";
   slug: "angel";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "baby.md": {
 	id: "baby.md";
   slug: "baby";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "bear.md": {
 	id: "bear.md";
   slug: "bear";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "bees.md": {
 	id: "bees.md";
   slug: "bees";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-betrayed-by-a-friend.md": {
 	id: "being-betrayed-by-a-friend.md";
   slug: "being-betrayed-by-a-friend";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-buried-alive.md": {
 	id: "being-buried-alive.md";
   slug: "being-buried-alive";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-chased.md": {
 	id: "being-chased.md";
   slug: "being-chased";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-invisible.md": {
 	id: "being-invisible.md";
   slug: "being-invisible";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-late.md": {
 	id: "being-late.md";
   slug: "being-late";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "being-trapped.md": {
 	id: "being-trapped.md";
   slug: "being-trapped";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "bird.md": {
 	id: "bird.md";
   slug: "bird";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "blood.md": {
 	id: "blood.md";
   slug: "blood";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "bridge.md": {
 	id: "bridge.md";
   slug: "bridge";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "broken-glass.md": {
 	id: "broken-glass.md";
   slug: "broken-glass";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "butterfly.md": {
 	id: "butterfly.md";
   slug: "butterfly";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "car-accident.md": {
 	id: "car-accident.md";
   slug: "car-accident";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "cat.md": {
 	id: "cat.md";
   slug: "cat";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "cave.md": {
 	id: "cave.md";
   slug: "cave";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "celebrity.md": {
 	id: "celebrity.md";
   slug: "celebrity";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "cheating-partner.md": {
 	id: "cheating-partner.md";
   slug: "cheating-partner";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "clock.md": {
 	id: "clock.md";
   slug: "clock";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "cockroach.md": {
 	id: "cockroach.md";
   slug: "cockroach";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "crying.md": {
 	id: "crying.md";
   slug: "crying";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "dancing.md": {
 	id: "dancing.md";
   slug: "dancing";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "death.md": {
 	id: "death.md";
   slug: "death";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "deceased-parent.md": {
 	id: "deceased-parent.md";
   slug: "deceased-parent";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "demon.md": {
 	id: "demon.md";
   slug: "demon";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "desert.md": {
 	id: "desert.md";
   slug: "desert";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "divorce.md": {
 	id: "divorce.md";
   slug: "divorce";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "dog.md": {
 	id: "dog.md";
   slug: "dog";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "door.md": {
 	id: "door.md";
   slug: "door";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "drowning.md": {
 	id: "drowning.md";
   slug: "drowning";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "earthquake.md": {
 	id: "earthquake.md";
   slug: "earthquake";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "elevator.md": {
 	id: "elevator.md";
   slug: "elevator";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "ex.md": {
 	id: "ex.md";
   slug: "ex";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "failing-an-exam.md": {
 	id: "failing-an-exam.md";
   slug: "failing-an-exam";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "falling-from-a-building.md": {
 	id: "falling-from-a-building.md";
   slug: "falling-from-a-building";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "falling.md": {
 	id: "falling.md";
   slug: "falling";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "fire.md": {
 	id: "fire.md";
   slug: "fire";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "fish.md": {
 	id: "fish.md";
   slug: "fish";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "flat-tire.md": {
 	id: "flat-tire.md";
   slug: "flat-tire";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "flood.md": {
 	id: "flood.md";
   slug: "flood";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "flying.md": {
 	id: "flying.md";
   slug: "flying";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "forest.md": {
 	id: "forest.md";
   slug: "forest";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "ghost.md": {
 	id: "ghost.md";
   slug: "ghost";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "giving-birth.md": {
 	id: "giving-birth.md";
   slug: "giving-birth";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "hair-falling-out.md": {
 	id: "hair-falling-out.md";
   slug: "hair-falling-out";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "halloween.md": {
 	id: "halloween.md";
   slug: "halloween";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "haunted-house.md": {
 	id: "haunted-house.md";
   slug: "haunted-house";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "having-superpowers.md": {
 	id: "having-superpowers.md";
   slug: "having-superpowers";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "horse.md": {
 	id: "horse.md";
   slug: "horse";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "hospital.md": {
 	id: "hospital.md";
   slug: "hospital";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "house.md": {
 	id: "house.md";
   slug: "house";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "island.md": {
 	id: "island.md";
   slug: "island";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "job-interview.md": {
 	id: "job-interview.md";
   slug: "job-interview";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "keys.md": {
 	id: "keys.md";
   slug: "keys";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "king-or-queen.md": {
 	id: "king-or-queen.md";
   slug: "king-or-queen";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "kissing.md": {
 	id: "kissing.md";
   slug: "kissing";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "laughing.md": {
 	id: "laughing.md";
   slug: "laughing";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "lion.md": {
 	id: "lion.md";
   slug: "lion";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "losing-a-job.md": {
 	id: "losing-a-job.md";
   slug: "losing-a-job";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "losing-a-pet.md": {
 	id: "losing-a-pet.md";
   slug: "losing-a-pet";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "losing-a-phone.md": {
 	id: "losing-a-phone.md";
   slug: "losing-a-phone";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "losing-a-wallet.md": {
 	id: "losing-a-wallet.md";
   slug: "losing-a-wallet";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "maze.md": {
 	id: "maze.md";
   slug: "maze";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "mirror.md": {
 	id: "mirror.md";
   slug: "mirror";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "missing-a-flight.md": {
 	id: "missing-a-flight.md";
   slug: "missing-a-flight";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "money.md": {
 	id: "money.md";
   slug: "money";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "monster.md": {
 	id: "monster.md";
   slug: "monster";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "moon.md": {
 	id: "moon.md";
   slug: "moon";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "mountain.md": {
 	id: "mountain.md";
   slug: "mountain";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "mouse.md": {
 	id: "mouse.md";
   slug: "mouse";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "moving-to-a-new-house.md": {
 	id: "moving-to-a-new-house.md";
   slug: "moving-to-a-new-house";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "naked-in-public.md": {
 	id: "naked-in-public.md";
   slug: "naked-in-public";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "nightmare.md": {
 	id: "nightmare.md";
   slug: "nightmare";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "ocean.md": {
 	id: "ocean.md";
   slug: "ocean";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "owl.md": {
 	id: "owl.md";
   slug: "owl";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "plane-crash.md": {
 	id: "plane-crash.md";
   slug: "plane-crash";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "poop.md": {
 	id: "poop.md";
   slug: "poop";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "pregnancy.md": {
 	id: "pregnancy.md";
   slug: "pregnancy";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "prison.md": {
 	id: "prison.md";
   slug: "prison";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "public-speaking.md": {
 	id: "public-speaking.md";
   slug: "public-speaking";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "quicksand.md": {
 	id: "quicksand.md";
   slug: "quicksand";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "rain.md": {
 	id: "rain.md";
   slug: "rain";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "rainbow.md": {
 	id: "rainbow.md";
   slug: "rainbow";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "running-but-not-moving.md": {
 	id: "running-but-not-moving.md";
   slug: "running-but-not-moving";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "school.md": {
 	id: "school.md";
   slug: "school";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "sex.md": {
 	id: "sex.md";
   slug: "sex";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "shark.md": {
 	id: "shark.md";
   slug: "shark";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "shipwreck.md": {
 	id: "shipwreck.md";
   slug: "shipwreck";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "shoes.md": {
 	id: "shoes.md";
   slug: "shoes";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "singing.md": {
 	id: "singing.md";
   slug: "singing";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "sleep-paralysis.md": {
 	id: "sleep-paralysis.md";
   slug: "sleep-paralysis";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "snake.md": {
 	id: "snake.md";
   slug: "snake";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "spider-web.md": {
 	id: "spider-web.md";
   slug: "spider-web";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "spider.md": {
 	id: "spider.md";
   slug: "spider";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "storm.md": {
 	id: "storm.md";
   slug: "storm";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "stranger.md": {
 	id: "stranger.md";
   slug: "stranger";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "taking-an-exam.md": {
 	id: "taking-an-exam.md";
   slug: "taking-an-exam";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "teeth-falling-out.md": {
 	id: "teeth-falling-out.md";
   slug: "teeth-falling-out";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "tiger.md": {
 	id: "tiger.md";
   slug: "tiger";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "time-travel.md": {
 	id: "time-travel.md";
   slug: "time-travel";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "tornado.md": {
 	id: "tornado.md";
   slug: "tornado";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "tsunami.md": {
 	id: "tsunami.md";
   slug: "tsunami";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "turtle.md": {
 	id: "turtle.md";
   slug: "turtle";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "twins.md": {
 	id: "twins.md";
   slug: "twins";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "volcano.md": {
 	id: "volcano.md";
   slug: "volcano";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "water.md": {
 	id: "water.md";
   slug: "water";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "wedding.md": {
 	id: "wedding.md";
   slug: "wedding";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "whale.md": {
 	id: "whale.md";
   slug: "whale";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "winning-the-lottery.md": {
 	id: "winning-the-lottery.md";
   slug: "winning-the-lottery";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "wolf.md": {
 	id: "wolf.md";
   slug: "wolf";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 "zombie.md": {
 	id: "zombie.md";
   slug: "zombie";
   body: string;
   collection: "dreams";
-  data: any
+  data: InferEntrySchema<"dreams">
 } & { render(): Render[".md"] };
 };
 "guides": {
@@ -960,126 +960,126 @@ declare module 'astro:content' {
   slug: "difference-between-a-dream-a-nightmare-and-a-night-terror";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "do-animals-dream-too.md": {
 	id: "do-animals-dream-too.md";
   slug: "do-animals-dream-too";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "dreams-us-vs-uk.md": {
 	id: "dreams-us-vs-uk.md";
   slug: "dreams-us-vs-uk";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "false-awakenings-loop-dreams.md": {
 	id: "false-awakenings-loop-dreams.md";
   slug: "false-awakenings-loop-dreams";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "false-awakenings-why-they-happen.md": {
 	id: "false-awakenings-why-they-happen.md";
   slug: "false-awakenings-why-they-happen";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "full-moon-and-dreams.md": {
 	id: "full-moon-and-dreams.md";
   slug: "full-moon-and-dreams";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "how-to-improve-dream-recall.md": {
 	id: "how-to-improve-dream-recall.md";
   slug: "how-to-improve-dream-recall";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "how-to-lucid-dream.md": {
 	id: "how-to-lucid-dream.md";
   slug: "how-to-lucid-dream";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "how-to-recognize-dream-signs.md": {
 	id: "how-to-recognize-dream-signs.md";
   slug: "how-to-recognize-dream-signs";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "morning-lark-or-night-owl-the-science-of-chronotypes.md": {
 	id: "morning-lark-or-night-owl-the-science-of-chronotypes.md";
   slug: "morning-lark-or-night-owl-the-science-of-chronotypes";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "reality-checks-for-lucid-dreaming-which-ones-work.md": {
 	id: "reality-checks-for-lucid-dreaming-which-ones-work.md";
   slug: "reality-checks-for-lucid-dreaming-which-ones-work";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "sleep-debt-and-can-you-actually-catch-up-on-sleep.md": {
 	id: "sleep-debt-and-can-you-actually-catch-up-on-sleep.md";
   slug: "sleep-debt-and-can-you-actually-catch-up-on-sleep";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "snake-dreams-worldwide.md": {
 	id: "snake-dreams-worldwide.md";
   slug: "snake-dreams-worldwide";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "wake-back-to-bed-wbtb-technique.md": {
 	id: "wake-back-to-bed-wbtb-technique.md";
   slug: "wake-back-to-bed-wbtb-technique";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "what-causes-recurring-dreams-and-nightmares.md": {
 	id: "what-causes-recurring-dreams-and-nightmares.md";
   slug: "what-causes-recurring-dreams-and-nightmares";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "what-is-sleep-paralysis-causes-and-symptoms.md": {
 	id: "what-is-sleep-paralysis-causes-and-symptoms.md";
   slug: "what-is-sleep-paralysis-causes-and-symptoms";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "why-do-we-dream-the-science-behind-dreaming.md": {
 	id: "why-do-we-dream-the-science-behind-dreaming.md";
   slug: "why-do-we-dream-the-science-behind-dreaming";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 "why-people-are-dreaming-about-ai.md": {
 	id: "why-people-are-dreaming-about-ai.md";
   slug: "why-people-are-dreaming-about-ai";
   body: string;
   collection: "guides";
-  data: any
+  data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
 };
 
@@ -1095,77 +1095,77 @@ declare module 'astro:content' {
 "animals-top-1": {
 	id: "animals-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "animals-top-2": {
 	id: "animals-top-2";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "animals-top-3": {
 	id: "animals-top-3";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "body-top-1": {
 	id: "body-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "events-top-1": {
 	id: "events-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "events-top-2": {
 	id: "events-top-2";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "events-top-3": {
 	id: "events-top-3";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "nature-top-1": {
 	id: "nature-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "nature-top-2": {
 	id: "nature-top-2";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "nature-top-3": {
 	id: "nature-top-3";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "objects-top-1": {
 	id: "objects-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "people-top-1": {
 	id: "people-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "people-top-2": {
 	id: "people-top-2";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "places-top-1": {
 	id: "places-top-1";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 "places-top-2": {
 	id: "places-top-2";
   collection: "roundups";
-  data: any
+  data: InferEntrySchema<"roundups">
 };
 };
 
@@ -1173,5 +1173,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("./../../src/content/config.js");
 }
