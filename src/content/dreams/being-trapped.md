@@ -14,6 +14,7 @@ faq:
   - question: "Can dreams about entrapment indicate relationship problems?"
     answer: "Yes, feeling physically restricted in dreams often mirrors relational dynamics where you feel emotionally suffocated, controlled, or unable to express your true needs."
 pubDate: 2026-10-21
+updatedDate: 2026-11-15
 draft: false
 source: "gemini-3.7-flash"
 edited: false
