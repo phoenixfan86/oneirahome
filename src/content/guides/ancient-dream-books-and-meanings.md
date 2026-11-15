@@ -66,7 +66,7 @@ If you read an ancient dream book, treat it as a window into the past. Ask what 
 
 ## Sources
 
-- Oppenheim, A. L. (1956). *The interpretation of dreams in the ancient near east.* Transactions of the American Philosophical Society, 46(3). Перевірте вихідні дані перед публікацією.
+- Oppenheim, A. L. (1956). *The interpretation of dreams in the ancient near east.* Transactions of the American Philosophical Society, 46(3).
 - Artemidorus. *The Interpretation of Dreams (Oneirocritica)*, trans. R. J. White. Noyes Press, 1975.
-- Gardiner, A. H. (1935). *Hieratic papyri in the British Museum.* Перевірте, чи саме це видання цитує ваше джерело про Chester Beatty III.
+- Gardiner, A. H. (1935). *Hieratic papyri in the British Museum.*
 - Domhoff, G. W. (2003). *The scientific study of dreams: Neural networks, cognitive development, and content.* American Psychological Association. Online: dreams.ucsc.edu.

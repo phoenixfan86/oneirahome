@@ -15,7 +15,7 @@ export const getStaticPaths = (async ({ paginate }) => {
       b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
   );
 
-  return paginate(sorted, { pageSize: 20 });
+  return paginate(sorted, { pageSize: 7 });
 }) satisfies GetStaticPaths;
 
 interface Props {

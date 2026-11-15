@@ -1025,6 +1025,13 @@ declare module 'astro:content' {
   collection: "guides";
   data: InferEntrySchema<"guides">
 } & { render(): Render[".md"] };
+"is-it-normal-not-to-dream.md": {
+	id: "is-it-normal-not-to-dream.md";
+  slug: "is-it-normal-not-to-dream";
+  body: string;
+  collection: "guides";
+  data: InferEntrySchema<"guides">
+} & { render(): Render[".md"] };
 "morning-lark-or-night-owl-the-science-of-chronotypes.md": {
 	id: "morning-lark-or-night-owl-the-science-of-chronotypes.md";
   slug: "morning-lark-or-night-owl-the-science-of-chronotypes";
@@ -1070,6 +1077,13 @@ declare module 'astro:content' {
 "what-is-sleep-paralysis-causes-and-symptoms.md": {
 	id: "what-is-sleep-paralysis-causes-and-symptoms.md";
   slug: "what-is-sleep-paralysis-causes-and-symptoms";
+  body: string;
+  collection: "guides";
+  data: InferEntrySchema<"guides">
+} & { render(): Render[".md"] };
+"why-do-i-forget-my-dreams.md": {
+	id: "why-do-i-forget-my-dreams.md";
+  slug: "why-do-i-forget-my-dreams";
   body: string;
   collection: "guides";
   data: InferEntrySchema<"guides">
