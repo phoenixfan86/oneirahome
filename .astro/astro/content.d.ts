@@ -955,6 +955,13 @@ declare module 'astro:content' {
 } & { render(): Render[".md"] };
 };
 "guides": {
+"ancient-dream-books-and-meanings.md": {
+	id: "ancient-dream-books-and-meanings.md";
+  slug: "ancient-dream-books-and-meanings";
+  body: string;
+  collection: "guides";
+  data: InferEntrySchema<"guides">
+} & { render(): Render[".md"] };
 "difference-between-a-dream-a-nightmare-and-a-night-terror.md": {
 	id: "difference-between-a-dream-a-nightmare-and-a-night-terror.md";
   slug: "difference-between-a-dream-a-nightmare-and-a-night-terror";
