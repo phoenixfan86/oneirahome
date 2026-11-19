@@ -13,6 +13,7 @@ faq:
   - question: "Why do I dream about failing or fumbling during a game?"
     answer: "Fumbling or losing in a dream typically points to a fear of letting others down, particularly in situations where you feel responsible for a team, group, or shared outcome."
 pubDate: 2026-09-28
+updatedDate: 2026-11-19
 draft: false
 source: "manual"
 edited: true

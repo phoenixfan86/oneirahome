@@ -14,6 +14,7 @@ faq:
   - question: "Are Halloween-themed dreams more meaningful than other dreams?"
     answer: "Not inherently - the symbols themselves (zombies, ghosts, monsters) carry the same psychological meaning they would any other time of year. The Halloween setting is mostly a reflection of what's culturally top-of-mind, not a separate category of meaning."
 pubDate: 2026-09-28
+updatedDate: 2026-11-19
 draft: false
 source: "manual"
 edited: true

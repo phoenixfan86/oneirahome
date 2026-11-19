@@ -15,6 +15,7 @@ faq:
   - question: "Does a job interview dream predict whether I will get the job?"
     answer: "No. Dreams are not reliable predictions of real outcomes. A dream about an interview is better read as a prompt to look at how you feel about being evaluated right now."
 pubDate: 2026-10-14
+updatedDate: 2026-11-19
 draft: false
 source: "manual"
 edited: true
@@ -49,7 +50,7 @@ Showing up without your resume, late, or without the knowledge you need is one o
 
 ### Impressing the Interviewers
 
-Answering questions easily and seeing the panel respond well often reflects rising confidence. It can suggest that you recognize your own abilities and are ready for more responsibility. The dream is a sign of self-trust, not a guarantee of any outcome in waking life.
+Answering questions easily and seeing the panel respond well often reflects rising confidence. It can suggest that you recognize your own abilities and are ready for more responsibility. The dream is a sign of self-trust, not a guarantee of any outcome in waking life. A similar fear of losing footing shows up in dreams of a [fall from a high building](/dream/falling-from-a-building/), where the height often stands for status and career.
 
 ### Facing a Cold or Aggressive Panel
 
@@ -73,7 +74,7 @@ Evaluation dreams are also a well-known category in dream research. School and e
 
 Carl Jung described the persona, the social mask a person presents to others. The persona is useful for everyday functioning, but over-identifying with it can create anxiety, because the person begins to worry that the mask is not the real self. Interview dreams are often read in this framework: the scrutiny in the dream may represent the gap between how you appear professionally and how you feel inside.
 
-Impostor syndrome, the sense that your accomplishments are less solid than others believe, is another common lens. An interview dream can dramatize that fear by placing the achievement under direct questioning. These are interpretive frameworks rather than experimentally tested explanations, so they are best used as questions to test against your own life.
+Impostor syndrome, the sense that your accomplishments are less solid than others believe, is another common lens. An interview dream can dramatize that fear by placing the achievement under direct questioning. These are interpretive frameworks rather than experimentally tested explanations, so they are best used as questions to test against your own life. Anxiety about a shaky career position can also appear as a [dream about falling from a building](/dream/falling-from-a-building/).
 
 ## When the Dream Keeps Coming Back
 
