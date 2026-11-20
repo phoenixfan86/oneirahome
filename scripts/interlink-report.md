@@ -1,11 +1,21 @@
 # Internal Linking Suggestions
-Generated: 2026-10-30T10:55:08.089Z
+Generated: 2026-11-20T20:05:29.283Z
 
-50 suggestion(s) across 29 article(s). Nothing has been changed — apply these manually.
+58 suggestion(s) across 33 article(s). Nothing has been changed — apply these manually.
+
+---
+
+## being betrayed by a friend  (`being-betrayed-by-a-friend.md`)
+
+- Line 34: link **"nightmare"** -> `/dream/nightmare/`
+  > When you shift the spotlight from "what did *they* do?" to "what am I feeling?", that unsettling dream becomes less of a nightmare and more of a nudge toward self-awareness and growth.
 
 ---
 
 ## being buried alive  (`being-buried-alive.md`)
+
+- Line 2: link **"nightmare"** -> `/dream/nightmare/`
+  > Few dreams jolt you awake quite like this one. Being buried alive is one of the most physically intense dream scenarios there is - the crushing weight, the inability to breathe, the panic of not being able to move. It's easy to wake up and want to shake it off immediately, but this particular nightmare tends to carry a fairly specific message once you look past the shock of it.
 
 - Line 48: link **"Being trapped"** -> `/dream/being-trapped/`
   > Depth psychology interprets the earth as the realm of the unconscious. Being trapped beneath it implies that buried emotions-such as long-held anger, grief, or denied desires-are overwhelming your conscious mind. When you suppress fundamental feelings for too long, they can manifest as stifling subterranean pressure in your night visions.
@@ -64,6 +74,13 @@ Generated: 2026-10-30T10:55:08.089Z
 
 ---
 
+## monster  (`monster.md`)
+
+- Line 10: link **"nightmare"** -> `/dream/nightmare/`
+  > - **[Being chased](/dream/being-chased/) by a creature:** This is the classic nightmare setup, and it usually means you're running from something in real life. Maybe it's a conversation you're avoiding, a decision you keep putting off, or emotions like grief or anger that you're shoving down. The closer the creature gets, the more urgent the issue is becoming - your subconscious is basically saying, *"You can't outrun this forever."*
+
+---
+
 ## moving to a new house  (`moving-to-a-new-house.md`)
 
 - Line 22: link **"money"** -> `/dream/money/`
@@ -71,16 +88,23 @@ Generated: 2026-10-30T10:55:08.089Z
 
 ---
 
-## owl  (`owl.md`)
+## nightmare  (`nightmare.md`)
 
-- Line 2: link **"bird"** -> `/dream/bird/`
-  > Owls have a strong presence in dreams. A silent bird on a branch, a pair of eyes watching from the dark, or a wing passing overhead can leave you with a sense of being observed. This article covers what owl dreams may mean, how a white or brown owl changes the reading, and what cultural and psychological traditions say about the bird, without making claims those traditions do not support.
+- Line 8: link **"monster"** -> `/dream/monster/`
+  > The useful question is rarely "what does this monster or disaster mean?" It is more often "what did I feel when I woke up, and what is causing that feeling right now?"
+
+- Line 22: link **"Being chased"** -> `/dream/being-chased/`
+  > Being chased is one of the most common nightmare scenarios. It is often read as feeling pursued by a problem, a person, or a responsibility you cannot easily escape. The question is what you are running from, and whether it is something you can face directly, even in small steps.
+
+- Line 26: link **"falling"** -> `/dream/falling/`
+  > Teeth falling out is a classic nightmare theme. It is often associated with anxiety about control, appearance, or a loss of something important. Some people report that the dream returns during periods of stress or when they are preparing for a significant change. The specific meaning depends on the details: whether the teeth crumble, fall in front of others, or simply slip out.
+
+---
+
+## owl  (`owl.md`)
 
 - Line 11: link **"Flying"** -> `/dream/flying/`
   > | Flying or hunting | Focus and timing | Is this the moment to act quietly and precisely? |
-
-- Line 50: link **"death"** -> `/dream/death/`
-  > Other traditions connect owl calls or sightings with omens, sometimes of bad news or death. These beliefs vary widely between regions and communities, and they are cultural readings rather than tested findings. If you hold one of these beliefs, it is worth considering how it shapes the way you feel about the dream.
 
 ---
 
@@ -134,6 +158,13 @@ Generated: 2026-10-30T10:55:08.089Z
 
 ---
 
+## shark  (`shark.md`)
+
+- Line 13: link **"nightmare"** -> `/dream/nightmare/`
+  > This is the classic nightmare setup. You're swimming for your life, and there's a dark shape closing in behind you. It usually means you're running from something-a confrontation, a tough decision, or an emotion you really don't want to face. The thing about sharks, though? They don't quit. And neither do the problems you're trying to outrun. Eventually, you have to turn around and deal with it.
+
+---
+
 ## shoes  (`shoes.md`)
 
 - Line 16: link **"falling"** -> `/dream/falling/`
@@ -152,6 +183,9 @@ Generated: 2026-10-30T10:55:08.089Z
 ---
 
 ## spider  (`spider.md`)
+
+- Line 4: link **"nightmare"** -> `/dream/nightmare/`
+  > Spiders get a bad rap. For some people, they're fascinating little architects. For others, they're pure nightmare fuel. Either way, when a spider shows up in your dream, it's rarely about the spider itself. It's about something deeper - like **control, creativity, fear, or feeling tangled up** in a situation you can't quite escape.
 
 - Line 12: link **"Being chased"** -> `/dream/being-chased/`
   > - **Being bitten or chased:** This one's more alarming. A spider bite in a dream often reflects feeling hurt or attacked by someone's words or actions in real life. It might point to a conflict that's left you feeling vulnerable, or a situation where you feel like you're being targeted. Being chased by a spider? That's usually about avoidance - you're running from something that's catching up with you.
@@ -197,6 +231,9 @@ Generated: 2026-10-30T10:55:08.089Z
 
 ## tornado  (`tornado.md`)
 
+- Line 14: link **"nightmare"** -> `/dream/nightmare/`
+  > - **Being swept up into the vortex:** This one's the nightmare. You're inside it - spinning, out of control, unable to find solid ground. It usually means life is throwing everything at you at once, and you're struggling to keep up. Maybe it's work, family, or something personal - but it's pulling you in every direction.
+
 - Line 16: link **"storm"** -> `/dream/storm/`
   > - **Seeking safety in a storm shelter:** Finding a basement or a reinforced room means you have coping strategies. Even though there's chaos around you, there are still safe places - people, routines, habits - that keep you grounded. The dream is reminding you they're there.
 
@@ -209,6 +246,9 @@ Generated: 2026-10-30T10:55:08.089Z
 
 - Line 6: link **"flood"** -> `/dream/flood/`
   > Here's the thing: that tsunami isn't some psychic warning about an actual flood. It's a reflection of something brewing inside you - emotions so damn big they feel like they could drown you. Water in dreams is almost always about feelings, and when that water becomes a giant, unstoppable wave, it usually means you're dealing with stress, grief, or anxiety that's finally hit a breaking point. It's your subconscious waving a red flag, saying, "Hey, this stuff is getting too heavy to carry alone."
+
+- Line 12: link **"nightmare"** -> `/dream/nightmare/`
+  > - **Being caught in the current**: This one's the real nightmare fuel. You're in the water, getting tossed around like laundry, unable to find solid footing. It mirrors waking life where outside pressure - work, family, the endless demands of just existing - has completely taken over. You're not steering the ship anymore; you're just fighting to keep your head above water, and it's draining you dry.
 
 - Line 22: link **"fire"** -> `/dream/fire/`
   > Modern psychology takes a similar but more practical angle. A tsunami in a dream is your brain's way of processing overwhelming emotional data during REM sleep. Think of it like running a fire drill for your feelings - letting you experience the fear in a safe environment so you can process it without real-world consequences. It's your mind's way of saying, "Let's practice this so you're not caught off guard when life gets heavy."
