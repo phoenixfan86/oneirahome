@@ -63,6 +63,6 @@ For the US and UK comparison, see [the US vs UK search data](/guides/dreams-us-v
 
 ## Sources
 
-- Morning Life (mornings.co.uk), "The Most Common Dream in Every Country," Sarah Anderson. Перевірте оригінал: дату збору даних і точні значення для Бразилії та Туреччини.
-- IFLScience, "These Are The Most Common Dreams, According To Google Data." Вторинне джерело, використано для обсягів пошуку в Бразилії та Туреччині.
+- Morning Life (mornings.co.uk), "The Most Common Dream in Every Country," Sarah Anderson.
+- IFLScience, "These Are The Most Common Dreams, According To Google Data."
 - Domhoff, G. W. (2003). *The scientific study of dreams: Neural networks, cognitive development, and content.* American Psychological Association.

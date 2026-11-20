@@ -78,5 +78,5 @@ For a broader introduction to dream recall and dream journals, see our [lucid dr
 
 - Schredl, M. (2019). Increased awakenings from non-REM sleep explain differences in dream recall frequency in healthy individuals. *Frontiers in Human Neuroscience*. https://doi.org/10.3389/fnhum.2019.00370
 - Schredl, M., & Göritz, A. S. (2017). Dream recall frequency, attitude toward dreams, and the Big Five personality factors. *Dreaming, 27*(1), 49–58.
-- Schredl, M., Erlacher, D., Reiner, M., & Woll, A. (2014). Factors of home dream recall and nightmare frequency in a non-student sample. *International Journal of Dream Research*. Перевірте вихідні дані.
+- Schredl, M., Erlacher, D., Reiner, M., & Woll, A. (2014). Factors of home dream recall and nightmare frequency in a non-student sample. *International Journal of Dream Research*.
 - The Scientist. Why do people sometimes forget their dreams?

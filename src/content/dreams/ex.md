@@ -98,5 +98,5 @@ Ex dreams that repeat for months or years often point to a need for closure. Ask
 ## Sources
 
 - Schredl, M., & Wood, L. C. (2021). Partners and ex-partners in dreams: A diary study. *Clocks & Sleep, 3*(2), 289–297. https://doi.org/10.3390/clockssleep3020018
-- Schredl, M. (2020). Partners and ex-partners in dreams: An online survey. *International Journal of Dream Research*. Перевірте номер тому й випуску перед публікацією.
+- Schredl, M. (2020). Partners and ex-partners in dreams: An online survey. *International Journal of Dream Research*.
 - Domhoff, G. W. (2003). *The scientific study of dreams: Neural networks, cognitive development, and content.* American Psychological Association.
