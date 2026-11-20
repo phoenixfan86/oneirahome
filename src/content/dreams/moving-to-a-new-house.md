@@ -50,7 +50,7 @@ Packing or unpacking boxes without end often reflects emotional baggage. You may
 
 ## Dreaming of Moving Out of a House
 
-Leaving a home behind in a dream can suggest letting go of a role, a routine, or a version of yourself that no longer fits. It can feel sad, relieving, or both. The emotion in the dream usually says more than the scenario does: relief may mean you are ready to leave something behind, while sadness may mean that the letting go is still hard.
+Leaving a home behind in a dream can suggest letting go of a role, a routine, or a version of yourself that no longer fits. It can feel sad, relieving, or both. The emotion in the dream usually says more than the scenario does: relief may mean you are ready to leave something behind, while sadness may mean that the letting go is still hard. Dreams of a house going up in flames are a different image, and our [fire dream interpretation](/dream/fire/) covers what burning can represent.
 
 ## Dream About Moving Into a New House
 
